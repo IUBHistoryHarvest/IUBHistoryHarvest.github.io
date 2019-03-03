@@ -1,0 +1,16 @@
+---
+title: "Items"
+layout: default
+permalink: "/items"
+---
+
+<h1>View All History Harvest Artifacts</h1>
+
+<div class="row listrecent"> 
+{% assign pages_list = docs %}
+{% for item in site.items %}
+{% if item.shortdesc != null %}
+{% include itembox.html %}
+{% endif %}
+{% endfor %}
+</div>    
