@@ -4,8 +4,9 @@ title: Primary Checkered Old Skool Vans
 comments: false
 itemid: "2019-03-01-ID001"
 author: kalani
+contributor: heather
 shortdesc: "I brought these shoes to campus because they gripped my razor scooter well, which I used to go to classes when the weather was nice."
-categories: [ Practical, Sentimental, General ]
+categories: [ Sentimental ]
 ---
 
 Vans are a staple shoe for most skaters. Their waffle sole makes it very useful when gripping the board. I brought these shoes to campus because they gripped my razor scooter well, which I used to go to classes when the weather was nice.

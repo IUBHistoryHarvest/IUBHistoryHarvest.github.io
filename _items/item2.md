@@ -4,8 +4,9 @@ title: Feminist Pins
 comments: false
 itemid: "2019-03-01-ID002"
 author: kalani
+contributor: zoe
 shortdesc: "These feminist pins reflect the opinions of the mainstream intersectional feminist movements in the United States in the early 21st century."
-categories: [ Practical, Sentimental, General ]
+categories: [ Practical ]
 ---
 
 Political buttons were an idea that originated in America after democracy was established. Pins first began as celebratory pieces of cloth as a way to celebrate whatever candidate had been elected for office. Pins began to be used as political propaganda when Andrew Jackson and John Quincy Adams ran against each other in 1824 and 1828. Grassroots political organization became very influential during those elections, and they took advantage of how easy it was to mass produce political buttons. The political buttons were referred to as pins after they were painted and the clasp on the back was replaced with a pin in 1916. 

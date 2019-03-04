@@ -22,6 +22,18 @@
     
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
     
+{% if item.itemid %}
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
+<meta name="DC.Title" content="{{ item.title }}">
+<meta name="DC.Creator" content="{{ page.author }}">
+<meta name="DC.Description" content="{{ item.shortdesc }}">
+<meta name="DC.Contributor" content="{{ item.contributor }}">
+<meta name="DC.Date" content="HarvestDate">
+<meta name="DC.Format" content="JPG">
+<meta name="DC.Identifier" content="{{ item.itemid }}">
+{% endif %}
+
 </head>
     
 {% if jekyll.environment == 'production' %}    
@@ -188,7 +200,8 @@ ga('send', 'pageview');
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
+                 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+                  {{ site.time | date: "%Y" }} {{ site.name }} 
             </div>
             <div class="col-md-6 col-sm-6 text-center text-lg-right">    
                 <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net
