@@ -1,5 +1,5 @@
 ---
-title: "Items"
+title: "Stories"
 layout: default
 permalink: "/stories"
 ---
@@ -8,9 +8,9 @@ permalink: "/stories"
 
 <div class="row listrecent"> 
 {% assign pages_list = docs %}
-{% for item in site.stories %}
-{% if item.shortdesc != null %}
-{% include itembox.html %}
+{% for story in site.stories %}
+{% if story.shortdesc != null %}
+{% include storybox.html %}
 {% endif %}
 {% endfor %}
 </div>    
