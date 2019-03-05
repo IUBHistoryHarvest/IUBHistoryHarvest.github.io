@@ -63,6 +63,40 @@ permalink: "/items"
 			<div class="article-post">
 				{{content}}
 			</div>
+
+
+			<div class="element-set">
+				<h2>Dublin Core</h2>
+					<div id="dublin-core-title" class="element">
+				<h3>Title</h3>
+							<div class="element-text">{{ page.title }}</div>
+					</div><!-- end element -->
+				<div id="dublin-core-subject" class="element">
+				<h3>Subject</h3>
+							<div class="element-text">{{ page.itemsubject }}</div>
+					</div><!-- end element -->
+				<div id="dublin-core-description" class="element">
+				<h3>Description</h3>
+							<div class="element-text">{{ page.title }}</div>
+					</div><!-- end element -->
+				<div id="dublin-core-creator" class="element">
+				<h3>Creator</h3>
+							<div class="element-text">{{ page.itemcreator }}</div>
+					</div><!-- end element -->
+				<div id="dublin-core-contributor" class="element">
+				<h3>Contributor</h3>
+							<div class="element-text">{{ page.itemcontributor }}</div>
+					</div><!-- end element -->
+				<div id="dublin-core-date" class="element">
+				<h3>Date</h3>
+							<div class="element-text">{{ page.itemdate }}</div>
+					</div><!-- end element -->
+				<div id="dublin-core-type" class="element">
+				<h3>Type</h3>
+							<div class="element-text">{{ page.itemtype }}</div>
+					</div><!-- end element -->
+			</div><!-- end element-set -->
+
                         
             <!-- End Categories -->
 
