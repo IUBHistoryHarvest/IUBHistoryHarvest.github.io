@@ -18,24 +18,119 @@ permalink: /:title/
 
 # Authors
 authors:
-  kalani:
-    name: Kalani
-    display_name: Kalani Craig
-    image: https://history.indiana.edu/images/Faculty/craig_kalani.jpg
-    email: kalani@kalanicraig.com
-    web: http://www.kalanicraig.com
-    twitter: https://twitter.com/kalanicraig
-    description: Professor
-
-  heather:
-    name: Heather
-    display_name: Heather
-    image: 
-    email: 
-    web: 
-    twitter: 
-    description: Heather
-
+	name: Ben
+		display_name: Ben Dance
+		image: ben.jpg
+		email: 
+		web: 
+		twitter: 
+		instagram: 
+		description: 
+	name: Brian
+		display_name: Brian Robusto
+		image: brian.jpg
+		email: 
+		web: 
+		twitter: 
+		instagram: 
+		description: 
+	name: Chelsea
+		display_name: Chelsea Villatoro
+		image: chelsea.jpg
+		email: 
+		web: 
+		twitter: 
+		instagram: 
+		description: 
+	name: Heather
+		display_name: Heather Hoffmeyer
+		image: heather.jpg
+		email: 
+		web: 
+		twitter: 
+		instagram: 
+		description: 
+	name: Jonathan
+		display_name: Jonathan Hosey
+		image: jonathan.jpg
+		email: 
+		web: 
+		twitter: 
+		instagram: 
+		description: 
+	name: Kalani
+		display_name: Kalani Craig
+		image: kalani.jpg
+		email: kalani@kalanicraig.com
+		web: http://www.kalanicraig.com
+		twitter: kalanicraig
+		instagram: kalanicraig
+		description: Clinical Assistant Professor of History & Co-director of Institute for Digital Arts & Humanities, Indiana University Bloomington. Nerd of many types.
+	name: Kasey
+		display_name: Kasey Konz
+		image: kasey.jpg
+		email: 
+		web: 
+		twitter: 
+		instagram: 
+		description: 
+	name: Katie
+		display_name: Katie Jamison
+		image: katie.jpg
+		email: 
+		web: 
+		twitter: 
+		instagram: 
+		description: 
+	name: Michael
+		display_name: Michael Tetzloff
+		image: michael.jpg
+		email: 
+		web: 
+		twitter: 
+		instagram: 
+		description: 
+	name: Sarah
+		display_name: Sarah Gray
+		image: sarah.jpg
+		email: 
+		web: 
+		twitter: 
+		instagram: 
+		description: 
+	name: Skyler
+		display_name: Skyler Zenisek
+		image: skyler.jpg
+		email: 
+		web: 
+		twitter: 
+		instagram: 
+		description: 
+	name: Sydney
+		display_name: Sydney Smith
+		image: sydney.jpg
+		email: 
+		web: 
+		twitter: 
+		instagram: 
+		description: 
+	name: Tara
+		display_name: Tara Rosenwinkel
+		image: tara.jpg
+		email: 
+		web: 
+		twitter: 
+		instagram: 
+		description: 
+	name: Zoe
+		display_name: Zoe Swayne
+		image: zoe.jpg
+		email: 
+		web: 
+		twitter: 
+		instagram: 
+		description: 
+		
 # Plugins
 plugins: 
   - jekyll-paginate
@@ -73,3 +168,10 @@ collections:
     itemid: true
     itemlabel: true
     contributor: true
+
+stories:
+  items:
+    output: true
+    permalink: /:collection/:path/
+    storylabel: true
+
