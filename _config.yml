@@ -181,7 +181,6 @@ collections:
     permalink: /:collection/:path/
     itemid: true
     itemlabel: true
-    contributor: true
 
 stories:
   items:
