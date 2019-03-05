@@ -11,10 +11,10 @@ As part of the History Harvest, each student in the course chose an object signi
 These are our stories. And yours.
 
 <div class="row listrecent"> 
-{% assign pages_list = docs %}
+{% assign pages_list = site.stories %}
 {% for story in site.stories %}
 {% if story.shortdesc != null %}
 {% include storybox.html %}
 {% endif %}
 {% endfor %}
-</div>    
+</div>
