@@ -181,7 +181,7 @@ ga('send', 'pageview');
 
 			{% assign categories =  site.items | map: 'categories' | join: ','  | split: ',' | uniq %}
 			{% for category in categories %}
-            <a href="{{site.baseurl}}/categories#{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} artifacts</a>
+            <a href="{{site.baseurl}}/items/#{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} artifacts</a>
             {% endfor %}
 
 
