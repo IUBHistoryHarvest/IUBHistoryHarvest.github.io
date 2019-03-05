@@ -17,7 +17,9 @@ include: ["_pages"]
 permalink: /:title/
 
 # Authors
-name: Ben
+authors:
+  ben:
+    name: Ben
     display_name: Ben Dance
     image: ben.jpg
     email: 
@@ -25,7 +27,8 @@ name: Ben
     twitter: 
     instagram: 
     description: 
-  name: Brian
+  brian:
+    name: Brian
     display_name: Brian Robusto
     image: brian.jpg
     email: 
@@ -33,7 +36,8 @@ name: Ben
     twitter: 
     instagram: 
     description: 
-  name: Chelsea
+  chelsea:
+    name: Chelsea
     display_name: Chelsea Villatoro
     image: chelsea.jpg
     email: 
@@ -41,7 +45,8 @@ name: Ben
     twitter: 
     instagram: 
     description: 
-  name: Heather
+  heather:
+    name: Heather
     display_name: Heather Hoffmeyer
     image: heather.jpg
     email: 
@@ -49,7 +54,8 @@ name: Ben
     twitter: 
     instagram: 
     description: 
-  name: Jonathan
+  jonathan:
+    name: Jonathan
     display_name: Jonathan Hosey
     image: jonathan.jpg
     email: 
@@ -57,7 +63,8 @@ name: Ben
     twitter: 
     instagram: 
     description: 
-  name: Kalani
+  kalani:
+    name: Kalani
     display_name: Kalani Craig
     image: kalani.jpg
     email: kalani@kalanicraig.com
@@ -65,7 +72,8 @@ name: Ben
     twitter: kalanicraig
     instagram: kalanicraig
     description: Clinical Assistant Professor of History & Co-director of Institute for Digital Arts & Humanities, Indiana University Bloomington. Nerd of many types.
-  name: Kasey
+  kasey:
+    name: Kasey
     display_name: Kasey Konz
     image: kasey.jpg
     email: 
@@ -73,7 +81,8 @@ name: Ben
     twitter: 
     instagram: 
     description: 
-  name: Katie
+  katie:
+    name: Katie
     display_name: Katie Jamison
     image: katie.jpg
     email: 
@@ -81,7 +90,8 @@ name: Ben
     twitter: 
     instagram: 
     description: 
-  name: Michael
+  michael:
+    name: Michael
     display_name: Michael Tetzloff
     image: michael.jpg
     email: 
@@ -89,7 +99,8 @@ name: Ben
     twitter: 
     instagram: 
     description: 
-  name: Sarah
+  sarah:
+    name: Sarah
     display_name: Sarah Gray
     image: sarah.jpg
     email: 
@@ -97,7 +108,8 @@ name: Ben
     twitter: 
     instagram: 
     description: 
-  name: Skyler
+  skyler:
+    name: Skyler
     display_name: Skyler Zenisek
     image: skyler.jpg
     email: 
@@ -105,7 +117,8 @@ name: Ben
     twitter: 
     instagram: 
     description: 
-  name: Sydney
+  sydney:
+    name: Sydney
     display_name: Sydney Smith
     image: sydney.jpg
     email: 
@@ -113,7 +126,8 @@ name: Ben
     twitter: 
     instagram: 
     description: 
-  name: Tara
+  tara:
+    name: Tara
     display_name: Tara Rosenwinkel
     image: tara.jpg
     email: 
@@ -121,7 +135,8 @@ name: Ben
     twitter: 
     instagram: 
     description: 
-  name: Zoe
+  zoe:
+    name: Zoe
     display_name: Zoe Swayne
     image: zoe.jpg
     email: 
