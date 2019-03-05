@@ -21,20 +21,20 @@ authors:
   kalani:
     name: Kalani
     display_name: Kalani Craig
-    gravatar: e57d87c95ebbfcbb5f7e2ea93ae3c84e
+    image: https://history.indiana.edu/images/Faculty/craig_kalani.jpg
     email: kalani@kalanicraig.com
     web: http://www.kalanicraig.com
     twitter: https://twitter.com/kalanicraig
-    description: "Professor"
+    description: Professor
 
   heather:
     name: Heather
-    display_name: Heather Hoffmeyer
-    gravatar: 
+    display_name: Heather
+    image: 
     email: 
     web: 
     twitter: 
-    description: "Heather"
+    description: Heather
 
 # Plugins
 plugins: 

@@ -61,7 +61,7 @@ ga('send', 'pageview');
     <!-- Begin Logo -->
     <a class="navbar-brand" href="{{ site.baseurl }}/">
     <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
-    </a>
+    History Harvest</a>
     <!-- End Logo -->
   
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -88,7 +88,7 @@ ga('send', 'pageview');
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/posts">Read Our Stories</a>
+                <a class="nav-link" href="{{ site.baseurl }}/stories">Read Our Stories</a>
                 </li>
                 
  
@@ -177,17 +177,14 @@ ga('send', 'pageview');
             </div>
 		</div>
 		<div class="col-md-8 p-5 align-self-center text-center">      
-            {% assign categories_list = site.categories %}
-            {% if categories_list.first[0] == null %}
-            {% for category in categories_list %}
-            <a href="{{site.baseurl}}/categories#{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
+
+
+			{% assign categories =  site.items | map: 'categories' | join: ','  | split: ',' | uniq %}
+			{% for category in categories %}
+            <a href="{{site.baseurl}}/categories#{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} artifacts</a>
             {% endfor %}
-            {% else %}
-            {% for category in categories_list %}
-            <a href="{{site.baseurl}}/categories#{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a>
-            {% endfor %}
-            {% endif %}
-            {% assign categories_list = nil %}
+
+
 		</div>
 	</div>
 </div>
