@@ -1,6 +1,7 @@
 ---
 layout: story
 title: The Toys We Play With, The Toys We Display
+exhibittitle: Toys in IU's history
 author: kalani
 storyid: kalani
 featureditem: 2019-03-06-ID0002
