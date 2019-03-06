@@ -11,7 +11,7 @@ permalink: "/items"
 
 		<!-- Post Share -->
 		<div class="col-md-2 pl-0">            
-           {% include share.html %}  
+           <!--{% include share.html %} --> 
 		</div>
 		
 
@@ -25,10 +25,10 @@ permalink: "/items"
                 {% if page.author %}				
 				<div class="row post-top-meta">
 					<div class="col-md-2">
-						<img class="author-thumb" src="{% if author.image contains "http" %}{{ author.image }}{% else %}{{site.baseurl}}/images/authors/{{ author.image }}{% endif %}" alt="{{ author.display_name }}">
+						<img class="author-thumb" src="{{site.baseurl}}/assets/authors/{{ author.image }}" alt="{{ author.display_name }}">
 					</div>
 					<div class="col-md-6">
-						<a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
+						{% if author.twitter %}<a target="_blank" class="link-dark" href="{{ author.web }}">{% endif %}{{ author.display_name }}</a>{% if author.twitter %}<a target="_blank" href="https://twitter.com/{{ author.twitter }}" class="btn follow"><i class="fab fa-twitter"></i></a> {% endif %}{% if author.instagram %}<a target="_blank" href="https://instagram.com/{{ author.twitter }}" class="btn follow"><i class="fab fa-instagram"></i></a> {% endif %}
 						<p><span class="author-description">{{ author.description }}</span>						
 					</div>
 				<!-- Post Categories -->

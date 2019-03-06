@@ -22,41 +22,41 @@ authors:
     name: Ben
     display_name: Ben Dance
     image: ben.jpg
-    email: 
+    email: bendance@iu.edu
     web: 
     twitter: 
     instagram: 
-    description: 
+    description: Media Advertising Major @ Indiana University Bloomington
   brian:
     name: Brian
     display_name: Brian Robusto
     image: brian.jpg
-    email: 
+    email: brobusto@iu.edu
     web: 
     twitter: 
-    instagram: 
-    description: 
+    instagram: brobusto
+    description: Student at Indiana University studying Political Science and Law
   chelsea:
     name: Chelsea
     display_name: Chelsea Villatoro
     image: chelsea.jpg
-    email: 
+    email: cmvillat@iu.edu
     web: 
     twitter: 
     instagram: 
-    description: 
+    description: Student at Indiana University studying Psychology
   heather:
     name: Heather
     display_name: Heather Hoffmeyer
     image: heather.jpg
-    email: 
+    email: hrhoffme@iu.edu
     web: 
-    twitter: 
-    instagram: 
-    description: 
+    twitter: heaterhoffmeyer
+    instagram: heaterhoffmeyer
+    description: Exercise Science Major at Indiana University Bloomington
   jonathan:
     name: Jonathan
-    display_name: Jonathan Hosey
+    display_name: Jonathan
     image: jonathan.jpg
     email: 
     web: 
@@ -85,32 +85,32 @@ authors:
     name: Katie
     display_name: Katie Jamison
     image: katie.jpg
-    email: 
+    email: Kjamiso@iu.edu
     web: 
-    twitter: 
-    instagram: 
-    description: 
+    twitter: ktjamison5
+    instagram: ktjamison
+    description: Professional. That’s it 
   michael:
     name: Michael
     display_name: Michael Tetzloff
     image: michael.jpg
-    email: 
+    email: mtetzlof@iu.edu
     web: 
     twitter: 
     instagram: 
-    description: 
+    description: Undergraduate Chemistry Lab Prep Assistant
   sarah:
     name: Sarah
     display_name: Sarah Gray
     image: sarah.jpg
-    email: 
+    email: graysar@iu.edu
     web: 
-    twitter: 
-    instagram: 
-    description: 
+    twitter: svrvh
+    instagram: gray.sarah
+    description: Speech and Hearing Sciences major at Indiana University
   skyler:
     name: Skyler
-    display_name: Skyler Zenisek
+    display_name: Skyler
     image: skyler.jpg
     email: 
     web: 
@@ -121,29 +121,29 @@ authors:
     name: Sydney
     display_name: Sydney Smith
     image: sydney.jpg
-    email: 
+    email: sycsmith@iu.edu
     web: 
     twitter: 
-    instagram: 
-    description: 
+    instagram: _.sydney7._
+    description: Student at Indiana University
   tara:
     name: Tara
     display_name: Tara Rosenwinkel
     image: tara.jpg
-    email: 
+    email: tararose@iu.edu
     web: 
-    twitter: 
-    instagram: 
-    description: 
+    twitter: tararosenwinkeI
+    instagram: tara.rosenwinkel
+    description: Neuroscience Major at Indiana University Bloomington
   zoe:
     name: Zoe
     display_name: Zoe Swayne
     image: zoe.jpg
-    email: 
+    email: zswayne@iu.edu
     web: 
     twitter: 
-    instagram: 
-    description: 
+    instagram: __zoemarie__
+    description: IU Bloomington biology student, constantly wishing for the money to afford the clothes I want.
 
 # Plugins
 plugins: 
