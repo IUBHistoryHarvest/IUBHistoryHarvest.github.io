@@ -1,20 +1,14 @@
 ---
 title: "Stories"
-layout: default
+layout: page
 permalink: "/stories"
 ---
 
-<h3>Read Our Stories</h3>
-
-<p>As part of the History Harvest, each student in the course chose an object significant to them. We explored that object's history, looked for objects like it in the IU archives, at the Monroe County History Center, at the Mathers Museum of World Cultures, and in the objects that our fellow Hoosiers brought to the History Harvest.
-
-<p>These are our stories. We hope you'll add yours by <a href="https://docs.google.com/forms/d/e/1FAIpQLScnAh6QqC09MJleFKIM7MMxayxLX2HFWQAoQvzNXnpdD8vU4w/viewform?usp=sf_link">taking our survey and bringing an object to our History Harvest on March 19 or March 22</a>
+{{ content }}
 
 <div class="row listrecent"> 
 {% assign pages_list = docs %}
-{% for item in site.items %}
-{% if item.shortdesc != null %}
-{% include itembox.html %}
-{% endif %}
+{% for story in site.stories %}
+{% include storybox.html %}
 {% endfor %}
 </div>    

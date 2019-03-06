@@ -181,10 +181,8 @@ collections:
     permalink: /:collection/:path:output_ext
     itemid: true
     itemlabel: true
-
-stories:
-  items:
+  stories:
     output: true
     permalink: /:collection/:path:output_ext
-    storylabel: true
+    storyid: true
 

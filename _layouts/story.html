@@ -1,5 +1,5 @@
 ---
-title: "Stories"
+title: "story"
 layout: default
 permalink: "/stories"
 ---
@@ -11,7 +11,7 @@ permalink: "/stories"
 
 		<!-- Post Share -->
 		<div class="col-md-2 pl-0">            
-           {% include share.html %}  
+           <!--{% include share.html %} --> 
 		</div>
 		
 
@@ -25,32 +25,34 @@ permalink: "/stories"
                 {% if page.author %}				
 				<div class="row post-top-meta">
 					<div class="col-md-2">
-						<img class="author-thumb" src="{% if author.image contains "http" %}{{ author.image }}{% else %}{{site.baseurl}}/images/authors/{{ author.image }}{% endif %}" alt="{{ author.display_name }}">
+						<img class="author-thumb" src="{{site.baseurl}}/assets/authors/{{ author.image }}" alt="{{ author.display_name }}">
 					</div>
-					<div class="col-md-6">
-						<a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
+					<div class="col-md-9">
+						{% if author.twitter %}<a target="_blank" class="link-dark" href="{{ author.web }}">{% endif %}{{ author.display_name }}</a>{% if author.twitter %}<a target="_blank" href="https://twitter.com/{{ author.twitter }}" class="btn follow"><i class="fab fa-twitter"></i></a> {% endif %}{% if author.instagram %}<a target="_blank" href="https://instagram.com/{{ author.twitter }}" class="btn follow"><i class="fab fa-instagram"></i></a> {% endif %}
 						<p><span class="author-description">{{ author.description }}</span>						
 					</div>
-				<!-- Post Categories -->
-					<div class="col-md-2">
-						<ul class="tags">
-							{% assign sortedCategories = page.categories | sort %}
-							{% for category in sortedCategories %}
-							<li>                        
-							 <a class="smoothscroll" href="{{site.baseurl}}/groups/#{{ category | replace: " ","-" }}">{{ category }}</a>
-							</li>
-							{% endfor %}
-						</ul>
-					</div>
-					<!-- End Categories -->
-
-				</div>				
-                {% endif %}
+ 	               {% endif %}
  
                
-                <!-- Post Title -->
-				<h1 class="posttitle">{{ page.title }}</h1> 
-                
+					<!-- Post Title -->
+					<h1 class="posttitle">{{ page.title }}</h1>
+					<!-- Post Tags and Categories -->
+					<p style="white-space:pre;">
+					<ul class="tags">
+						{% assign sortedCategories = page.categories | sort %}
+							{% for category in sortedCategories %}
+							<li>                        
+							 <a class="smoothscroll" href="{{site.baseurl}}/groups#{{ category | replace: " ","-" }}">{{ category }} artifacts</a>
+							</li>
+							{% endfor %}
+						{% for tag in page.tags %}
+						<li>                        
+						 <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">{{ tag }}</a>
+						</li>
+						{% endfor %}
+					</ul>
+					<!-- End Tags and Categories -->
+				</div>
 			</div>
 
 			<!-- Post Featured Image -->
@@ -62,46 +64,31 @@ permalink: "/stories"
 			<!-- Post Content -->
 			<div class="article-post">
 				{{content}}
-			</div>
+
+			{% assign pages_list = docs %}
+			{% for item in site.items %}
+			{% if page.featureditem contains item.itemid %}   
+			{% include featuredbox.html %}
+			{% endif %}
+			{% endfor %}
 
 
-			<div class="element-set">
 
-				<div class="section-title col-md-12 mt-4">
-				<h2 id="Dublin Core"><span class="text-capitalize">Dublin Core</span></h2>
-				</div>
-					<div id="dublin-core-title" class="element">
-				<h4>Title</h4>
-							<div class="element-text">{{ page.title }}</div>
-					</div><!-- end element -->
-				<div id="dublin-core-subject" class="element">
-				<h4>Subject</h4>
-							<div class="element-text">{{ page.itemsubject }}</div>
-					</div><!-- end element -->
-				<div id="dublin-core-description" class="element">
-				<h4>Description</h4>
-							<div class="element-text">{{ page.title }}</div>
-					</div><!-- end element -->
-				<div id="dublin-core-creator" class="element">
-				<h4>Creator</h4>
-							<div class="element-text">{{ page.itemcreator }}</div>
-					</div><!-- end element -->
-				<div id="dublin-core-contributor" class="element">
-				<h4>Contributor</h4>
-							<div class="element-text">{{ page.itemcontributor }}</div>
-					</div><!-- end element -->
-				<div id="dublin-core-date" class="element">
-				<h4>Date</h4>
-							<div class="element-text">{{ page.itemdate }}</div>
-					</div><!-- end element -->
-				<div id="dublin-core-type" class="element">
-				<h4>Type</h4>
-							<div class="element-text">{{ page.itemtype }}</div>
-					</div><!-- end element -->
-			</div><!-- end element-set -->
-
-                        
+			</div>  
             <!-- End Categories -->
+
+
+			<div class="section-title col-md-12 mt-4" style="padding-left: 0;">
+			<h2><span class="text-capitalize">Related Items</span></h2>
+			</div>
+			<div class="row listrecent"> 
+			{% assign pages_list = docs %}
+			{% for item in site.items %}
+			{% if page.selecteditems contains item.itemid %}   
+			{% include itembox.html %}
+			{% endif %}
+			{% endfor %}
+			</div>    			
 
 		</div>
 		<!-- End Post -->

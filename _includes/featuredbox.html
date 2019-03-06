@@ -1,13 +1,13 @@
 <!-- begin post -->
 {% assign author = site.authors[post.author] %}
-<div class="col-md-6 mb-30px">
+<div class="col-md-12 mb-30px">
     <div class="listfeaturedtag h-100">
         <div class="row h-100">
             <div class="col-lg-5 col-md-12 pr-lg-0">
                 <div class="h-100">
                     <div class="wrapthumbnail">
-                        <a href="{{ post.url | absolute_url }}">
-                            <span class="thumbnail d-block" style="background-image:url({% if post.image contains "://" %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %});">
+                        <a href="{{ site.baseurl }}{{ item.url }}">
+                            <span class="thumbnail d-block" style="background-image:url({{ site.baseurl }}/assets/items/{{ item.itemid }}.jpg);">
                             </span>
                         </a>
                     </div>
@@ -18,15 +18,10 @@
                     <div class="card">
                         <div class="card-body">
                             <h2 class="card-title">
-                                <a class="text-dark" href="{{ post.url | absolute_url }}">{{ post.title }}</a>
-                                {% if post.rating %}
-                                <div class="mb-2 mt-2 font-weight-normal">
-                                {% include star_rating_postbox.html %}
-                                </div>
-                                {% endif %}
+                                <a class="text-dark" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
                             </h2>
                             
-                            <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:25 }}</h4>
+                            <h4 class="card-text">{{ item.shortdesc | strip_html | truncatewords:30 }}</h4>
                         </div>
                         <div class="card-footer b-0 bg-white mt-auto">
                             <div class="wrapfooter">

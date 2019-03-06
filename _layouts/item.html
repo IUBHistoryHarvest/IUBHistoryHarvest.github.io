@@ -51,13 +51,17 @@ permalink: "/items"
 
 			<!-- Post Content -->
 			<div class="article-post">
-				{{content}}
+				<h4 id="about-this-object">About this object</h4>
+					{{ page.itemabout | markdownify }}
+
+				<h4 id="why-this-object-matters"> Why this object matters</h4>
+					<blockquote>{{ page.itemquote | markdownify }}</blockquote>
 			</div>
 
 
 			<div class="element-set">
 
-				<div class="section-title col-md-12 mt-4">
+				<div class="section-title col-md-12 mt-4" style="padding-left: 0;">
 				<h2 id="Dublin Core"><span class="text-capitalize">Dublin Core</span></h2>
 				</div>
 					<div id="dublin-core-title" class="element">

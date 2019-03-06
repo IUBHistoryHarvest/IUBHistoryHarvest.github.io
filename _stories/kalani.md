@@ -1,18 +1,13 @@
 ---
 layout: story
-title: Kalani's story
+title: The Toys We Play With, The Toys We Display
 author: kalani
-featureditem: 2016-03-04-ID0002
+storyid: kalani
+featureditem: 2019-03-06-ID0002
 selecteditems:
- - 2016-03-04-ID0002
- - 2016-03-04-ID0002
- - 2016-03-04-ID0002
+ - 2019-03-05-ID0005
+ - 2019-03-05-ID0007
 categories: [ Sentimental ]
 ---
 
-{% for item in page.selecteditems %}
-{% if item.shortdesc != null %}
-{% include itembox.html %}
-{% endif %}
-{% endfor %}
-{% endfor %}
+Here is where my prose goes

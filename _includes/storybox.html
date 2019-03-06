@@ -4,28 +4,35 @@
 <div class="col-lg-4 col-md-6 mb-30px card-group">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="{{ story.url | absolute_url }}">
-                {% if story.itemid %} <img class="img-fluid" src="{{ absolute_url }}/assets/items/{{ story.itemid }}_thumb.jpg" alt="{{ story.title }}"> {% endif %}
+            {% if story.featureditem %}
+            	<a href="{{ site.baseurl }}{{ story.url }}">
+                 <img class="img-fluid" src="{{ site.baseurl }}/assets/items/{{ story.featureditem }}_thumb.jpg" alt="{{ story.title }}"> {% endif %}
             </a>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="{{ story.url | absolute_url }}">{{ story.title }}</a>
+                <a class="text-dark" href="{{ site.baseurl }}{{ story.url }}">{{ story.title }}</a>
             </h2>
-            <h4 class="card-text">{{ story.shortdesc | strip_html | truncatewords:30 }}</h4>            
+            <h4 class="card-text">{{ story.shortdesc | strip_html | truncatewords:30 }}</h4> 
+            <a class="btn follow" href="{{ site.baseurl }}{{ story.url }}">read more...</a>           
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                {% if story.author %}
-                <span class="meta-footer-thumb">
-                <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
+                {% if post.author %}
+                <img class="author-thumb" src="{{site.baseurl}}/assets/authors/{{ author.image }}" alt="{{ author.display_name }}">
                 </span>                
                 <span class="author-meta">
                 <span class="post-name"><a target="_blank" href="{{ author.web }}">{{ author.display_name }}</a></span><br/>
                 {% endif %}
-                <span class="post-date">{{ story.categories }}</span>
+                <span class="post-date">
+               {% if story.categories % }{% assign sortedCategories = story.categories | sort %}
+               {% for category in sortedCategories %}
+               <a class="btn follow" href="{{site.baseurl}}/groups#{{ category | replace: " ","-" }}">{{ category }}</a>
+               {% endfor %}
+                {% endif %}
+              
+               </span>
                 </span>
-                <span class="post-read-more"><a href="{{ story.url | absolute_url }}" title="More about this item"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
