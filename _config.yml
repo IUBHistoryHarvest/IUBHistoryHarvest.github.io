@@ -178,13 +178,13 @@ kramdown:
 collections:
   items:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path:output_ext
     itemid: true
     itemlabel: true
 
 stories:
   items:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path:output_ext
     storylabel: true
 

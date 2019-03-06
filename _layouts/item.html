@@ -11,7 +11,7 @@ permalink: "/items"
 
 		<!-- Post Share -->
 		<div class="col-md-2 pl-0">            
-           <!--{% include share.html %} --> 
+           {% include share.html %}
 		</div>
 		
 
@@ -21,37 +21,27 @@ permalink: "/items"
 		<div class="col-md-9 flex-first flex-md-unordered">
 			<div class="mainheading">
 
-                <!-- Author Box -->
-                {% if page.author %}				
-				<div class="row post-top-meta">
-					<div class="col-md-2">
-						<img class="author-thumb" src="{{site.baseurl}}/assets/authors/{{ author.image }}" alt="{{ author.display_name }}">
-					</div>
-					<div class="col-md-6">
-						{% if author.twitter %}<a target="_blank" class="link-dark" href="{{ author.web }}">{% endif %}{{ author.display_name }}</a>{% if author.twitter %}<a target="_blank" href="https://twitter.com/{{ author.twitter }}" class="btn follow"><i class="fab fa-twitter"></i></a> {% endif %}{% if author.instagram %}<a target="_blank" href="https://instagram.com/{{ author.twitter }}" class="btn follow"><i class="fab fa-instagram"></i></a> {% endif %}
-						<p><span class="author-description">{{ author.description }}</span>						
-					</div>
-				<!-- Post Categories -->
-					<div class="col-md-2">
-						<ul class="tags">
-							{% assign sortedCategories = page.categories | sort %}
-							{% for category in sortedCategories %}
-							<li>                        
-							 <a class="smoothscroll" href="{{site.baseurl}}/groups/#{{ category | replace: " ","-" }}">{{ category }}</a>
-							</li>
-							{% endfor %}
-						</ul>
-					</div>
-					<!-- End Categories -->
-
-				</div>				
-                {% endif %}
- 
-               
-                <!-- Post Title -->
-				<h1 class="posttitle">{{ page.title }}</h1> 
-                
+			<!-- Post Title -->
+			<div class="section-title col-md-12 mt-4" style="padding-left: 0;">
+			<h1 class="posttitle">{{ page.title }}</h1>
 			</div>
+			<p>Contributed by {{ page.itemcontributor }}
+			<!-- Post Tags and Categories -->
+			<ul class="tags">
+				{% assign sortedCategories = page.categories | sort %}
+					{% for category in sortedCategories %}
+					<li>                        
+					 <a class="smoothscroll" href="{{site.baseurl}}/groups#{{ category | replace: " ","-" }}">{{ category }} artifacts</a>
+					</li>
+					{% endfor %}
+				{% for tag in page.tags %}
+				<li>                        
+				 <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">{{ tag }}</a>
+				</li>
+				{% endfor %}
+			</ul>
+			<!-- End Tags and Categories -->
+		</div>
 
 			<!-- Post Featured Image -->
 			{% if page.itemid %}	

@@ -134,7 +134,7 @@ License: https://www.wowthemes.net/freebies-license/
      border-radius:100%;
 }
  .post-top-meta {
-     margin-bottom:2rem;
+     margin-bottom:0rem;
 }
  .post-top-meta .author-thumb {
      width:72px;
@@ -379,7 +379,7 @@ License: https://www.wowthemes.net/freebies-license/
  ul.tags {
      list-style:none;
      padding-left:0;
-     margin:0 0 3rem 0;
+     margin:0 0 .5rem 0;
 }
  ul.tags li {
      display:inline-block;
