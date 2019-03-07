@@ -36,51 +36,34 @@ permalink: "/stories"
                
 					<!-- Post Title -->
 					<h1 class="posttitle">{{ page.title }}</h1>
-					<!-- Post Tags and Categories -->
-					<p style="white-space:pre;">
-					<ul class="tags">
-						{% assign sortedCategories = page.categories | sort %}
-							{% for category in sortedCategories %}
-							<li>                        
-							 <a class="smoothscroll" href="{{site.baseurl}}/groups#{{ category | replace: " ","-" }}">{{ category }} artifacts</a>
-							</li>
-							{% endfor %}
-						{% for tag in page.tags %}
-						<li>                        
-						 <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">{{ tag }}</a>
-						</li>
-						{% endfor %}
-					</ul>
-					<!-- End Tags and Categories -->
 				</div>
 			</div>
-
-			<!-- Post Featured Image -->
-			{% if page.itemid %}	
-			<img class="featured-image img-fluid" src="/assets/items/{{ page.itemid }}.jpg" alt="{{ page.title }}">
-			{% endif %}
-			<!-- End Featured Image -->
 
 			<!-- Post Content -->
 			<div class="article-post">
 				{{content}}
+			</div>  
+            <!-- End Categories -->
 
+
+			<div class="section-title col-md-12 mt-4" style="padding-left: 0;">
+			<h2><span class="text-capitalize">Featured artifacts in this exhibit: {{ page.exhibittitle }}</span></h2>
+			</div>
+
+			<div class="section-title col-md-12 mt-4" style="padding: 0;">
+			<!-- Post Featured Image -->
+			{% if page.itemid %}	
+			<img class="featured-image img-fluid" src="/assets/items/{{ page.itemid }}.jpg" alt="{{ page.title }}">
+			{% endif %}
 			{% assign pages_list = docs %}
 			{% for item in site.items %}
 			{% if page.featureditem contains item.itemid %}   
 			{% include featuredbox.html %}
 			{% endif %}
 			{% endfor %}
-
-
-
-			</div>  
-            <!-- End Categories -->
-
-
-			<div class="section-title col-md-12 mt-4" style="padding-left: 0;">
-			<h2><span class="text-capitalize">Other artifacts in this exhibit: {{ page.exhibittitle }}</span></h2>
+			<!-- End Featured Image -->
 			</div>
+			
 			<div class="row listrecent"> 
 			{% assign pages_list = docs %}
 			{% for item in site.items %}

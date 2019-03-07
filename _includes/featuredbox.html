@@ -1,6 +1,6 @@
 <!-- begin post -->
 {% assign author = site.authors[post.author] %}
-<div class="col-md-12 mb-30px">
+<div class="col-md-12 mb-30px"  style="padding: 0;">
     <div class="listfeaturedtag h-100">
         <div class="row h-100">
             <div class="col-lg-5 col-md-12 pr-lg-0">
@@ -17,11 +17,13 @@
                 <div class="h-100 card-group">
                     <div class="card">
                         <div class="card-body">
-                            <h2 class="card-title">
+                            <h2 class="card-title" style="margin-bottom:5px;">
                                 <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
                             </h2>
-                            
-                            <h4 class="card-text">{{ item.shortdesc | strip_html | truncatewords:30 }}</h4>
+							{% if item.itemcontributor %}
+							<p class="post-name">{{ item.itemcontributor }}</span>
+							{% endif %}
+                        	   <h4 class="card-text">{{ item.shortdesc | strip_html | truncatewords:30 }}</h4>
                         </div>
                         <div class="card-footer b-0 bg-white mt-auto">
                             <div class="wrapfooter">
@@ -33,6 +35,11 @@
                                 <span class="post-name"><a target="_blank" href="{{ author.web }}">{{ author.display_name }}</a></span><br/>
                                 {% endif %}
                                 </span>
+               {% assign sortedCategories = item.categories | sort %}
+               {% for category in sortedCategories %}
+               <a class="btn follow" href="{{site.baseurl}}/groups#{{ category | replace: " ","-" }}">{{ category }}</a>
+               {% endfor %}
+                                
                                 <div class="clearfix"></div>
                             </div>
                         </div>
