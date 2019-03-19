@@ -12,7 +12,7 @@ categories: [ Practical ]
 
 Vans are a shoe that debuted in the 60's, and were quickly adopted by the skating community due to their waffle sole that allows them to grip skateboards very well. In 1977, the leather side stripe was added for durability, but it soon became the notable design for Vans shoes. 
 
-# Learn More
+#### Learn More
 
 Blümlein, Jürgen, et al. Made for skate: the illustrated history of skateboard footwear. FauxAmi-Skateboard Museum, 2008.
 
