@@ -14,5 +14,5 @@ Vans are a shoe that debuted in the 60's, and were quickly adopted by the skatin
 
 ### Learn More:
 
-Blümlein, Jürgen, et al. Made for skate: the illustrated history of skateboard footwear. FauxAmi-Skateboard Museum, 2008.
+Blümlein, Jürgen, et al. *Made for skate: the illustrated history of skateboard footwear.* FauxAmi-Skateboard Museum, 2008.
 
