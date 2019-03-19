@@ -11,4 +11,5 @@ selecteditems:
 categories: [ Sentimental ]
 ---
 
-Here is where my prose goes
+Play gets a lot of attention in the world of education. Play--in the form of video games like Code Combat or Osmo's [Coding Awbie](https://www.playosmo.com/en/coding/)--helps acclimate young children to the world of computer code. My story ties the popularity of puzzle-style toys like LEGO bricks to play, home life, travel and the modern world of computing and code.
+
