@@ -2,13 +2,14 @@
 layout: item
 title: NanoBlock Eiffel Tower
 author: kalani
+itemarchive: Mathers Museum
 itemid: ARCHIVEITEMIDHERE
+itemurl:
 itemcontributor: Kalani Craig
 itemcreator: Nanoblock
 itemsubject: LEGO toys
 itemdate: circa 2018
 itemtype: Physical Object
-itemarchive: Mathers Museum
 shortdesc: This Nanoblock model of the Eiffel tower is simultaneously a reminder of research, family, and overseas travel.
 categories: [ Sentimental ]
 tags: [ toy, Paris, Eiffel Tower, LEGO, building, art ]
