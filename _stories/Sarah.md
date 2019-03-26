@@ -1,7 +1,7 @@
 ---
 layout: story
 title: 
-exhibittitle: Pins 
+exhibittitle: Surprise, Mom, I'm Gay! 
 author: Sarah
 storyid: Sarah
 featureditem: 2019-03-05-ID0010
