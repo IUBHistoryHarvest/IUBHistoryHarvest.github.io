@@ -44,13 +44,7 @@ permalink: "/items"
 		</div>
 
 			<!-- Post Featured Image -->
-			{% if page.itemid %}
-				{% capture ItemImagePath %}{{ site.baseurl }}/assets/items/{{ page.itemid }}.jpg{% endcapture %}
-				{% for static_file in site.static_files %}
-					{% if static_file.path contains ItemImagePath %}<img class="featured-image img-fluid" src="{{ static_file.path }}" alt="{{ page.title }}">
-					{% endif %}
-				{% endfor %}
-			{% endif %}
+			{% if page.itemid %}{% capture ItemImagePath %}{{ site.baseurl }}/assets/items/{{ page.itemid }}{% endcapture %}{% for static_file in site.static_files %}{% if static_file.path contains ItemImagePath %}{% unless static_file.path contains '_th' %}<img class="featured-image img-fluid" src="{{ static_file.path }}" alt="{{ page.title }}">{% endunless %}{% endif %}{% endfor %}{% endif %}
 			<!-- End Featured Image -->
 
 			<!-- Post Content -->
