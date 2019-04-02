@@ -17,7 +17,7 @@ tags: [ music, stringed instrument, guitar, Creation Station ]
 itemabout: |
  This is a stringed instrument from the Middle East. 
 itemquote: |
-  The Oud was appropriated by Europeans as the Lute, and the modern guitar was soon to follow. 
+ The Oud was appropriated by Europeans as the Lute, and the modern guitar was soon to follow. 
 ---
 
 <figure>
