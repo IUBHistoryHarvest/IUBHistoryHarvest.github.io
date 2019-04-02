@@ -4,7 +4,7 @@ title: 1920s Switchboard
 author: skyler
 itemarchive: Monroe County Historical society
 itemid: MCHS Accession #
-itemurl: http://purl.dlib.indiana.edu/iudl/lilly/slocum/LL-SLO-000630
+itemurl: 
 itemcontributor: Skyler Zenisek
 itemcreator: Unknown
 itemsubject: Switchboard
