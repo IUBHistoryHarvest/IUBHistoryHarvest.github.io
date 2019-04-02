@@ -1,25 +1,20 @@
 ---
 layout: item
-title: The Niagara Puzzle, (with File & Compass)
-author: kalani
-itemarchive: Lilly Library
-itemid: LL-SLO-000630
+title: 1920s Switchboard
+author: skyler
+itemarchive: Monroe County Historical society
+itemid: MCHS Accession #
 itemurl: http://purl.dlib.indiana.edu/iudl/lilly/slocum/LL-SLO-000630
-itemcontributor: Kalani Craig
-itemcreator: R. Journet
-itemsubject: Puzzle
-itemdate: circa 1914
+itemcontributor: Skyler Zenisek
+itemcreator: Unknown
+itemsubject: Switchboard
+itemdate: circa 1920
 itemtype: Physical Object
-shortdesc: This box-shaped puzzle asks the user to aim several small metal balls into a small hole in one corner.
+shortdesc: This desk allowed telephone operators to connect callers to their destination via a switchboard
 categories: [ Sentimental, Practical ]
-tags: [ toy, Niagara Falls, puzzle, art ]
+tags: [ telephone, communication, antique, technology]
 itemabout: |
- This item is a plastic-encased puzzle that shows a drawing of a waterfall, presumably Niagara Falls (a popular tourist destination as early as the 18th century). Users are asked to get all of the little balls off of a "bank" (a small wooden piece set flat inside the puzzle at the top of the falls) into a "whirlpool", a hole at the top right corner of the box.
+ Until the 1960s, telephone switchboard operators worked at desks like this connecting calls by hand. Skilled operators memorized plug locations and could quickly join the correct lines. In large commercial settings,banks of desks sat in rows, wired together through openings on the side panels. if you look into the side of this desk, you can see the many wires required to connect callers. 
 itemquote: |
- Similar puzzles by the same manufacturer, R. Journet, were sent to British solders imprisoned in Germany during WWI with a hacksaw, a compass and a map hidden inside to facilitate their escape.
+ These Desks often sat in banks and were integral to connecting telephone calls. They also provided one of the earliest entrances for women into the modern industrial workforce in the early 1920s
 ---
-
-<figure>
-  <img src="http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:19718/LARGE" alt="Niagara Puzzle"/>
-  <figcaption>Image Courtesy, The Lilly Library, Indiana University, Bloomington, Indiana. For commercial uses, please contact the Lilly Library at 1200 East Seventh Street, Bloomington, Indiana, 47405-5500 or at http://www.indiana.edu/~liblilly/</figcaption>
-</figure>
