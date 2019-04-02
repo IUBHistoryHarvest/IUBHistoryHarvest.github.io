@@ -1,7 +1,7 @@
 ---
 layout: item
 title: First Interlocking "IU"
-author: 
+author: Kasey Konz
 itemarchive: Wells Library
 itemid: P0026900
 itemurl: http://purl.dlib.indiana.edu/iudl/archives/photos/P0026900
