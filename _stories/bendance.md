@@ -12,7 +12,7 @@ selecteditems:
  - 2019-03-05-ID0006
  - 2019-03-22-ID0014
  - 2019-03-019-ID0009
-categories: [ Practical ]
+categories: [ Practical, Creation Station ]
 ---
 
 Since the advent of the acoustic guitar, the instrument has found a quintessential place within the American style of music. Pertaining to Bloomington, instrumentalists who utilized stringed instruments became most relevant to the city’s culture.
@@ -27,4 +27,3 @@ Another shining example of Bloomington excellence, John Mellencamp is an America
 - “John Mellencamp.” Wikipedia, Wikimedia Foundation, 25 Feb. 2019, en.wikipedia.org/wiki/John_Mellencamp.
 - "John Mellencamp's House (Google Maps)". Virtual Globetrotting. Retrieved April 16, 2012.
 
-## 
