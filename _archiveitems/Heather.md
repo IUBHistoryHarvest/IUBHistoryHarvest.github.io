@@ -1,6 +1,6 @@
 ---
 layout: item
-title: Postcard of Cycling CLub at IU
+title: Postcard of Cycling Club at IU
 author: Heather
 itemarchive: Lilly Library
 itemid: LMC_2804_Box_1_Item_5
