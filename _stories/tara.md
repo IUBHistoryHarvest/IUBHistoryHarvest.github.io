@@ -1,7 +1,7 @@
 ---
 layout: story
-title: The Evolution of Dance
-exhibittitle: 
+title: Creation Station
+exhibittitle: Evolution of Dance
 author: tara
 storyid: tara
 featureditem: 2019-03-05-ID0006
