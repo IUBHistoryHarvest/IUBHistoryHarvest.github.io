@@ -1,0 +1,18 @@
+---
+title: "Archive Items"
+layout: page
+permalink: "/archiveitems"
+---
+
+{{ content }}
+
+<div class="row listrecent"> 
+{% assign pages_list = docs %}
+{% for item in site.archiveitems %}
+{% if item.shortdesc != null %}
+{% include itembox.html %}
+{% endif %}
+{% endfor %}
+</div>    
+
+<!--swipe through photos so one is larger and the small thumbnails show at the bottom; do we need thumbnails for each photo or can I do that automatically?-->
