@@ -4,7 +4,7 @@ title: RCA Pin
 author: sarah
 itemarchive: Monroe County History Center
 itemid: ARCHIVEITEMIDHERE
-itemurl:
+itemurl:https://monroehistory.org/
 itemcontributor: Sarah Gray
 itemcreator: unknown
 itemsubject: pin
