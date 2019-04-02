@@ -1,6 +1,6 @@
 ---
 layout: story
-title: Book pun?
+title: Reading for...education...
 exhibittitle: IDK yet.
 author: Michael Tetzloff
 storyid: michael
