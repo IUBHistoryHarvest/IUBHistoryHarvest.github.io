@@ -18,3 +18,8 @@ itemabout: |
 itemquote: |
  Similar puzzles by the same manufacturer, R. Journet, were sent to British solders imprisoned in Germany during WWI with a hacksaw, a compass and a map hidden inside to facilitate their escape.
 ---
+
+<figure>
+  <img src="http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:19718/LARGE" alt="Niagara Puzzle"/>
+  <figcaption>Image Courtesy, The Lilly Library, Indiana University, Bloomington, Indiana. For commercial uses, please contact the Lilly Library at 1200 East Seventh Street, Bloomington, Indiana, 47405-5500 or at http://www.indiana.edu/~liblilly/</figcaption>
+</figure>
