@@ -5,6 +5,8 @@ exhibittitle: Toys in IU's history
 author: kalani
 storyid: kalani
 featureditem: 2019-03-06-ID0002
+selectedarchiveitems:
+ - 2019-03-019-ID0007
 selecteditems:
  - 2019-03-019-ID0007
  - 2019-03-019-ID0002
@@ -25,10 +27,3 @@ In the contemporary world, IUB's [game design major, offered through the media s
 The items in the Slocum Room, like the Nanoblock Eiffel Tower that inspired this story, reverse the course that Game Design majors take. Where IUB's major turns play into work, the Slocum Room has a host of puzzles that turn work into play. One puzzle in particular, [The Niagara Puzzle (with File and Compass)](http://purl.dlib.indiana.edu/iudl/lilly/slocum/LL-SLO-000630) tells that story very well. It's a box-shaped puzzle that shows a drawing of a waterfall, presumably Niagara Falls (a popular tourist destination as early as the 18th century). Users are asked to get all of the little balls off of a "bank" (a small wooden piece set flat inside the puzzle at the top of the falls) into a "whirlpool", a hole at the top right corner of the box. Similar puzzles by the same manufacturer, R. Journet, were sent to British solders imprisoned in Germany during WWI with a hacksaw, a compass and a map hidden inside to facilitate their escape. 
 
 These puzzles require manual dexterity, problem-solving skills, have application in real life--you try leveling the Eiffel Tower in miniature without thinking through the tenets of basic geometry!--and have an element of nostalgia that roots them in a particular historical context.
-
-## OLD: Things I want to include from IU THIS LINE SHOULD BE DELETED NOW THAT I HAVE THE INFORMATION TRANSFERRRED TO THE LOVELY PARAGRAPHS ABOVE.
-
-- http://www.indiana.edu/~liblilly/collections/overview/puzzles.shtml
-- https://www.jstor.org/stable/j.ctt46mx23
-
-
