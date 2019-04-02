@@ -1,5 +1,3 @@
-layout	title	exhibittitle	author	storyid	featureditem	selecteditems	categories
-story
 Technology We Use and Remember
 Archaic Tech at IU
 Skyler
