@@ -3,7 +3,7 @@ layout: item
 title: First Interlocking "IU"
 author: 
 itemarchive: Wells Library
-itemid:P0026900
+itemid: P0026900
 itemurl: http://purl.dlib.indiana.edu/iudl/archives/photos/P0026900
 itemcontributor:
 itemcreator: Claude McDonald Hamilton 
