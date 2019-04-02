@@ -4,7 +4,7 @@ author: sarah
 itemarchive: Monroe County History Center
 itemid: ARCHIVEITEMIDHERE
 itemurl:
-itemcontributor: RCA
+itemcontributor: Sarah Gray
 itemcreator: unknown
 itemsubject: pin
 itemdate: circa 1969
