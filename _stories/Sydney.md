@@ -11,7 +11,7 @@ selecteditems:
 categories: [ Sentimental ]
 ---
 
-Around IU's Campus, art is a constant feature that adds to it's individuality and beauty. There are statues all over campus that many pass with glance. The most famous statue, however, is the statue of Herman B Wells located near the Sample Gates. 
+Around IU's Campus, art is a constant feature that adds to its individuality and beauty. There are statues all over campus that many pass with glance. The most famous statue, however, is the statue of Herman B Wells located near the Sample Gates. 
 
 ## Things I want to include from IU
 
