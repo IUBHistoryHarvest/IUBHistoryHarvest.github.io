@@ -10,7 +10,7 @@ itemcreator: Claude McDonald Hamilton
 itemsubject: Insignia
 itemdate: circa 1898
 itemtype: Physical object
-shortdesc: Drawing inside of the 1898 arbutus yearbook that represented the first interlocking IU. Claude McD. Hamilton had his name written on the bottom of this image because he was in charge of writing and compiling the information for the yearbook. 
+shortdesc: Drawing inside of the 1898 arbutus yearbook that represents the first interlocking IU. Claude McD. Hamilton had his name written on the bottom of this image because he was in charge of writing and compiling the information for the yearbook. 
 categories: [ Practical ]
 tags: [ Logo, insignia, arbutus, yearbook ]
 itemabout: |
