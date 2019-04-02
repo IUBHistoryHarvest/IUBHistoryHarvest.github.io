@@ -1,13 +1,13 @@
 ---
 layout: item
-title: RCA Pin
+title: RCA Button
 author: sarah
 itemarchive: Monroe County History Center
-itemid: ARCHIVEITEMIDHERE
-itemurl: https://monroehistory.org/
+itemid: 2009.055.0001
+itemurl: https://monroehistory.pastperfectonline.com/webobject/27723014-C15F-482B-8C67-165642771735
 itemcontributor: Sarah Gray
 itemcreator: unknown
-itemsubject: pin
+itemsubject: button
 itemdate: circa 1969
 itemtype: Physical Object
 shortdesc: This pin represents not only jobs and technology, but also development and progression of women in the workforce.
