@@ -181,6 +181,11 @@ collections:
     permalink: /:collection/:path:output_ext
     itemid: true
     itemlabel: true
+  archiveitems:
+    output: true
+    permalink: /:collection/:path:output_ext
+    itemid: true
+    itemlabel: true
   stories:
     output: true
     permalink: /:collection/:path:output_ext

@@ -96,7 +96,15 @@ ga('send', 'pageview');
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/items">View All Artifacts</a>
+                <a class="nav-link" href="{{ site.baseurl }}/items">View Community Artifacts</a>
+                </li>
+ 
+                 {% if page.url == "/" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/archiveitems">View Bloomington Historical/Archival Artifacts</a>
                 </li>
  
 <!-- 
