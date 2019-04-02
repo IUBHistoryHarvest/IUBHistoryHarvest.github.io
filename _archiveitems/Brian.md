@@ -16,5 +16,5 @@ tags: [ painting, caricature, picture, art ]
 itemabout: |
  This item is a black and white photograph of a caricature painting done by Ralph F. Thompson of Thomas Hart Benson, a historically famous painter. The caricature painting has a serious tone, noted from Benson's earnest facial expression, but has hints of irony and comedic overtones. Benson's muscles are a main subject of the caricature exaggeration, and he appears holding an axe. A painting of Benson's own typical design (pre-industrial cabins) sits in the background. 
 itemquote: |
-This painting was on loan from the Art Association of Indianapolis (now the Indianapolis Museum of Art).
+ This painting was on loan from the Art Association of Indianapolis (now the Indianapolis Museum of Art).
 ---
