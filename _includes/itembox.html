@@ -5,7 +5,9 @@
     <div class="card h-100">
         <div class="maxthumb">
             <a href="{{ site.baseurl }}{{ item.url }}">
-			{% if item.itemid %}
+			{% if item.itemphoto %}
+				<img class="img-fluid" src="{{ item.itemphoto }}" alt="{{ page.title }}">
+			{% elsif item.itemid %}
 				{% capture ItemImagePath %}{{ site.baseurl }}/assets/items/{{ item.itemid }}_th{% endcapture %}
 				{% for static_file in site.static_files %}
 					{% if static_file.path contains ItemImagePath %}

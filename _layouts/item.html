@@ -44,7 +44,9 @@ permalink: "/items"
 		</div>
 
 			<!-- Post Featured Image -->
-			{% if page.itemid %}{% capture ItemImagePath %}{{ site.baseurl }}/assets/items/{{ page.itemid }}{% endcapture %}{% for static_file in site.static_files %}{% if static_file.path contains ItemImagePath %}{% unless static_file.path contains '_th' %}<img class="featured-image img-fluid" src="{{ static_file.path }}" alt="{{ page.title }}">{% endunless %}{% endif %}{% endfor %}{% endif %}
+			{% if page.itemphoto %}<img class="featured-image img-fluid" src="{{ page.itemphoto }}" alt="{{ page.title }}">
+			{%if page.imagecredit %}{{ page.imagecredit }}{% endif %}
+			{% elsif page.itemid %}{% capture ItemImagePath %}{{ site.baseurl }}/assets/items/{{ page.itemid }}{% endcapture %}{% for static_file in site.static_files %}{% if static_file.path contains ItemImagePath %}{% unless static_file.path contains '_th' %}<img class="featured-image img-fluid" src="{{ static_file.path }}" alt="{{ page.title }}">{% endunless %}{% endif %}{% endfor %}{% endif %}
 			<!-- End Featured Image -->
 
 			<!-- Post Content -->
@@ -52,8 +54,8 @@ permalink: "/items"
 				<h4 id="about-this-object">About this object</h4>
 					{{ page.itemabout | markdownify }}
 
-				<h4 id="why-this-object-matters"> Why this object matters</h4>
-					<blockquote>{{ page.itemquote | markdownify }}</blockquote>
+				{%if page.itemquote %}<h4 id="why-this-object-matters"> Why this object matters</h4>
+					<blockquote>{{ page.itemquote | markdownify }}</blockquote>{% endif %}
 			</div>
 
 
@@ -62,9 +64,13 @@ permalink: "/items"
 				<div class="section-title col-md-12 mt-4" style="padding-left: 0;">
 				<h2 id="Dublin Core"><span class="text-capitalize">Dublin Core</span></h2>
 				</div>
+				{%if page.itemarchive %}
+				<h4>Originating Archive Object</h4>
+				{%if page.archiveurl %}<a href="{{ page.archiveurl }}">{% endif %}<div class="element-text">{{ page.itemarchive}}{%if page.itemid %} {{ page.itemid}}{% endif %}</div>{%if page.archiveurl %}</a>{% endif %}
+				{% endif %}
 					<div id="dublin-core-title" class="element">
 				<h4>Title</h4>
-							<div class="element-text">{{ page.title }}</div>
+					{%if page.itemurl %}<a href="{{ page.itemurl }}">{% endif %}<div class="element-text">{{ page.title }}</div>{%if page.itemurl %}</a>{% endif %}
 					</div><!-- end element -->
 				<div id="dublin-core-subject" class="element">
 				<h4>Subject</h4>
@@ -72,7 +78,7 @@ permalink: "/items"
 					</div><!-- end element -->
 				<div id="dublin-core-description" class="element">
 				<h4>Description</h4>
-							<div class="element-text">{{ page.title }}</div>
+							<div class="element-text">{{ page.shortdesc }}</div>
 					</div><!-- end element -->
 				<div id="dublin-core-creator" class="element">
 				<h4>Creator</h4>
