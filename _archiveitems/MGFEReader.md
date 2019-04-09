@@ -12,4 +12,5 @@ itemcontributor: Michael Tetzloff
 itemcreator: William McGuffey
 itemsubject: Textbook
 itemdate: circa 1853
+itemtype: Physical Object
 ---
