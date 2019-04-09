@@ -11,9 +11,5 @@ selecteditems:
 categories: [ Sentimental ]
 ---
 
-Around IU's Campus, art is a constant feature that adds to its individuality and beauty. There are statues all over campus that many pass with a sparing glance. 
+Around IU's Campus, art is a constant feature that adds to its individuality and beauty. There are statues all over campus that many pass with a sparing glance. Their origens are fascinating.
 
-## Things I want to include from IU
-
-- http://www.indiana.edu/~liblilly/collections/overview/puzzles.shtml
-- https://www.jstor.org/stable/j.ctt46mx23
