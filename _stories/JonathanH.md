@@ -9,11 +9,11 @@ selecteditems:
  - 2019-03-019-ID0007
  - 2019-03-019-ID0004
  - 2019-03-22-ID0006
-categories: [ Sentimental ]
+categories: [ Sentimental, Practical ]
 ---
 
-We express ourselves often through our personal everyday things, such as our clothes and accessories. These items often seem forgettable as we see them everyday. However, those we meet take note of them and help find out who we are through them.
+We express ourselves often through our personal everyday things, such as our clothes and accessories. These items often seem forgettable as we see them everyday. However, those we meet take note of them and help find out who we are through them. These items often serve as extensions of ourselves, as well as indicating our socioeconomic status.
 
-## Things I want to include from IU
+## Learn more
 
-- http://www.indiana.edu/~liblilly/collections/overview/puzzles.shtml
+- 
