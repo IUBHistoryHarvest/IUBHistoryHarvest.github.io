@@ -17,4 +17,5 @@ shortdesc: Bound in brown hard leather with embossed designs and gold lettering 
 categories: [ Practical ]
 tags: [ Textbook, School, Reading, Writing, Education ]
 itemabout: |
+McGuffey's Fourth Eclectic Reader was the fourth entry in the series of reading primers produced by William McGuffey.
 ---
