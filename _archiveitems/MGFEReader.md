@@ -11,7 +11,7 @@ imagecredit: Courtesy, The Monroe County History Center, Bloomington, Indiana. F
 itemcontributor: Michael Tetzloff
 itemcreator: William McGuffey
 itemsubject: Textbook
-itemdate: ca. 1853
+itemdate: circa 1853
 itemtype: Physical Object
 shortdesc: Bound in brown hard leather with embossed designs and gold lettering on spine. Embossed designs and seal of Eclectic Educational Series.
 categories: [ Practical ]
