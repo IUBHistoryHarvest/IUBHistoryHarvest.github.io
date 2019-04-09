@@ -8,7 +8,7 @@ itemid: InU-Ar-VAD1042
 itemurl: 
 itemphoto: https://m.media-amazon.com/images/I/51V5z4cyTrL._AC_UL654_FMwebp_QL65_.jpg
 imagecredit: Courtesy, Amazon.com, LLC
-itemcontributor: Michael Tetlozz
+itemcontributor: Michael Tetzloff
 itemcreator: Michael Molenda
 itemsubject: Textbook
 itemdate: circa 2002
