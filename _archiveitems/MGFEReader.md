@@ -15,4 +15,5 @@ itemdate: circa 1853
 itemtype: Physical Object
 shortdesc: Bound in brown hard leather with embossed designs and gold lettering on spine. Embossed designs and seal of Eclectic Educational Series.
 categories: [ Practical ]
+tags: [ Textbook, School, Reading, Writing, Education ]
 ---
