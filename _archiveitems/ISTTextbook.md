@@ -14,5 +14,4 @@ shortdesc:  These textbooks show how different forms of technology/media can be 
 categories: [ Practical ]
 tags: [ Textbook, School, Technology, Education ]
 itemabout: 
-itemquote: 
 ---
