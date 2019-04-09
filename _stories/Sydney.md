@@ -7,7 +7,8 @@ storyid: sydney
 featureditem: 2019-03-05-ID0011
 selecteditems:
  - Showalter.md
- - 2019-04-09-ID0001
+ - HermanBWells.md
+ - BentonMurals.md
 categories: [ Sentimental ]
 ---
 
