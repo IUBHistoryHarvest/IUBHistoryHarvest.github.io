@@ -11,4 +11,5 @@ imagecredit: Courtesy, The Monroe County History Center, Bloomington, Indiana. F
 itemcontributor: Michael Tetzloff
 itemcreator: William McGuffey
 itemsubject: Textbook
+itemdate: circa 1853
 ---
