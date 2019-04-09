@@ -2,9 +2,10 @@
 layout: item
 title: The Oud
 author: ben
-itemarchive: Mathers Museum
+itemarchive: Mathers Museum of World Cultures
+archiveurl: https://mathersmuseum.indiana.edu/collections1/permanent.html
 itemid: unknown
-itemphoto:
+itemphoto: https://mathersmuseum.indiana.edu/images/ethnomus-collection.jpg
 itemurl: https://mathersmuseum.indiana.edu/collections1/permanent.html
 itemcontributor: Benjamin Dance
 itemcreator: unknown
