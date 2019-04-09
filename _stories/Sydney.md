@@ -6,8 +6,8 @@ author: sydney
 storyid: sydney
 featureditem: 2019-03-05-ID0011
 selecteditems:
- - Showalter Fountain
- - Herman B. Wells
+ - Showalter.md
+ - HermanBWells.md
 categories: [ Sentimental ]
 ---
 
