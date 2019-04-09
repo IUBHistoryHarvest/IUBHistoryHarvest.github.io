@@ -10,7 +10,7 @@ itemcreator: N/A
 itemsubject: Photograph
 itemdate: circa 1950's
 itemtype: Physical Object
-shortdesc: This box-shaped puzzle asks the user to aim several small metal balls into a small hole in one corner.
+shortdesc: This is a postcard that shows people biking, an old hobby here at IU.
 categories: [ Sentimental, Practical ]
 tags: [ toy, Niagara Falls, puzzle, art ]
 itemabout: |
