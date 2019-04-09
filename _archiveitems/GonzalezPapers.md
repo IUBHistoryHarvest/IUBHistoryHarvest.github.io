@@ -4,22 +4,20 @@ title: Gerardo M. Gonzalez papers, 1952-2018, bulk 1961-1963
 author: chelsea
 itemarchive: IU Archives
 itemid: C694
-itemurl: http://webapp1.dlib.indiana.edu/findingaids/view?docId=InU-Ar-VAE0298.xml&brand=general&text1=gonzalez&field1=text&startDoc=1
+itemurl: http://fedora.dlib.indiana.edu/fedora/get/iudl:2501267/OVERVIEW
 itemcontributor: Chelsea Villatoro
 itemcreator: Gerardo M. Gonzalez
 itemsubject: Letters
 itemdate: 1952-2018
 itemtype: Physical Object
-shortdesc: This box-shaped puzzle asks the user to aim several small metal balls into a small hole in one corner.
-categories: [ Sentimental, Practical ]
+shortdesc: This collection is a series of photos and papers that discusses Gonzalez’s upbringing, along with his academic career and his family’s emigration from Cuba to the United States.
+categories: [ Sentimental ]
 tags: [ letters, writing, art, family ]
 itemabout: |
- This item is a plastic-encased puzzle that shows a drawing of a waterfall, presumably Niagara Falls (a popular tourist destination as early as the 18th century). Users are asked to get all of the little balls off of a "bank" (a small wooden piece set flat inside the puzzle at the top of the falls) into a "whirlpool", a hole at the top right corner of the box.
-itemquote: |
- Similar puzzles by the same manufacturer, R. Journet, were sent to British solders imprisoned in Germany during WWI with a hacksaw, a compass and a map hidden inside to facilitate their escape.
+ This item is a collection of papers and photos, spanning from his birth certificate and finishing with his book, titled A Cuban Refugee’s Journey to the American Dream, launch comments.
 ---
 
 <figure>
-  <img src="http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:19718/LARGE" alt="Niagara Puzzle"/>
-  <figcaption>Image Courtesy, The Lilly Library, Indiana University, Bloomington, Indiana. For commercial uses, please contact the Lilly Library at 1200 East Seventh Street, Bloomington, Indiana, 47405-5500 or at http://www.indiana.edu/~liblilly/</figcaption>
+  <img src="http://fedora.dlib.indiana.edu/fedora/get/iudl:2501267/OVERVIEW"/>
+  <figcaption>Image Courtesy, The IU Archives, Indiana University, Bloomington, Indiana. For commercial uses, please contact the IU Archives at 1320 East Tenth Street, Herman B Wells Library E460, Bloomington, IN 47405-7000 or at phone: 812-855-1127 </figcaption>
 </figure>
