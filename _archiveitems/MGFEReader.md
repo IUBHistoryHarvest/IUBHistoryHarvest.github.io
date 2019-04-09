@@ -10,4 +10,5 @@ itemphoto: https://s3.amazonaws.com/pastperfectonline/images/museum_292/063/thum
 imagecredit: Courtesy, The Monroe County History Center, Bloomington, Indiana. For commercial uses, please contact the Monroe County History Center at collection@monroehistory.org or at 812-332-2517.
 itemcontributor: Michael Tetzloff
 itemcreator: William McGuffey
+itemsubject: Textbook
 ---
