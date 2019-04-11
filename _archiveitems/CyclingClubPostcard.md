@@ -4,7 +4,9 @@ title: Postcard of Cycling Club at IU
 author: Heather
 itemarchive: Lilly Library
 itemid: LMC_2804_Box_1_Item_5
-itemurl: http://webapp1.dlib.indiana.edu/findingaids/view?brand=general&docId=InU-Li-VAD0285.xml&chunk.id=d1e280&text1=Cycling%20Club&startDoc=1
+itemurl: http://purl.dlib.indiana.edu/iudl/findingaids/lilly/InU-Li-VAD0285
+itemphoto: http://purl.dlib.indiana.edu/iudl/lilly/screen/VAD0285-U-00037-001
+imagecredit: Courtesy, The Lilly Library, Indiana University, Bloomington, Indiana. For commercial uses, please contact the Lilly Library at 1200 East Seventh Street, Bloomington, Indiana, 47405-5500 or at http://www.indiana.edu/~liblilly/
 itemcontributor: Heather Hoffmeyer
 itemcreator: N/A
 itemsubject: Photograph
@@ -23,3 +25,5 @@ itemquote: |
   <img src="http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:19718/LARGE" alt="Niagara Puzzle"/>
   <figcaption>Image Courtesy, The Lilly Library, Indiana University, Bloomington, Indiana. For commercial uses, please contact the Lilly Library at 1200 East Seventh Street, Bloomington, Indiana, 47405-5500 or at http://www.indiana.edu/~liblilly/</figcaption>
 </figure>
+
+http://purl.dlib.indiana.edu/iudl/lilly/screen/VAD0285-U-00037-001
