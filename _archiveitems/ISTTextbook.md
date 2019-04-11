@@ -6,14 +6,14 @@ itemarchive: IU archives
 archiveurl: http://purl.dlib.indiana.edu/iudl/findingaids/archives/InU-Ar-VAD1042
 itemid: InU-Ar-VAD1042
 itemurl: 
-itemphoto: https://m.media-amazon.com/images/I/51V5z4cyTrL._AC_UL654_FMwebp_QL65_.jpg
-imagecredit: Courtesy, Amazon.com, LLC
+itemphoto: https://www.pearsonhighered.com/assets/bigcovers/0/1/3/1/0131136828.jpg
+imagecredit: Courtesy, Pearson
 itemcontributor: Michael Tetzloff
 itemcreator: Michael Molenda
 itemsubject: Textbook
 itemdate: circa 2002
 itemtype: Physical Object
-shortdesc: This textbook showx how different forms of technology/media can be integrated into a classroom to promote education from the perspective of the instructor. 
+shortdesc: This textbook shows how different forms of technology/media can be integrated into a classroom to promote education from the perspective of the instructor. 
 categories: [ Practical ]
 tags: [ Textbook, School, Technology, Education ]
 itemabout: |
