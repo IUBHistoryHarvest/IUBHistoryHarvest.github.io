@@ -6,6 +6,7 @@ itemarchive: IU Archives
 itemid: C694-VAE0298-00001
 itemurl: http://purl.dlib.indiana.edu/iudl/findingaids/archives/InU-Ar-VAE0298
 itemphoto: http://purl.dlib.indiana.edu/iudl/archives/screen/VAE0298-U-00003-001
+imagecredit: Image Courtesy, The IU Archives, Indiana University, Bloomington, Indiana. For commercial uses, please contact the IU Archives at 1320 East Tenth Street, Herman B Wells Library E460, Bloomington, IN 47405-7000 or at 812-855-1127
 itemcontributor: Chelsea Villatoro
 itemcreator: Gerardo M. Gonzalez
 itemsubject: Letters
