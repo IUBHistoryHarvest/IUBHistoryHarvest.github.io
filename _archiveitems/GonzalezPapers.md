@@ -4,7 +4,8 @@ title: Gerardo M. Gonzalez papers, 1952-2018, bulk 1961-1963
 author: chelsea
 itemarchive: IU Archives
 itemid: C694-VAE0298-00001
-imagecredit: Image Courtesy, The IU Archives, Indiana University, Bloomington, Indiana. For commercial uses, please contact the IU Archives at 1320 East Tenth Street, Herman B Wells Library E460, Bloomington, IN 47405-7000 or at phone: 812-855-1127
+itemurl: http://purl.dlib.indiana.edu/iudl/findingaids/archives/InU-Ar-VAE0298
+itemphoto: http://purl.dlib.indiana.edu/iudl/archives/screen/VAE0298-U-00003-001
 itemcontributor: Chelsea Villatoro
 itemcreator: Gerardo M. Gonzalez
 itemsubject: Letters
