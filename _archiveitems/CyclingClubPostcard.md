@@ -22,7 +22,7 @@ itemquote: |
 ---
 
 <figure>
-  <img src="http://webapp1.dlib.indiana.edu/findingaids/view?doc.view=entire_text&docId=InU-Li-VAD0285"/>
+  <img src="http://fedora.dlib.indiana.edu/fedora/get/iudl:1702976/SCREEN"/>
   <figcaption>Image Courtesy, The Lilly Library, Indiana University, Bloomington, Indiana. For commercial uses, please contact the Lilly Library at 1200 East Seventh Street, Bloomington, Indiana, 47405-5500 or at http://www.indiana.edu/~liblilly/</figcaption>
 </figure>
 
