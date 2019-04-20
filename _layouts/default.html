@@ -186,13 +186,8 @@ ga('send', 'pageview');
 		</div>
 		<div class="col-md-8 p-5 align-self-center text-center">      
 
-
-			{% assign categories =  site.items | map: 'categories' | join: ','  | split: ',' | uniq %}
-			{% for category in categories %}
-            <a href="{{site.baseurl}}/groups#{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} artifacts</a>
-            {% endfor %}
-
-
+ 			<a href="{{ site.baseurl }}/items">IUB History Harvest Artifacts</a>
+            <a href="{{ site.baseurl }}/archiveitems">Related Museum & Archival Objects</a>
 		</div>
 	</div>
 </div>

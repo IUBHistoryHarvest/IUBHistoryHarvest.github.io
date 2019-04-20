@@ -71,6 +71,14 @@ permalink: "/stories"
 			{% include itembox.html %}
 			{% endif %}
 			{% endfor %}
+
+			{% assign pages_list = docs %}
+			{% for item in site.archiveitems %}
+			{% if page.selectedarchiveitems contains item.itemid %}   
+			{% include itembox.html %}
+			{% endif %}
+			{% endfor %}
+			
 			</div>    			
 
 		</div>
