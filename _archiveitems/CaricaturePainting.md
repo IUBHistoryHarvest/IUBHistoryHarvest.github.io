@@ -4,9 +4,11 @@ title: Caricature Painting
 author: Brian Robustot
 itemarchive: Indiana University Archives 
 itemid: Poo34367
+itemurl: http://webapp1.dlib.indiana.edu/archivesphotos/results/item.do?itemId=P0034367&searchId=0&searchResultIndex=1
+itemphoto: http://fedora.dlib.indiana.edu/fedora/get/iudl:1081168/LARGE
 itemcontributor: Brian Robusto
 itemcreator: Ralph F. Thompson
-itemsubject: http://fedora.dlib.indiana.edu/fedora/get/iudl:1081168/LARGE
+itemsubject: Painting 
 itemdate: 1914 June 3.
 itemtype: Photographic 
 shortdesc: This caricature painting deals with a single subject and means to exaggerate features and distinctions of the individual
