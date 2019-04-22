@@ -10,7 +10,7 @@ itemcreator: unknown
 itemsubject: political pins 
 itemdate: circa 1940
 itemtype: Physical Object
-shortdesc: This political pin is from Wendell Willkie's political campaign against Franklin D. Roosevelt in 1940. 
+shortdesc: This political pin is from Wendell Willkie's political campaign against Franklin D. Roosevelt in 1940. The change in Willkie’s political tactics are reflected in the political pins that were produced during his campaign.
 categories: [ Sentimental ]
 tags: [ political, pin, Wendell Willkie, Republican ]
 itemabout: |
