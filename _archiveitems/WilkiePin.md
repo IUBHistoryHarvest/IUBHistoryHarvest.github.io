@@ -3,8 +3,8 @@ layout: item
 title: Wendell Willkie Political Pin
 author: Zoe
 itemarchive: Lilly Library Archives
-itemid: ARCHIVEITEMIDHERE
-itemurl:
+itemid: LMC-2191-Box-148
+itemurl: http://purl.dlib.indiana.edu/iudl/findingaids/lilly/InU-Li-VAD1205
 itemcontributor: Zoe Swayne
 itemcreator: unknown
 itemsubject: political pins 
