@@ -8,10 +8,10 @@
 			{% if item.itemphoto %}
 				<img class="img-fluid" src="{{ item.itemphoto }}" alt="{{ page.title }}">
 			{% elsif item.itemid %}
-				{% capture ItemImagePath %}{{ site.baseurl }}/assets/items/{{ item.itemid }}_th{% endcapture %}
+				{% capture ItemImagePath %}assets/items/{{ item.itemid }}_th{% endcapture %}
 				{% for static_file in site.static_files %}
 					{% if static_file.path contains ItemImagePath %}
-						<img class="img-fluid" src="{{ static_file.path }}" alt="{{ page.title }}">
+						<img class="img-fluid" src="{{ site.baseurl }}{{ static_file.path }}" alt="{{ page.title }}">
 					{% endif %}
 				{% endfor %}
 			{% endif %}

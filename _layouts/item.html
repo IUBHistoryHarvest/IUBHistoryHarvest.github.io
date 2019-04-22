@@ -46,7 +46,7 @@ permalink: "/items"
 			<!-- Post Featured Image -->
 			{% if page.itemphoto %}<img class="featured-image img-fluid" src="{{ page.itemphoto }}" alt="{{ page.title }}">
 			{%if page.imagecredit %}{{ page.imagecredit }}{% endif %}
-			{% elsif page.itemid %}{% capture ItemImagePath %}{{ site.baseurl }}/assets/items/{{ page.itemid }}{% endcapture %}{% for static_file in site.static_files %}{% if static_file.path contains ItemImagePath %}{% unless static_file.path contains '_th' %}<img class="featured-image img-fluid" src="{{ static_file.path }}" alt="{{ page.title }}">{% endunless %}{% endif %}{% endfor %}{% endif %}
+			{% elsif page.itemid %}{% capture ItemImagePath %}/assets/items/{{ page.itemid }}{% endcapture %}{% for static_file in site.static_files %}{% if static_file.path contains ItemImagePath %}{% unless static_file.path contains '_th' %}<img class="featured-image img-fluid" src="{{ site.baseurl }}{{ static_file.path }}" alt="{{ page.title }}">{% endunless %}{% endif %}{% endfor %}{% endif %}
 			<!-- End Featured Image -->
 
 			<!-- Post Content -->

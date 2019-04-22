@@ -1,7 +1,7 @@
 ---
 layout: archiveitems
 title: History Harvest Artifacts
-permalink: /archiveitems
+permalink: /archiveitems/index.html
 comments: false
 ---
 

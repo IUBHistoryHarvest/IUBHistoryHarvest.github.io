@@ -1,7 +1,7 @@
 ---
 layout: stories
 title: Our Stories
-permalink: /stories
+permalink: /stories/index.html
 comments: false
 ---
 
