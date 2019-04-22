@@ -3,8 +3,9 @@ layout: item
 title: Benton Murals
 author: sydney
 itemarchive: IU Campus
-itemid: 
-itemurl: 
+itemid: BentonMurals
+imagecredit: Thomas Hart Benton, A Social History of Indiana (1933), on view in Woodburn Hall 100 at the University of Indiana. Courtesy of University of Indiana.
+itemurl: https://www.jstor.org/stable/27792973?seq=2#metadata_info_tab_contents
 itemcontributor: Sydney 
 itemcreator: Thomas Benton
 itemsubject: Murals
@@ -18,8 +19,3 @@ itemabout: |
 itemquote: |
  As many students felt that the mural containing this image was affecting their learning, the room in Woodburn hall that contains it no longer holds class. 
 ---
-
-<figure>
-  <img src="https://www.jstor.org/stable/27792973?seq=2#metadata_info_tab_contents"/>
-  <figcaption>  /</figcaption>
-</figure>

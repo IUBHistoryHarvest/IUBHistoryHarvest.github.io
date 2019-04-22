@@ -25,5 +25,3 @@ itemquote: |
   <img src="http://fedora.dlib.indiana.edu/fedora/get/iudl:1702976/SCREEN"/>
   <figcaption>Image Courtesy, The Lilly Library, Indiana University, Bloomington, Indiana. For commercial uses, please contact the Lilly Library at 1200 East Seventh Street, Bloomington, Indiana, 47405-5500 or at http://www.indiana.edu/~liblilly/</figcaption>
 </figure>
-
-http://purl.dlib.indiana.edu/iudl/lilly/screen/VAD0285-U-00037-001
