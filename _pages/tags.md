@@ -1,7 +1,7 @@
 ---
 layout: tags
 title: tags
-permalink: /tags
+permalink: /tags/
 comments: false
 ---
 
