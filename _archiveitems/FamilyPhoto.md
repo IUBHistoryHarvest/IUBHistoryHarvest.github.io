@@ -1,6 +1,6 @@
 ---
 layout: item
-title: Professional Photo of Flaten Family 
+title: Professional Family Photo  
 author: katie
 itemarchive: Indiana University Office of University Archives and Records Management
 archiveurl: http://webapp1.dlib.indiana.edu/archivesphotos/index.jsp
