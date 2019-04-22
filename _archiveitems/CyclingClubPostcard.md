@@ -12,7 +12,7 @@ itemcreator: N/A
 itemsubject: Photograph
 itemdate: circa 1950's
 itemtype: Physical Object
-shortdesc: This is a postcard that shows people biking, an old hobby here at IU.
+shortdesc: This is a postcard that shows people biking, an old hobby at IU.
 categories: [ Sentimental ]
 tags: [ photograph, cycling, hobbies, ]
 itemabout: |
