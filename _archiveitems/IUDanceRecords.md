@@ -4,7 +4,7 @@ title: IU Dance Records
 author: tara
 itemarchive: IU Online Archives
 itemid: CollectionC561
-itemurl: http://webapp1.dlib.indiana.edu/findingaids/view?doc.view=entire_text&docId=InU-Ar-VAD4124
+itemurl: http://purl.dlib.indiana.edu/iudl/findingaids/archives/InU-Ar-VAD4124
 itemphoto: https://blogs.libraries.indiana.edu/iubarchives/files/2015/03/workshop-large.jpg
 imagecredit: Image Courtesy, Indiana Daily Student, 21 Sep 1960, Indiana University, Bloomington, Indiana.
 itemcontributor: Tara Rosenwinkel
