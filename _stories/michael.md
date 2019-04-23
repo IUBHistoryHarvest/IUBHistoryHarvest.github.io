@@ -16,3 +16,4 @@ selecteditems:
 categories: [ Practical ]
 ---
 
+People accumulate books for various reasons. Some books allow others to visit made-up worlds and fantasize about what could be. Other books record the history of a family or events. Books like these get plenty of wear and tear over their lives as people open them, fold their pages, highlight and make notes, and just use them for pleasure. What about the books that get forgotten because they're required for some class or another, they get shoved in a corner to be forgotten forever. 
