@@ -3,7 +3,7 @@ layout: item
 title: Showalter Fountain
 author: Sydney
 itemarchive: IU Campus
-itemid: ARCHIVEITEMIDHERE
+itemid: Showalter
 itemurl: https://www.idsnews.com/article/2017/12/ca-statues-real
 itemcontributor: Sydney Smith
 itemcreator: Professor Robert Laurent
