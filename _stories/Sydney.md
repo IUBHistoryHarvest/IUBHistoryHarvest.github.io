@@ -8,7 +8,7 @@ featureditem: 2019-03-05-ID0011
 selectedarchiveitems:
  - BentonMurals
  - HermanBWells
- -Showalter
+ - Showalter
 selecteditems:
  - 2019-03-05-ID0004
  - 2019-03-05-ID0006
