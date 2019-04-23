@@ -3,7 +3,7 @@ layout: item
 title: IU Dance Records
 author: tara
 itemarchive: IU Online Archives
-itemid: Collection C561
+itemid: CollectionC561
 itemurl: http://webapp1.dlib.indiana.edu/findingaids/view?doc.view=entire_text&docId=InU-Ar-VAD4124
 itemcontributor: Tara Rosenwinkel
 itemcreator: Indiana University, Bloomington. Dance program.
