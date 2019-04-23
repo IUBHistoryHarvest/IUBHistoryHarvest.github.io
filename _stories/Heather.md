@@ -5,6 +5,8 @@ exhibittitle: Sick Kicks, Dude
 author: Heather
 storyid: Heather
 featureditem: 2019-03-05-ID0009
+selectedarchiveitems:
+ - LMC_2804_Box_1_Item_5
 selecteditems:
  - 2019-03-05-ID0009
  - 2019-03-05-ID0006
