@@ -16,5 +16,5 @@ shortdesc: This 1928 Indiana University sweater is a simple black and white incl
 categories: [ Sentimental, Practical ]
 tags: [ clothing, sweater, university apparel,]
 itemabout: |
-Clothing can be used to express identity, represent deviations from societal norms, or signify affiliations, for instance. This specific article of clothing is an Indiana University sweater issued in 1928. Dawning a near prehistoric logo and virtually no color, everything but the clothing symbolism has evolved over time, signifying that even centuries ago the desire for self-expression was still regularly fulfilled using clothing
+ Clothing can be used to express identity, represent deviations from societal norms, or signify affiliations, for instance. This specific article of clothing is an Indiana University sweater issued in 1928. Dawning a near prehistoric logo and virtually no color, everything but the clothing symbolism has evolved over time, signifying that even centuries ago the desire for self-expression was still regularly fulfilled using clothing
  ---
