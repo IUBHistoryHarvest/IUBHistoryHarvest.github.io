@@ -7,7 +7,7 @@ storyid: tara
 featureditem: 2019-03-05-ID0006
 selectedarchiveitems:
  - CollectionC561
- selecteditems:
+selecteditems:
  - 2019-03-05-ID0004
  - 2019-03-05-ID0011
  - 2019-03-019-ID0009
