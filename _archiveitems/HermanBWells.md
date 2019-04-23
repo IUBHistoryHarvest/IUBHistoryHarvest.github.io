@@ -4,7 +4,7 @@ title: Herman B Wells Statue
 author: sydney
 itemarchive: IU Campus
 itemid: HermanBWells
-itemurl: https://libraries.indiana.edu/archives-photograph-collection
+itemurl: http://webapp1.dlib.indiana.edu/archivesphotos/results/item.do?itemId=P0074454&searchId=1&searchResultIndex=2
 itemcontributor: Sydney 
 itemcreator: Tuck Langland
 itemsubject: Statue
