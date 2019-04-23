@@ -1,0 +1,347 @@
+---
+title: "Items"
+permalink: "/itemprint"
+---
+
+<!-- Begin Article
+================================================== -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+<link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
+    
+<title>{{ page.title }} | {{site.name}}</title>
+        
+{% seo %}
+    
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    
+<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+    
+<link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
+    
+<link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
+    
+<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+    
+{% if item.itemid %}
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
+<meta name="DC.Title" content="{{ item.title }}">
+<meta name="DC.Creator" content="{{ page.author }}">
+<meta name="DC.Description" content="{{ item.shortdesc }}">
+<meta name="DC.Contributor" content="{{ item.contributor }}">
+<meta name="DC.Date" content="HarvestDate">
+<meta name="DC.Format" content="JPG">
+<meta name="DC.Identifier" content="{{ item.itemid }}">
+{% endif %}
+
+</head>
+    
+{% if jekyll.environment == 'production' %}    
+<!-- change your GA id in _config.yml -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', '{{site.google_analytics}}', 'auto');
+ga('send', 'pageview');
+</script>
+{% endif %}
+    
+{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
+<body class="{{layout}}">
+
+    
+<!-- Begin Menu Navigation
+================================================== -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+    
+    <div class="container pr-0">    
+    
+    <!-- Begin Logo -->
+    <a class="navbar-brand" href="{{ site.baseurl }}/">
+    <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
+    History Harvest</a>
+    <!-- End Logo -->
+  
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+    
+    
+    <div class="collapse navbar-collapse" id="navbarMediumish">
+       
+        <!-- Begin Menu -->
+        
+            <ul class="navbar-nav ml-auto">
+                
+<!--                {% if page.url == "/" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
+                </li>
+                 {% if page.url == "/" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/stories">A200 Histories</a>
+                </li>
+-->
+                 
+                 {% if page.url == "/" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/items">IUB History Harvest Artifacts</a>
+                </li>
+ 
+                 {% if page.url == "/" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/archiveitems">Related Museum & Archival Objects</a>
+                </li>
+ 
+<!-- 
+               
+                {% if page.url == "/about.html" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
+                </li>
+-->                
+                
+                
+                {% include search-lunr.html %}
+                
+            </ul>		
+        
+        
+  
+        <!-- End Menu -->
+
+    </div>
+        
+    </div>
+</nav>
+<!-- End Navigation
+================================================== -->
+    
+<div class="site-content">   
+    
+<div class="container">
+    
+<!-- Site Title
+================================================== -->
+<div class="mainheading">
+    <h1 class="sitetitle">{{ site.name }}</h1>
+{% if page.url == "/" %}
+    <p class="lead">
+         {{ site.description }}
+    </p>
+{% endif %}
+</div>
+
+    
+    
+<!-- Content
+================================================== --> 
+<div class="main-content">
+
+
+<div class="container">
+	<div class="row">
+
+		<!-- Post Share -->
+		<div class="col-md-2 pl-0">            
+           {% include share.html %}
+		</div>
+		
+
+		<!-- Post -->        
+        {% assign author = site.authors[page.author] %}
+        
+		<div class="col-md-9 flex-first flex-md-unordered">
+			<div class="mainheading">
+
+			<!-- Post Title -->
+			<div class="section-title col-md-12 mt-4" style="padding-left: 0;">
+			<h1 class="posttitle">{{ page.title }}</h1>
+			</div>
+			<p>Contributed by {{ page.itemcontributor }}
+			<!-- Post Tags and Categories -->
+			<!-- ><ul class="tags">
+				{% assign sortedCategories = page.categories | sort %}
+					{% for category in sortedCategories %}
+					<li>                        
+					 <a class="smoothscroll" href="{{site.baseurl}}/groups#{{ category | replace: " ","-" }}">{{ category }} artifacts</a>
+					</li>
+					{% endfor %}
+				{% for tag in page.tags %}
+				<li>                        
+				 <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">{{ tag }}</a>
+				</li>
+				{% endfor %}
+			</ul>-->
+			<!-- End Tags and Categories -->
+		</div>
+
+			<!-- Post Featured Image -->
+			{% if page.itemphoto %}<img class="featured-image img-fluid" src="{{ page.itemphoto }}" alt="{{ page.title }}">
+			{%if page.imagecredit %}{{ page.imagecredit }}{% endif %}
+			{% elsif page.itemid %}{% capture ItemImagePath %}/assets/items/{{ page.itemid }}{% endcapture %}{% for static_file in site.static_files %}{% if static_file.path contains ItemImagePath %}{% unless static_file.path contains '_th' %}<img class="featured-image img-fluid" src="{{ site.baseurl }}{{ static_file.path }}" alt="{{ page.title }}">{% endunless %}{% endif %}{% endfor %}{% endif %}
+			<!-- End Featured Image -->
+
+			<!-- Post Content -->
+			<div class="article-post">
+				<h4 id="about-this-object">About this object</h4>
+					{{ page.itemabout | markdownify }}
+
+				{%if page.itemquote %}<h4 id="why-this-object-matters"> Why this object matters</h4>
+					<blockquote>{{ page.itemquote | markdownify }}</blockquote>{% endif %}
+			</div>
+
+
+			<div class="element-set">
+
+				<div class="section-title col-md-12 mt-4" style="padding-left: 0;">
+				<h2 id="Dublin Core"><span class="text-capitalize">Dublin Core</span></h2>
+				</div>
+				{%if page.itemarchive %}
+				<h4>Originating Archive Object</h4>
+				{%if page.archiveurl %}<a href="{{ page.archiveurl }}">{% endif %}<div class="element-text">{{ page.itemarchive}}{%if page.itemid %} {{ page.itemid}}{% endif %}</div>{%if page.archiveurl %}</a>{% endif %}
+				{% endif %}
+					<div id="dublin-core-title" class="element">
+				<h4>Title</h4>
+					{%if page.itemurl %}<a href="{{ page.itemurl }}">{% endif %}<div class="element-text">{{ page.title }}</div>{%if page.itemurl %}</a>{% endif %}
+					</div><!-- end element -->
+				<div id="dublin-core-subject" class="element">
+				<h4>Subject</h4>
+							<div class="element-text">{{ page.itemsubject }}</div>
+					</div><!-- end element -->
+				<div id="dublin-core-description" class="element">
+				<h4>Description</h4>
+							<div class="element-text">{{ page.shortdesc }}</div>
+					</div><!-- end element -->
+				<div id="dublin-core-creator" class="element">
+				<h4>Creator</h4>
+							<div class="element-text">{{ page.itemcreator }}</div>
+					</div><!-- end element -->
+				<div id="dublin-core-contributor" class="element">
+				<h4>Contributor</h4>
+							<div class="element-text">{{ page.itemcontributor }}</div>
+					</div><!-- end element -->
+				<div id="dublin-core-date" class="element">
+				<h4>Date</h4>
+							<div class="element-text">{{ page.itemdate }}</div>
+					</div><!-- end element -->
+				<div id="dublin-core-type" class="element">
+				<h4>Type</h4>
+							<div class="element-text">{{ page.itemtype }}</div>
+					</div><!-- end element -->
+			</div><!-- end element-set -->
+
+                        
+            <!-- End Categories -->
+
+		</div>
+		<!-- End Post -->
+
+	</div>
+</div>
+<!-- End Article
+================================================== -->
+
+
+</div>
+
+{% if site.mailchimp-list %}
+<!-- Bottom Alert Bar
+================================================== -->
+<div class="alertbar">
+	<div class="container text-center">
+		<span><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter</span>
+        <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
+            <div class="mc-field-group">
+            <input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
+            <input type="submit" value="Subscribe" name="subscribe" class="heart">
+            </div>
+        </form>
+	</div>
+</div>    
+{% endif %}
+    
+</div><!-- /.container>
+    
+<!-- Categories Jumbotron
+================================================== -->
+<div class="jumbotron fortags">
+	<div class="d-md-flex h-100">
+		<div class="col-md-4 transpdark align-self-center text-center h-100">
+            <div class="d-md-flex align-items-center justify-content-center h-100">
+                <h2 class="d-md-block align-self-center py-1 font-weight-light">Explore <span class="d-none d-md-inline">→</span></h2>
+            </div>
+		</div>
+		<div class="col-md-8 p-5 align-self-center text-center">      
+
+ 			<a href="{{ site.baseurl }}/items">IUB History Harvest Artifacts</a>
+            <a href="{{ site.baseurl }}/archiveitems">Related Museum & Archival Objects</a>
+		</div>
+	</div>
+</div>
+ 
+
+
+<!-- Begin Footer
+================================================== -->
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+                 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+                  {{ site.time | date: "%Y" }} {{ site.name }} 
+            </div>
+            <div class="col-md-6 col-sm-6 text-center text-lg-right">    
+                <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- End Footer
+================================================== -->
+
+   
+</div> <!-- /.site-content -->
+
+<!-- Scripts
+================================================== -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+    
+<script src="{{ site.baseurl }}/assets/js/mediumish.js"></script>
+
+<script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script> 
+    
+<script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
+    
+</body>
+</html>
+  
