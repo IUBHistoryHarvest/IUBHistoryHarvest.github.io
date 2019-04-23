@@ -1,10 +1,13 @@
 ---
 layout: story
-title: 
-exhibittitle: Surprise, Mom, I'm Gay! 
+title: Surprise, Mom, I'm Gay!
+exhibittitle: Sentimental Pins
 author: Sarah
 storyid: Sarah
 featureditem: 2019-03-05-ID0010
+selectedarchiveitems:
+ - LMC-2191-Box-148
+ - 2009.055.0001
 selecteditems:
  - 2019-03-05-ID0010
  - 2019-03-05-ID0013
@@ -13,6 +16,10 @@ selecteditems:
  - 2019-03-019-ID0010
 categories: [ Sentimental ]
 ---
+
+ 
+
+## More About Pins
 
  Pins have been used in the United States since 1789 for George Washington’s first inauguration. Then, they were patented in 1892 by Benjamin Whitehead. Pins are used to show support or express a certain feeling. The pin is used so others can see and hopefully will also support LGBTQ+ members.
 
