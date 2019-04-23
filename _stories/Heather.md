@@ -1,14 +1,13 @@
 ---
 layout: story
 title: 
-exhibittitle: Sick Kicks, Dude 
+exhibittitle: Hobbies at IU 
 author: Heather
 storyid: Heather
 featureditem: 2019-03-05-ID0009
 selectedarchiveitems:
  - LMC_2804_Box_1_Item_5
 selecteditems:
- - 2019-03-05-ID0009
  - 2019-03-05-ID0006
  - 2019-03-05-ID0001
  
