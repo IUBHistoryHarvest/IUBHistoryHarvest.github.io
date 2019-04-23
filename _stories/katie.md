@@ -5,6 +5,8 @@ exhibittitle: History of Family Photographs
 author: katie
 storyid: katie
 featureditem: 2019-03-05-ID0005
+selectedarchiveitems:
+ - P0067496
 selecteditems:
  - 2019-03-05-ID0007
  - 2019-03-22-ID0006
