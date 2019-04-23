@@ -1,7 +1,7 @@
 ---
 layout: story
-title: History of Family Photographs
-exhibittitle: History of Family Photographs
+title: A Picture's Worth your Personal History
+exhibittitle: Recording Moments through Photographs
 author: katie
 storyid: katie
 featureditem: 2019-03-05-ID0005
