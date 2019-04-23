@@ -1,7 +1,7 @@
 ---
 layout: story
 title: And the Things we Attach Meaning to
-exhibittitle: Toys in IU's history
+exhibittitle: Where you see an object, we see a story
 author: chelsea
 storyid: chelsea
 featureditem: 2019-03-05-ID0007
