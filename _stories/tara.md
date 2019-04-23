@@ -17,8 +17,3 @@ categories: [ Sentimental ]
 ---
 
 Modern dance shoes, also known as pirouettes, began to emerge in the dance world when modern dance styles, such as lyrical and contemporary, evolved from ballet. These new styles adopted untraditional kinds of movement, which required women to have footwear that enabled them to have their feet planted firmly on the ground.  Typically made out of either canvas or leather, the shoes only cover half of the foot.  It stays on due to the two elastic bands that go around the heel of the foot.  The exposed heel and flexible material around the toes allows for the wearer to have more grip on the floor when in motion.
-
-## Things I want to include from IU GET RID OF THIS AND LINK IN TEXT
-
--www.jstor.org/stable/40259742
--www.jstor.org/stable/43488768
