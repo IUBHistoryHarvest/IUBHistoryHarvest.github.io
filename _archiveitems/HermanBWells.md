@@ -3,7 +3,7 @@ layout: item
 title: Herman B Wells Statue
 author: sydney
 itemarchive: IU Campus
-itemid: 
+itemid: HermanBWells
 itemurl: 
 itemcontributor: Sydney 
 itemcreator: Tuck Langland
