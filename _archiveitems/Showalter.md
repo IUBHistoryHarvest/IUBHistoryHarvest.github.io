@@ -4,7 +4,7 @@ title: Showalter Fountain
 author: Sydney
 itemarchive: IU Campus
 itemid: Showalter
-itemurl: https://www.idsnews.com/article/2017/12/ca-statues-real
+itemurl: http://webapp1.dlib.indiana.edu/archivesphotos/results/item.do?itemId=P0023130&searchId=3&searchResultIndex=1
 itemcontributor: Sydney Smith
 itemcreator: Professor Robert Laurent
 itemsubject: Scultpure
