@@ -5,6 +5,8 @@ author: tara
 itemarchive: IU Online Archives
 itemid: CollectionC561
 itemurl: http://webapp1.dlib.indiana.edu/findingaids/view?doc.view=entire_text&docId=InU-Ar-VAD4124
+itemphoto: https://blogs.libraries.indiana.edu/iubarchives/files/2015/03/workshop-large.jpg
+imagecredit: Image Courtesy, Indiana Daily Student, 21 Sep 1960, Indiana University, Bloomington, Indiana.
 itemcontributor: Tara Rosenwinkel
 itemcreator: Indiana University, Bloomington. Dance program.
 itemsubject: Dance Program Records
@@ -18,8 +20,3 @@ itemabout: |
 itemquote: |
  Fox's extracurricular dance program paved way for the development of Dance as a respected major and minor field at Indiana University.
 ---
-
-<figure>
-  <img src="https://blogs.libraries.indiana.edu/iubarchives/files/2015/03/workshop-large.jpg"/>
-  <figcaption>Image Courtesy, Indiana Daily Student, 21 Sep 1960, Indiana University, Bloomington, Indiana.
-</figure>
