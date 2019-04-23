@@ -4,7 +4,7 @@ title: The Oud
 author: ben
 itemarchive: Mathers Museum of World Cultures
 archiveurl: https://mathersmuseum.indiana.edu/collections1/permanent.html
-itemid: unknown
+itemid: LL-SLO-000333
 itemurl: https://mathersmuseum.indiana.edu/collections1/permanent.html
 itemphoto: https://mathersmuseum.indiana.edu/images/ethnomus-collection.jpg
 imagecredit: Courtesy, Mathers Museum of World Cultures, Indiana University, Bloomington, Indiana. For commercial uses, please contact the Mathers Museum of World Cultures at 416 N Indiana Ave, Bloomington, IN 47408 or at https://mathersmuseum.indiana.edu/
