@@ -1,6 +1,6 @@
 ---
 layout: item
-title: 
+title: IU Dance Records
 author: tara
 itemarchive: IU Online Archives
 itemid: Collection C561
