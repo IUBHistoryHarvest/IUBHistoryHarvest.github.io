@@ -30,6 +30,18 @@ permalink: "/itemprint"
 <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
     
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+
+<style>
+{
+  margin: 0px;
+  padding: 0px;
+  width: 670px; /* width: 7in; */
+  height: 900px; /* or height: 9.5in; */
+  clear: both;
+  background-color: gray;
+  page-break-after: always;
+}
+</style>
     
 {% if item.itemid %}
 <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/>
@@ -61,121 +73,8 @@ ga('send', 'pageview');
 <body class="{{layout}}">
 
     
-<!-- Begin Menu Navigation
-================================================== -->
-<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
-    
-    <div class="container pr-0">    
-    
-    <!-- Begin Logo -->
-    <a class="navbar-brand" href="{{ site.baseurl }}/">
-    <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
-    History Harvest</a>
-    <!-- End Logo -->
-  
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-    </button>
-    
-    
-    <div class="collapse navbar-collapse" id="navbarMediumish">
-       
-        <!-- Begin Menu -->
-        
-            <ul class="navbar-nav ml-auto">
-                
-<!--                {% if page.url == "/" %}
-                <li class="nav-item active">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
-                </li>
-                 {% if page.url == "/" %}
-                <li class="nav-item active">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/stories">A200 Histories</a>
-                </li>
--->
-                 
-                 {% if page.url == "/" %}
-                <li class="nav-item active">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/items">IUB History Harvest Artifacts</a>
-                </li>
- 
-                 {% if page.url == "/" %}
-                <li class="nav-item active">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/archiveitems">Related Museum & Archival Objects</a>
-                </li>
- 
-<!-- 
-               
-                {% if page.url == "/about.html" %}
-                <li class="nav-item active">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
-                </li>
--->                
-                
-                
-                {% include search-lunr.html %}
-                
-            </ul>		
-        
-        
-  
-        <!-- End Menu -->
-
-    </div>
-        
-    </div>
-</nav>
-<!-- End Navigation
-================================================== -->
-    
-<div class="site-content">   
-    
-<div class="container">
-    
-<!-- Site Title
-================================================== -->
-<div class="mainheading">
-    <h1 class="sitetitle">{{ site.name }}</h1>
-{% if page.url == "/" %}
-    <p class="lead">
-         {{ site.description }}
-    </p>
-{% endif %}
-</div>
-
-    
-    
-<!-- Content
-================================================== --> 
-<div class="main-content">
-
-
 <div class="container">
 	<div class="row">
-
-		<!-- Post Share -->
-		<div class="col-md-2 pl-0">            
-           {% include share.html %}
-		</div>
-		
-
-		<!-- Post -->        
-        {% assign author = site.authors[page.author] %}
         
 		<div class="col-md-9 flex-first flex-md-unordered">
 			<div class="mainheading">

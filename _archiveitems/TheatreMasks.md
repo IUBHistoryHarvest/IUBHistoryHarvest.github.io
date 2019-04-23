@@ -16,5 +16,5 @@ shortdesc: Eight theater masks used for visual performance and drama
 categories: [ Sentimental, Practical ]
 tags: [ theater, drama, puzzle, art, performance, masks]
 itemabout: |
-These items are 20th century performance masks used in the theater, dramas, and for general artitstic performances. These masks allow a performer to transform themselves into a character completely new, symbolize an idea or theme, or to represent a divide between two postures, such as comedy and tragedy.  
+ These items are 20th century performance masks used in the theater, dramas, and for general artitstic performances. These masks allow a performer to transform themselves into a character completely new, symbolize an idea or theme, or to represent a divide between two postures, such as comedy and tragedy.  
 ---
