@@ -6,6 +6,7 @@ itemarchive: Wells Library
 itemid: P0026900
 itemurl: http://purl.dlib.indiana.edu/iudl/archives/photos/P0026900
 itemcontributor:
+itemphoto: http://purl.dlib.indiana.edu/iudl/archives/photos/screen/P0026900
 itemcreator: Claude McDonald Hamilton 
 itemsubject: Insignia
 itemdate: circa 1898
