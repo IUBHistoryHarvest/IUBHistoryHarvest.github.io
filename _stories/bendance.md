@@ -1,18 +1,15 @@
 ---
 layout: story
-title: Bloomington Strings and Other Things
-exhibittitle: Creation Station
-author: Benjamin Dance
+title: Bloomington Strings
+exhibittitle: Stringed Instruments in Bloomington's History
+author: ben
 storyid: ben
 featureditem: 2019-03-05-ID0004
+selectedarchiveitems:
+ - LL-SLO-000333
 selecteditems:
  - 2019-03-05-ID0004
- - 2019-03-22-ID0005
- - 2019-03-05-ID0011
- - 2019-03-05-ID0006
- - 2019-03-22-ID0014
- - 2019-03-019-ID0009
-categories: [ Practical, Creation Station ]
+categories: [ Practical ]
 ---
 
 Since the advent of the acoustic guitar, the instrument has found a quintessential place within the American style of music. Pertaining to Bloomington, instrumentalists who utilized stringed instruments became most relevant to the city’s culture.
