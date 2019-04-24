@@ -25,10 +25,50 @@ permalink: "/itemprint"
     
 <link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
     
-<link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
-    
-<link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
-    
+<style>
+p { font-family: Merriweather; font-size: 75%; }
+
+.btn.follow {
+border-color: #02B875;
+color: #1C9963;
+padding: 3px 10px;
+text-align: center;
+border-radius: 999em;
+font-size: 0.85rem;
+display: inline-block;
+}
+
+.btn {
+display: inline-block;
+font-weight: 400;
+text-align: center;
+white-space: nowrap;
+vertical-align: middle;
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+border: 1px solid transparent;
+padding: .375rem .75rem;
+font-size: 1rem;
+line-height: 1.5;
+border-radius: .25rem;
+transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+a {
+color: #00ab6b;
+transition: all 0.2s;
+}
+p.blockquote {
+border-left: 4px solid #00ab6b;
+padding: 0 20px;
+font-style: italic;
+color: rgba(0,0,0,.5);
+font-size: 75%;
+}
+</style>
+
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
     
 {% if item.itemid %}
@@ -64,63 +104,38 @@ ga('send', 'pageview');
 
 <!-- Begin Article
 ================================================== -->
-		<table cellpadding=10px><tr><td width="25%" valign="top">
-				<h1 class="posttitle">{{ page.title }}</h1>
-			<p>Contributed by {{ page.itemcontributor }}
+<table>
+	<tr><td width=938 height=1260 cellpadding=10px align=center valign=top>
+	<h1 class="btn follow" style="font-size: 5ex; width:938px">{{ page.title }}</h1>
+		<table><tr><td width="25%" valign="top">
 			
 			<h2 id="Dublin Core"><span class="text-capitalize">Dublin Core</span></h2>
 				</div>
 				{%if page.itemarchive %}
 				<h4>Originating Archive Object</h4>
-				{%if page.archiveurl %}<a href="{{ page.archiveurl }}">{% endif %}<div class="element-text">{{ page.itemarchive}}{%if page.itemid %} {{ page.itemid}}{% endif %}</div>{%if page.archiveurl %}</a>{% endif %}
+				{%if page.archiveurl %}<a href="{{ page.archiveurl }}">{% endif %}<p style="margin-left:12px">{{ page.itemarchive}}{%if page.itemid %} {{ page.itemid}}{% endif %}</p>{%if page.archiveurl %}</a>{% endif %}
 				{% endif %}
-					<div id="dublin-core-title" class="element">
-				<h4>Title</h4>
-					{%if page.itemurl %}<a href="{{ page.itemurl }}">{% endif %}<div class="element-text">{{ page.title }}</div>{%if page.itemurl %}</a>{% endif %}
+					<h4>Title</h4>
+					{%if page.itemurl %}<a href="{{ page.itemurl }}">{% endif %}<p style="margin-left:12px">{{ page.title }}</p>{%if page.itemurl %}</a>{% endif %}
 					</div><!-- end element -->
-				<div id="dublin-core-subject" class="element">
 				<h4>Subject</h4>
-							<div class="element-text">{{ page.itemsubject }}</div>
-					</div><!-- end element -->
-				<div id="dublin-core-description" class="element">
+							<p style="margin-left:12px">{{ page.itemsubject }}</p>
 				<h4>Description</h4>
-							<div class="element-text">{{ page.shortdesc }}</div>
-					</div><!-- end element -->
-				<div id="dublin-core-creator" class="element">
+							<p style="margin-left:12px">{{ page.shortdesc }}</p>
 				<h4>Creator</h4>
-							<div class="element-text">{{ page.itemcreator }}</div>
-					</div><!-- end element -->
-				<div id="dublin-core-contributor" class="element">
+							<p style="margin-left:12px">{{ page.itemcreator }}</p>
 				<h4>Contributor</h4>
-							<div class="element-text">{{ page.itemcontributor }}</div>
-					</div><!-- end element -->
-				<div id="dublin-core-date" class="element">
+							<p style="margin-left:12px">{{ page.itemcontributor }}</pp>
 				<h4>Date</h4>
-							<div class="element-text">{{ page.itemdate }}</div>
-					</div><!-- end element -->
-				<div id="dublin-core-type" class="element">
+							<p style="margin-left:12px">{{ page.itemdate }}</p>
 				<h4>Type</h4>
-							<div class="element-text">{{ page.itemtype }}</div>
-					</div><!-- end element -->
-			</div><!-- end element-set -->
+							<p style="margin-left:12px">{{ page.itemtype }}</p>
+				<h4>About this object</h4>
+							{{ page.itemabout | markdownify | replace: "<p>", "<p style='margin-left:12px'>"}}
 
+			</div><!-- end element-set -->
 		</td>
-		<td width="70%"><div class="section-title col-md-12 mt-4" style="padding-left: 0;">
-			<!-- Post Tags and Categories -->
-			<!-- ><ul class="tags">
-				{% assign sortedCategories = page.categories | sort %}
-					{% for category in sortedCategories %}
-					<li>                        
-					 <a class="smoothscroll" href="{{site.baseurl}}/groups#{{ category | replace: " ","-" }}">{{ category }} artifacts</a>
-					</li>
-					{% endfor %}
-				{% for tag in page.tags %}
-				<li>                        
-				 <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">{{ tag }}</a>
-				</li>
-				{% endfor %}
-			</ul>-->
-			<!-- End Tags and Categories -->
+		<td width="70%">
 
 			<!-- Post Featured Image -->
 			{% if page.itemphoto %}<img width="70%" class="featured-image img-fluid" src="{{ page.itemphoto }}" alt="{{ page.title }}">
@@ -130,12 +145,25 @@ ga('send', 'pageview');
 
 			<!-- Post Content -->
 			<div class="article-post">
-				<h4 id="about-this-object">About this object</h4>
-					{{ page.itemabout | markdownify }}
-
 				{%if page.itemquote %}<h4 id="why-this-object-matters"> Why this object matters</h4>
-					<blockquote>{{ page.itemquote | markdownify }}</blockquote>{% endif %}
+					{{ page.itemquote | markdownify | replace: "<p>", "<p class=blockquote>"}}{% endif %}
 			</div>
+</td></tr></table>
+					<!-- Post Tags and Categories -->
+					<ul style="margin-left: -30px; line-height:200%;">
+						{% assign sortedCategories = page.categories | sort %}
+							{% for category in sortedCategories %}
+							<a class="btn follow" href="">                        
+							{{ category }} artifacts
+							</a>
+							{% endfor %}
+						{% for tag in page.tags %}
+						<a class="btn follow" href="">                             
+						{{ tag }}
+						</a>
+						{% endfor %}
+					</ul>
+					<!-- End Tags and Categories -->
 </td></tr></table><!-- End Article
 ================================================== -->
 
