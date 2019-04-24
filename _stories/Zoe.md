@@ -1,18 +1,24 @@
-
+---
 layout: story
 title: The Future is Female
-exhibittitle: Political Views as seen through Pins   
+exhibittitle: Political Views as seen through Pins
 author: Zoe
-storyid: Zoe 
+storyid: Zoe
 featureditem: 2019-03-05-ID0013
+selectedarchiveitems:
+ - LMC-2191-Box-148
 selecteditems:
  - 2019-03-019-ID0010
- - 2019-03-05-ID0010
- - 2019-03-22-ID0007
+ - 2019-03-019-ID0006
+
 categories: [ Sentimental ]
 ---
 
-Feminist pins and political buttons in general were an American invention. They started out as a form of patriotism to celebrate the newly elected official and eventually evolved into a concise way to state a political opinion. Their importance when it relates to history, however, is due to the materiality of the object and the memory it evokes. According to Jean Augustine, her political buttons serve as more than an expression of of political opinion. She describes her political pins as "talking pieces" that evoke memories from viewers. In other words, people that have memories associated with her political memorabilia will be reminded of that when they see or hear about the pins. This sparks the beginning of a conversation, which allows pins to be starting places for gathering information to weave a more accurate story. 
-The pins serve both practical and sentimental use. Since pins are able to be worn, they are considered to be a practical item. Due to the reflection of the values of the wearer, as well as the memories assocaited with political pins, they can also have sentimental value. 
-### Learn More:
-[Find more information in the article "Talking Pieces: Political Buttons and Narratives of Equal Rights Activism in Canada.”(https://journals.sagepub.com/doi/abs/10.1177/0021934716649644).
+Feminist pins and political buttons in general were an American invention. They started out as a form of patriotism to celebrate the newly elected official and eventually evolved into a concise way to state a political opinion. Political pins can be considered both practical and sentimental objects. Since they can be worn on clothing, they can be considered practical. Their importance when it relates to history, however, is due to the materiality of the object and the memory it evokes (which relates directly to the sentimentality). When talking about political pins as agents of history, Jean Augustine described them as "talking pieces". When a pin is shown to someone and they describe the memory they have associated with that pin, it begins a conversation that digs up related stories. The pin serves as a starting place for weaving the full history of an object together. Without the physicality of the pin, the conversation never would have began. [Read more about Jean Augustine's pins here:]((https://journals.sagepub.com/doi/abs/10.1177/0021934716649644).
+
+## Political Pins on the IU Campus 
+
+In 1940, IU law graduate [Wendell Willkie](http://webapp1.dlib.indiana.edu/metsnav3/general/index.html#mets=http%3A%2F%2Fpurl.dlib.indiana.edu%2Fiudl%2Fgeneral%2Fmets%2FVAB9959&page=24) ran for president and used political pins as a way to change his campaign tactic from discussing himself to bashing his opponent, Franklin D. Roosevelt. The [Wendell Willkie pins](https://iubhistoryharvest.github.io/archiveitems/WilkiePin.html) are located in the IU Lilly Library Archives. This object adds an extra layer of importance to material objects in history because it is phsycial evidence of Willkie's change in tactics during the presidential race. These objects also evoke memories for those who were present for Willkie's political campaign, although they would be memories related to the opposite end of the political spectrum than feminist pins. 
+
+More modern items that are present on campus include the [Pansexual Pride pin] (https://iubhistoryharvest.github.io/items/2019-03-05-ID0010.html) and the [Nasty Knitter pin](https://iubhistoryharvest.github.io/items/2019-03-019-ID0006.html). Both pins align with the ideological ideas that feminist pins convey. One was given as a gift in order to show support for the owner's coming out, and the other was given as a gift after the first Women's March as a sign of support for the movement. Both objects have the same practical and sentimental  capabilities as the feminist pins do, although the pansexual pride pin would evoke a different set of memories associated with the LGBTQ+ community. 
+
