@@ -3,7 +3,7 @@ layout: item
 title: Caricature Painting 
 author: Brian Robustot
 itemarchive: Indiana University Archives 
-itemid: Poo34367
+itemid: P0034367
 itemurl: http://webapp1.dlib.indiana.edu/archivesphotos/results/item.do?itemId=P0034367&searchId=0&searchResultIndex=1
 itemphoto: http://fedora.dlib.indiana.edu/fedora/get/iudl:1081168/LARGE
 itemcontributor: Brian Robusto
