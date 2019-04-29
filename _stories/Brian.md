@@ -1,15 +1,16 @@
 ---
 layout: story
-title: About Counterculture
-exhibittitle: something else about counterculture
+title: Our Tools of Self-Expression 
+exhibittitle: Clothes and The Personal Brand 
 author: brian
 storyid: brian
-featureditem: 2019-03-06-ID0002
+featureditem: 2019-03-05-ID0003
 selectedarchiveitems:
- - LL-SLO-000630
+ - P0034367
+ - P0027053
+ - P0053737
 selecteditems:
- - Vans
- - Timberlands
+ - 2019-03-05-ID0009
 categories: [ Sentimental ]
 ---
 
