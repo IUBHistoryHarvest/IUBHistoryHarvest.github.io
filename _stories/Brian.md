@@ -12,6 +12,7 @@ selectedarchiveitems:
 selecteditems:
  - 2019-03-05-ID0009
 categories: [ Sentimental ]
+---
 
 When we decide to put on a shirt, or a pair of pants for a day, we make this decision based on a few things: comfortability; of course, we want what we wear to feel good and make us happy in that way, appearance; we all want to look good, and type of clothing; if it's cold, we aren't gallavanting around in a tank-top and short shorts. These are the main pillars for dressing ourselves, and preparing for a day. However, there is a level to our clothing that delves far deeper than a base of practicality. When we choose a garment to wear, this decision often reflects a mood, or moreover, a personality. My rundown and battered Timberland boots provide practical advantages such as multi-environmental utility, but I could get the same use from a new, and potentially improved, pair of shoes. Instead, I keep these boots because they symbolize something deeper, a concept that proves universal throughout the world of clothing and brands.   
 
