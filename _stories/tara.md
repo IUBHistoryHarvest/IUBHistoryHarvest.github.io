@@ -16,4 +16,15 @@ selecteditems:
 categories: [ Sentimental ]
 ---
 
-Modern dance shoes, also known as pirouettes, began to emerge in the dance world when modern dance styles, such as lyrical and contemporary, evolved from ballet. These new styles adopted untraditional kinds of movement, which required women to have footwear that enabled them to have their feet planted firmly on the ground.  Typically made out of either canvas or leather, the shoes only cover half of the foot.  It stays on due to the two elastic bands that go around the heel of the foot.  The exposed heel and flexible material around the toes allows for the wearer to have more grip on the floor when in motion.
+In the performance world today, modern dance has much more prevalence than it has had in the past. Stemming from ballet, the new styles have both traditional and advanced components. Ballet more so portrays movement through a set of guidelines and rules while modern dance tends to be more abstract, pushing the preset boundaries of classic genres. Such a unique style allowed for dancers to start thinking more outside of the box. This being said, the dancers required different tools for executing , which required a change in [dancewear,](https://www.jstor.org/stable/40259742?seq=1#metadata_info_tab_contents) bringing about the pirouette. These shoes were desirable when the styles were changing since it allowed for more grip on the floor with the open heel design. [Marie Camargo](https://www.britannica.com/biography/Marie-Camargo) plays a big role in the evolution of dance shoes. In the mid 18th century, she wanted to perform jumping skills, one called an entrechat and one called a cabriole, that were normally done by male dancers. In order to execute the necessary movements, she took the heels off of her ballet shoes, making her one of the first ballerinas to wear a non-heeled ballet shoe.
+
+## Indiana University's Own History of Dance
+
+Looking at today's society, it's easy to see how much dance has progressed. Dance at a university used to only be for recreation, but now it can be offered as a [major](https://college.indiana.edu/academics/degrees-majors/major-guides/dance-bfa.html). It is also on record that IUB had a [dance program](http://purl.dlib.indiana.edu/iudl/findingaids/archives/InU-Ar-VAD4124) that began in 1927. The founder of this program was dancer Jane Fox who came to IU's campus as a faculty member. Fox started this program because she wanted to teach what she called "natural dance" to the studets. Originally, a part of the Women's Physical Education Department funded by the School of Education, this program eventually became prevalent and popular enough to turn dance into a respected major and minor at IU.
+
+<figure>
+  <img src="http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:19718/LARGE" alt="Natural Dancing"/>
+  <figcaption><small>Image Courtesy, Indiana University Archives, Indiana University, Bloomington, Indiana. For commercial uses, please contact the Herman B. Wells Library E460 at 1320 East Tenth Street, Bloomington, Indiana, 47405-700 or at http://www.libraries.iub.edu/archives</small></figcaption>
+</figure>
+
+Digging deeper into Fox's dance program, 
