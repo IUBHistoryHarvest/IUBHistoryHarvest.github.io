@@ -23,7 +23,7 @@ In the performance world today, modern dance has much more prevalence than it ha
 Looking at today's society, it's easy to see how much dance has progressed. Dance at a university used to only be for recreation, but now it can be offered as a [major](https://college.indiana.edu/academics/degrees-majors/major-guides/dance-bfa.html). It is also on record that IUB had a [dance program](http://purl.dlib.indiana.edu/iudl/findingaids/archives/InU-Ar-VAD4124) that began in 1927. The founder of this program was dancer Jane Fox who came to IU's campus as a faculty member. Fox started this program because she wanted to teach what she called "natural dance" to the studets. Originally, a part of the Women's Physical Education Department funded by the School of Education, this program eventually became prevalent and popular enough to turn dance into a respected major and minor at IU.
 
 <figure>
-  <img src="http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:19718/LARGE" alt="Natural Dancing"/>
+  <img src="http://fedora.dlib.indiana.edu/fedora/get/iudl:1145845/LARGE" alt="Natural Dancing"/>
   <figcaption><small>Image Courtesy, Indiana University Archives, Indiana University, Bloomington, Indiana. For commercial uses, please contact the Herman B. Wells Library E460 at 1320 East Tenth Street, Bloomington, Indiana, 47405-700 or at http://www.libraries.iub.edu/archives</small></figcaption>
 </figure>
 
