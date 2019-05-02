@@ -10,7 +10,8 @@ itemphoto: https://iu.box.com/shared/static/vmmmpvq1bq0tgw1ln7e2nz7pniompx0v.jpg
 imagecredit: Courtesy, Jacobs School of Music William & Gayle Cook Music Library, Indiana University, Bloomington, Indiana. For commercial uses, please contact the William & Gayle Cook Music Library at 200 South Jordan Avenue, Bloomington, Indiana, 47405 or at https://libraries.indiana.edu/music
 itemcontributor: Jonathan Hosey
 itemcreator: Unknown
-itemsubject: Clothing
+itemsubject: Sport clothes
+itemsubjecturl: http://id.loc.gov/authorities/subjects/sh85126876
 itemdate: circa 1950
 itemtype: Physical Object
 shortdesc: This bowling t-shirt is a button-up that has orange, white, and dark blue stripes across the sleeves and pocket, and embroidered with "Pappy" across the front pocket and "Bider" embroidered on the back shoulder.

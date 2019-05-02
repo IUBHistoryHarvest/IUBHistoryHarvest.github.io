@@ -8,7 +8,8 @@ imagecredit: Thomas Hart Benton, A Social History of Indiana (1933), on view in 
 itemurl: https://www.jstor.org/stable/27792973?seq=2#metadata_info_tab_contents
 itemcontributor: Sydney 
 itemcreator: Thomas Benton
-itemsubject: Murals
+itemsubject: Benton, Thomas Hart, 1889-1975. Social history of the State of Indiana.
+itemsubjecturl: http://id.loc.gov/authorities/names/n00013363
 itemdate: June 10, 1960
 itemtype: Physical Object
 shortdesc: Mural Representaion of Indiana's History
