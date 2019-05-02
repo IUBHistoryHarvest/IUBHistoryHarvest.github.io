@@ -1,6 +1,6 @@
 ---
 layout: story
-title: Centralized Importance 
+title: A Hoosier's Interpretation of an I and U 
 exhibittitle: Phone Case Wallet 
 author: kasey
 storyid: kasey 
