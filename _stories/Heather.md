@@ -14,7 +14,7 @@ selecteditems:
 categories: [ Practical ]
 ---
 
-In a society consumed by work and productivity, it’s important to take time to decompress from the pressure of everyday life. Many people do this in the form of a hobby or an activity they enjoy. Often, people use an article of clothing or an object from their hobby to symbolize a part of themselves. 
+In a society consumed by work and productivity, it’s important to take time to decompress from the pressure of everyday life. Many people do this in the form of a hobby or an activity they enjoy. Often, people use an article of clothing or an object from their hobby to symbolize a part of themselves. As a freshman at IU, I got a scooter to get to my classes quickly and to enjoy my commute.
 
 ### A Brief History of Hobbies
 
@@ -26,11 +26,8 @@ Hobbies can be looked at as a form of self-expression as well. That person had t
 
 ### Hobbies and Community
 
-People associate hobbies’ objects with the community of people who partake in the hobby as well. [Vans](https://iubhistoryharvest.github.io/items/2019-03-05-ID0009.html) are a shoe that debuted in the 60's, and were quickly adopted by the skating community due to their waffle sole that allows them to grip skateboards very well. In 1977, the leather side stripe was added for durability, but it soon became the notable design for Vans shoes. Vans became associated with the skating community and the characteristics of this community as well. This also led to people wearing Vans who did not skateboard simply because they liked the look or because they wanted to be associated with the characteristics of the skating community but did not skate.
+People associate hobbies’ objects with the community of people who partake in the hobby as well. [Vans](https://iubhistoryharvest.github.io/items/2019-03-05-ID0009.html) are a shoe that debuted in the 60's, and were quickly adopted by the skating community due to their waffle sole that allows them to grip skateboards very well. In 1977, the leather side stripe was added for durability, but it soon became the notable design for Vans shoes. Vans became associated with the skating community and the characteristics of this community as well. This also led to people wearing Vans who did not skateboard simply because they liked the look or because they wanted to be associated with the characteristics of the skating community but did not skate. As a freshman at IU, I got a scooter to get to my classes quickly and to enjoy my commute. I got Vans to survive the wear and tear of the scooter, but now the shoes serve as a reminder to me of how much I have grown since first semester of college.
 
+[Biking](https://iubhistoryharvest.github.io/archiveitems/CyclingClubPostcard.html) started as a hobby when the bicycle first debuted in the United States. In fact, IU had a cycling club that later gave way to the idea of Little 500, a bike race at IU where student riders race around a track for their organization or self-formed team. The introduction of the bicycle also played a crucial role in the [women’s suffrage movement](https://www.womenshistory.org/articles/pedaling-path-freedom) because it allowed women to move freely amongst the community because they didn’t have to rely on a man for transportation.
 
-
-### Learn More:
-
-Blümlein, Jürgen, et al. *Made for skate: the illustrated history of skateboard footwear.* FauxAmi-Skateboard Museum, 2008.
 
