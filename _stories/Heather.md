@@ -22,7 +22,7 @@ Before 1880, a “hobby” was referred to as a dangerous obsession. With the in
 
 ### Self Expression and Hobbies
 
-Hobbies can be looked at as a form of self-expression as well. That person had to consciously pick an activity they enjoy based on their personality, morals, and interests. For example, the [G&L Guitar] is used to make music. When strangers see this guitar with its owner, they make assumptions about the owner’s personality and values. People look at musicians as hard working because it takes copious amounts of time to create pleasant music. This same thought process is used with other art forms.
+Hobbies can be looked at as a form of self-expression as well. That person had to consciously pick an activity they enjoy based on their personality, morals, and interests. For example, the [G&L Guitar] (https://iubhistoryharvest.github.io/items/2019-03-05-ID0004.htmlis) used to make music. When strangers see this guitar with its owner, they make assumptions about the owner’s personality and values. People look at musicians as hard working because it takes copious amounts of time to create pleasant music. This same thought process is used with other art forms.
 
 Vans are a shoe that debuted in the 60's, and were quickly adopted by the skating community due to their waffle sole that allows them to grip skateboards very well. In 1977, the leather side stripe was added for durability, but it soon became the notable design for Vans shoes. 
 
