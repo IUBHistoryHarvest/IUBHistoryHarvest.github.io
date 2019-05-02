@@ -27,4 +27,6 @@ Looking at today's society, it's easy to see how much dance has progressed. Danc
   <figcaption><small>Image Courtesy, Indiana University Archives, Indiana University, Bloomington, Indiana. For commercial uses, please contact the Herman B. Wells Library E460 at 1320 East Tenth Street, Bloomington, Indiana, 47405-700 or at http://www.libraries.iub.edu/archives</small></figcaption>
 </figure>
 
-Digging deeper into Fox's dance program, you might notice that some of the collected images reflect dancers in odd positions and sometimes barefoot. This corresponds with the whole idea that modernized dance has become prevalent in society. In some cases, dancers would prefer to dance barefoot if the movements were jarring enough to require more grip on the ground.  
+Digging deeper into Fox's dance program, you might notice that some of the collected images reflect dancers in odd positions and sometimes barefoot. This corresponds with the whole idea that modernized dance's prevalence in society has casued dance attire to evolve (such as in the case of the pirouette shoe). In some cases, dancers would prefer to dance barefoot if the movements were jarring enough to require maximum grip on the ground.
+
+The use of pirouettes and Jane Fox's dance program can be viewed as symbols of change and modernization, both elements having planted their roots in their own unique progressive history.
