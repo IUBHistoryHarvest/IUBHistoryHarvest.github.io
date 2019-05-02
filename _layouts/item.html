@@ -1,196 +1,112 @@
 ---
 title: "Items"
-permalink: "/itemprint"
+layout: default
+permalink: "/items"
 ---
 
 <!-- Begin Article
 ================================================== -->
+<div class="container">
+	<div class="row">
 
+		<!-- Post Share -->
+		<div class="col-md-2 pl-0">            
+           {% include share.html %}
+		</div>
+		
 
-<base href="http://127.0.0.1:4000/items/">
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
-<link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
-    
-<title>{{ page.title }} | {{site.name}}</title>
+		<!-- Post -->        
+        {% assign author = site.authors[page.author] %}
         
-{% seo %}
-    
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-    
-<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
-    
-<style>
-p { font-family: Merriweather; font-size: 75%; }
+		<div class="col-md-9 flex-first flex-md-unordered">
+			<div class="mainheading">
 
-.btn.follow {
-border-color: #02B875;
-color: #1C9963;
-padding: 3px 10px;
-text-align: center;
-border-radius: 999em;
-font-size: 0.85rem;
-display: inline-block;
-}
-
-.btn {
-display: inline-block;
-font-weight: 400;
-text-align: center;
-white-space: nowrap;
-vertical-align: middle;
--webkit-user-select: none;
--moz-user-select: none;
--ms-user-select: none;
-user-select: none;
-border: 1px solid transparent;
-padding: .375rem .75rem;
-font-size: 1rem;
-line-height: 1.5;
-border-radius: .25rem;
-transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
-}
-
-a {
-color: #00ab6b;
-transition: all 0.2s;
-}
-p.blockquote {
-border-left: 4px solid #00ab6b;
-padding: 0 20px;
-font-style: italic;
-color: rgba(0,0,0,.5);
-font-size: 75%;
-}
-</style>
-
-<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-    
-{% if item.itemid %}
-<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/>
-<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
-<meta name="DC.Title" content="{{ item.title }}">
-<meta name="DC.Creator" content="{{ page.author }}">
-<meta name="DC.Description" content="{{ item.shortdesc }}">
-<meta name="DC.Contributor" content="{{ item.contributor }}">
-<meta name="DC.Date" content="HarvestDate">
-<meta name="DC.Format" content="JPG">
-<meta name="DC.Identifier" content="{{ item.itemid }}">
-{% endif %}
-
-</head>
-    
-{% if jekyll.environment == 'production' %}    
-<!-- change your GA id in _config.yml -->
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', '{{site.google_analytics}}', 'auto');
-ga('send', 'pageview');
-</script>
-{% endif %}
-    
-{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
-<body class="{{layout}}">
-
-
-
-<!-- Begin Article
-================================================== -->
-<table>
-	<tr><td width=938 height=1260 cellpadding=10px align=center valign=top>
-	<h1 class="btn follow" style="font-size: 5ex; width:938px; background: #1C9963; color: #ffffff; font-weight: bold; letter-spacing: 0.05em;">{{ page.title }}</h1>
-		<table><tr><td width="25%" valign="top">
-			
-				<h4>About this object</h4>
-							{{ page.itemabout | markdownify | replace: "<p>", "<p style='margin-left:12px; font-size:115%'>"}}
-
-				{%if page.itemarchive %}
-				<h4>Originating Archive Object</h4>
-				{%if page.archiveurl %}<a href="{{ page.archiveurl }}">{% endif %}<p style="margin-left:12px">{{ page.itemarchive}}{%if page.itemid %} {{ page.itemid}}{% endif %}</p>{%if page.archiveurl %}</a>{% endif %}
-				{% endif %}
-				<table width="100%" bgcolor="efefef">
-					<tr><td><h4 style="font-size: 1rem;">Subject</h4>
-							<p style="margin-left:12px">{{ page.itemsubject }}</p>
-				<h4 style="font-size: 1rem;">Description</h4>
-							<p style="margin-left:12px">{{ page.shortdesc }}</p>
-				<h4 style="font-size: 1rem;">Creator</h4>
-							<p style="margin-left:12px">{{ page.itemcreator }}</p>
-				<h4 style="font-size: 1rem;">Contributor</h4>
-							<p style="margin-left:12px">{{ page.itemcontributor }}</pp>
-				<h4 style="font-size: 1rem;">Date</h4>
-							<p style="margin-left:12px">{{ page.itemdate }}</p>
-				<h4 style="font-size: 1rem;">Type</h4>
-							<p style="margin-left:12px">{{ page.itemtype }}</p>
-				</td></tr></table>
-
-			</div><!-- end element-set -->
-		</td>
-		<td width="1%">&nbsp;</td>
-		<td width="70%" valign=top>
+			<!-- Post Title -->
+			<div class="section-title col-md-12 mt-4" style="padding-left: 0;">
+			<h1 class="posttitle">{{ page.title }}</h1>
+			</div>
+			<p>Contributed by {{ page.itemcontributor }}
+			<!-- Post Tags and Categories -->
+			<ul class="tags">
+				{% assign sortedCategories = page.categories | sort %}
+					{% for category in sortedCategories %}
+					<li>                        
+					 <a class="smoothscroll" href="{{site.baseurl}}/groups#{{ category | replace: " ","-" }}">{{ category }} artifacts</a>
+					</li>
+					{% endfor %}
+				{% for tag in page.tags %}
+				<li>                        
+				 <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">{{ tag }}</a>
+				</li>
+				{% endfor %}
+			</ul>
+			<!-- End Tags and Categories -->
+		</div>
 
 			<!-- Post Featured Image -->
-			{% if page.itemphoto %}<img width="70%" class="featured-image img-fluid" src="{{ page.itemphoto }}" alt="{{ page.title }}">
+			{% if page.itemphoto %}<img class="featured-image img-fluid" src="{{ page.itemphoto }}" alt="{{ page.title }}">
 			{%if page.imagecredit %}{{ page.imagecredit }}{% endif %}
-			{% elsif page.itemid %}{% capture ItemImagePath %}/assets/items/{{ page.itemid }}{% endcapture %}{% for static_file in site.static_files %}{% if static_file.path contains ItemImagePath %}{% if static_file.path contains '_01' %}<img class="featured-image img-fluid" src="{{ site.baseurl }}{{ static_file.path }}" alt="{{ page.title }}">{% endif %}{% endif %}{% endfor %}{% endif %}
+			{% elsif page.itemid %}{% capture ItemImagePath %}/assets/items/{{ page.itemid }}{% endcapture %}{% for static_file in site.static_files %}{% if static_file.path contains ItemImagePath %}{% unless static_file.path contains '_th' %}<img class="featured-image img-fluid" src="{{ site.baseurl }}{{ static_file.path }}" alt="{{ page.title }}">{% endunless %}{% endif %}{% endfor %}{% endif %}
 			<!-- End Featured Image -->
 
 			<!-- Post Content -->
 			<div class="article-post">
+				<h4 id="about-this-object">About this object</h4>
+					{{ page.itemabout | markdownify }}
+
 				{%if page.itemquote %}<h4 id="why-this-object-matters"> Why this object matters</h4>
-					{{ page.itemquote | markdownify | replace: "<p>", "<p class=blockquote style='font-size:115%;'>"}}{% endif %}
+					<blockquote>{{ page.itemquote | markdownify }}</blockquote>{% endif %}
 			</div>
-</td></tr></table>
-					<!-- Post Tags and Categories -->
-					<table width="100%" bgcolor="efefef">
-					<tr>
-					<td width="50%" valign=top>
-									{%if page.itemarchive %}
+
+
+			<div class="element-set">
+
+				<div class="section-title col-md-12 mt-4" style="padding-left: 0;">
+				<h2 id="Dublin Core"><span class="text-capitalize">Dublin Core</span></h2>
+				</div>
+				{%if page.itemarchive %}
 				<h4>Originating Archive Object</h4>
-				{%if page.archiveurl %}<a href="{{ page.archiveurl }}">{% endif %}<p style="margin-left:12px">{{ page.itemarchive}}{%if page.itemid %} {{ page.itemid}}{% endif %}</p>{%if page.archiveurl %}</a>{% endif %}
+				{%if page.archiveurl %}<a href="{{ page.archiveurl }}" target="_blank">{% endif %}<div class="element-text">{{ page.itemarchive}}{%if page.itemid %} {{ page.itemid}}{% endif %}</div>{%if page.archiveurl %}</a>{% endif %}
 				{% endif %}
-				<h4 style="font-size: 1rem;">Subject</h4>
-							<p style="margin-left:12px">{{ page.itemsubject }}</p>
-				<h4 style="font-size: 1rem;">Description</h4>
-							<p style="margin-left:12px">{{ page.shortdesc }}</p>
-				<h4 style="font-size: 1rem;">Creator</h4>
-							<p style="margin-left:12px">{{ page.itemcreator }}</p>
-				</td><td width="1%">&nbsp;</td><td width="1%" style="border-right: 1px solid #bcbcbc;">&nbsp;</td><td width="1%">&nbsp;</td><td width="50%" valign=top>
-				<h4 style="font-size: 1rem;">Contributor</h4>
-							<p style="margin-left:12px">{{ page.itemcontributor }}</pp>
-				<h4 style="font-size: 1rem;">Date</h4>
-							<p style="margin-left:12px">{{ page.itemdate }}</p>
-				<h4 style="font-size: 1rem;">Type</h4>
-							<p style="margin-left:12px">{{ page.itemtype }}</p>
+					<div id="dublin-core-title" class="element">
+				<h4>Title</h4>
+					{%if page.itemurl %}<a href="{{ page.itemurl }}" target="_blank">{% endif %}<div class="element-text">{{ page.title }}</div>{%if page.itemurl %}</a>{% endif %}
+					</div><!-- end element -->
+				<div id="dublin-core-subject" class="element">
+				<h4>Subject</h4>
+							<div class="element-text">{%if page.itemsubjecturl %}<a href="{{ page.itemsubjecturl }}" target="_blank">{% endif %}{{ page.itemsubject }}{%if page.itemsubjecturl %}</a>{% endif %}</div>
+					</div><!-- end element -->
+				<div id="dublin-core-description" class="element">
+				<h4>Description</h4>
+							<div class="element-text">{{ page.shortdesc }}</div>
+					</div><!-- end element -->
+				<div id="dublin-core-creator" class="element">
+				<h4>Creator</h4>
+							<div class="element-text">{{ page.itemcreator }}</div>
+					</div><!-- end element -->
+				<div id="dublin-core-contributor" class="element">
+				<h4>Contributor</h4>
+							<div class="element-text">{{ page.itemcontributor }}</div>
+					</div><!-- end element -->
+				<div id="dublin-core-date" class="element">
+				<h4>Date</h4>
+							<div class="element-text">{{ page.itemdate }}</div>
+					</div><!-- end element -->
+				<div id="dublin-core-type" class="element">
+				<h4>Type</h4>
+							<div class="element-text">{{ page.itemtype }}</div>
+					</div><!-- end element -->
+			</div><!-- end element-set -->
 
-					</td></tr></table>
-					<ul style="margin-top:15px; margin-left: -30px; line-height:200%;">
-						{% assign sortedCategories = page.categories | sort %}
-							{% for category in sortedCategories %}
-							<a class="btn follow" href="">                        
-							{{ category }} artifacts
-							</a>
-							{% endfor %}
-						{% for tag in page.tags %}
-						<a class="btn follow" href="">                             
-						{{ tag }}
-						</a>
-						{% endfor %}
-					</ul>
-					<!-- End Tags and Categories -->
-<p align=center>dighist.indiana.edu/historyharvest{{ page.url }}<!-- End Article
-</td></tr></table>
+                        
+            <!-- End Categories -->
 
+		</div>
+		<!-- End Post -->
+
+	</div>
+</div>
+<!-- End Article
 ================================================== -->
 
-  </body>
-</html>
+  
