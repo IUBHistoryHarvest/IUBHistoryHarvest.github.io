@@ -1,7 +1,7 @@
 ---
 layout: story
-title: Creation Station
-exhibittitle: Evolution of Dance
+title: Dancing Through Time
+exhibittitle: Evolution of Dance Shoes
 author: tara
 storyid: tara
 featureditem: 2019-03-05-ID0006
@@ -26,5 +26,3 @@ Looking at today's society, it's easy to see how much dance has progressed. Danc
   <img src="http://fedora.dlib.indiana.edu/fedora/get/iudl:1145845/LARGE" alt="Natural Dancing"/>
   <figcaption><small>Image Courtesy, Indiana University Archives, Indiana University, Bloomington, Indiana. For commercial uses, please contact the Herman B. Wells Library E460 at 1320 East Tenth Street, Bloomington, Indiana, 47405-700 or at http://www.libraries.iub.edu/archives</small></figcaption>
 </figure>
-
-Digging deeper into Fox's dance program, 
