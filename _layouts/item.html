@@ -70,11 +70,11 @@ permalink: "/items"
 				{% endif %}
 					<div id="dublin-core-title" class="element">
 				<h4>Title</h4>
-					{%if page.itemurl %}<a href="{{ page.itemurl }}">{% endif %}<div class="element-text">{{ page.title }}</div>{%if page.itemurl %}</a>{% endif %}
+					{%if page.itemurl %}<a href="{{ page.itemurl }}" target="_blank">{% endif %}<div class="element-text">{{ page.title }}</div>{%if page.itemurl %}</a>{% endif %}
 					</div><!-- end element -->
 				<div id="dublin-core-subject" class="element">
 				<h4>Subject</h4>
-							<div class="element-text">{{ page.itemsubject }}</div>
+							<div class="element-text">{%if page.itemsubjecturl %}<a href="{{ page.itemsubjecturl }}" target="_blank">{% endif %}{{ page.itemsubject }}{%if page.itemsubjecturl %}</a>{% endif %}</div>
 					</div><!-- end element -->
 				<div id="dublin-core-description" class="element">
 				<h4>Description</h4>
