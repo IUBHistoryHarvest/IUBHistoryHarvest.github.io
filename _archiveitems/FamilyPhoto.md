@@ -10,7 +10,8 @@ imagecredit: This collection presented by The IU Digital Library Program and Ind
 itemurl: http://webapp1.dlib.indiana.edu/archivesphotos/results/item.do?itemId=P0067890&searchId=1&searchResultIndex=1
 itemcontributor: Katie Jamison
 itemcreator: Clarence Flaten
-itemsubject: Photograph
+itemsubject: Photographs
+itemsubjecturl: http://id.loc.gov/authorities/subjects/sh85101195
 itemdate: 1956
 itemtype: Physical Object with Sentimental Value
 shortdesc: This picture includes members of Clarence Flaten's family in a proffesional studio.

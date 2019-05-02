@@ -7,7 +7,8 @@ itemid: LMC-2191-Box-148
 itemurl: http://purl.dlib.indiana.edu/iudl/findingaids/lilly/InU-Li-VAD1205
 itemcontributor: Zoe Swayne
 itemcreator: unknown
-itemsubject: political pins 
+itemsubject: Campaign buttons
+itemsubjecturl: http://id.loc.gov/authorities/subjects/sh85019189
 itemdate: circa 1940
 itemtype: Physical Object
 shortdesc: This political pin is from Wendell Willkie's political campaign against Franklin D. Roosevelt in 1940. The change in Willkie’s political tactics are reflected in the political pins that were produced during his campaign.

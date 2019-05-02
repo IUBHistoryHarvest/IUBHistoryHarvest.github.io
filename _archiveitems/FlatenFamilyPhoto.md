@@ -10,7 +10,8 @@ imagecredit: This collection presented by The IU Digital Library Program and Ind
 itemurl: http://purl.dlib.indiana.edu/iudl/archives/photos/P0067496
 itemcontributor: Katie Jamison
 itemcreator: Clarence Flaten
-itemsubject: Photograph
+itemsubject: Photographs
+itemsubjecturl: http://id.loc.gov/authorities/subjects/sh85101195
 itemdate: 1948
 itemtype: Physical Object with Sentimental Value
 shortdesc: This picture includes members of Clarence Flaten's family and friends and was taken at their house on South Washington St. in Bloomington. 
