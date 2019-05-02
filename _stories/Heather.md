@@ -14,6 +14,12 @@ selecteditems:
 categories: [ Practical ]
 ---
 
+In a society consumed by work and productivity, it’s important to take time to decompress from the pressure of everyday life. Many people do this in the form of a hobby or an activity they enjoy. Often, people use an article of clothing or an object they use frequently in their hobby to symbolize a part of themselves. 
+
+### A Bief History of Hobbies
+
+Before 1880, a “hobby” was referred to as a dangerous obsession. With the introduction of the eight to five work day, employees worked shorter hours, but their time at work became more demanding. With more leisure time and a need to destress, people turned to other activities to keep them busy, and the word “hobby” gained a new connotation. Hobbies were now looked at as a productive way to spend leisure time. 
+
 Vans are a shoe that debuted in the 60's, and were quickly adopted by the skating community due to their waffle sole that allows them to grip skateboards very well. In 1977, the leather side stripe was added for durability, but it soon became the notable design for Vans shoes. 
 
 ### Learn More:
