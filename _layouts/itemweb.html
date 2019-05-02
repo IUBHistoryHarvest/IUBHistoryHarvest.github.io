@@ -66,15 +66,15 @@ permalink: "/items"
 				</div>
 				{%if page.itemarchive %}
 				<h4>Originating Archive Object</h4>
-				{%if page.archiveurl %}<a href="{{ page.archiveurl }}">{% endif %}<div class="element-text">{{ page.itemarchive}}{%if page.itemid %} {{ page.itemid}}{% endif %}</div>{%if page.archiveurl %}</a>{% endif %}
+				{%if page.archiveurl %}<a href="{{ page.archiveurl }}" target="_blank">{% endif %}<div class="element-text">{{ page.itemarchive}}{%if page.itemid %} {{ page.itemid}}{% endif %}</div>{%if page.archiveurl %}</a>{% endif %}
 				{% endif %}
 					<div id="dublin-core-title" class="element">
 				<h4>Title</h4>
-					{%if page.itemurl %}<a href="{{ page.itemurl }}">{% endif %}<div class="element-text">{{ page.title }}</div>{%if page.itemurl %}</a>{% endif %}
+					{%if page.itemurl %}<a href="{{ page.itemurl }}" target="_blank">{% endif %}<div class="element-text">{{ page.title }}</div>{%if page.itemurl %}</a>{% endif %}
 					</div><!-- end element -->
 				<div id="dublin-core-subject" class="element">
 				<h4>Subject</h4>
-							<div class="element-text">{{ page.itemsubject }}</div>
+							<div class="element-text">{%if page.itemsubjecturl %}<a href="{{ page.itemsubjecturl }}" target="_blank">{% endif %}{{ page.itemsubject }}{%if page.itemsubjecturl %}</a>{% endif %}</div>
 					</div><!-- end element -->
 				<div id="dublin-core-description" class="element">
 				<h4>Description</h4>

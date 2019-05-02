@@ -141,7 +141,7 @@ ga('send', 'pageview');
 			<!-- Post Featured Image -->
 			{% if page.itemphoto %}<img width="70%" class="featured-image img-fluid" src="{{ page.itemphoto }}" alt="{{ page.title }}">
 			{%if page.imagecredit %}{{ page.imagecredit }}{% endif %}
-			{% elsif page.itemid %}{% capture ItemImagePath %}/assets/items/{{ page.itemid }}{% endcapture %}{% for static_file in site.static_files %}{% if static_file.path contains ItemImagePath %}{% unless static_file.path contains '_th' %}<img class="featured-image img-fluid" src="{{ site.baseurl }}{{ static_file.path }}" alt="{{ page.title }}">{% endunless %}{% endif %}{% endfor %}{% endif %}
+			{% elsif page.itemid %}{% capture ItemImagePath %}/assets/items/{{ page.itemid }}{% endcapture %}{% for static_file in site.static_files %}{% if static_file.path contains ItemImagePath %}{% if static_file.path contains '_01' %}<img class="featured-image img-fluid" src="{{ site.baseurl }}{{ static_file.path }}" alt="{{ page.title }}">{% endif %}{% endif %}{% endfor %}{% endif %}
 			<!-- End Featured Image -->
 
 			<!-- Post Content -->
@@ -187,7 +187,9 @@ ga('send', 'pageview');
 						{% endfor %}
 					</ul>
 					<!-- End Tags and Categories -->
-</td></tr></table><!-- End Article
+<p align=center>dighist.indiana.edu/historyharvest{{ page.url }}<!-- End Article
+</td></tr></table>
+
 ================================================== -->
 
   </body>
