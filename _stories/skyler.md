@@ -11,10 +11,11 @@ selecteditems:
 -2019-03-019-ID0005
 categories: [ Practical, Sentimental]
 ---
+# Technology We Use and Remember
 
 Oftentimes, we surround ourselves with things that remind us of the good old days, or make us feel right at home. For some, it is a family picture from a vacation dear to them, and for others it’s an object such as fountain pens in a pocket protector. Some might say that it is old hat or archaic to have these items around at all when it is so much more convenient to have them on your smartphone or simply go out and buy a pack of ballpoint pens. If that is the case, why aren't these items cast aside, especially considering the convenience of modern technology? Indeed, ballpoint pens have supplanted  fountain pens as the prominent writing implement for good reason. However, through a balance of practicality and sentimentality, there is a lot to learn from objects such as an antique phone, an antique switchboard, a pocket protector, and a hidden payphone bank on campus.
 
-Nostalgic Technology in Bloomington
+## Nostalgic Technology in Bloomington
 
 We can better understand how communication worked in the past and how it affected gender by examining these objects. As somebody who restores antiques for fun, I’m frequently asked “why?” before being told that it’s really interesting and that I’m a nerd beyond belief. That’s fine, and I certainly can’t (and don’t want to) argue with that statement. It think that the history of the antique Stromberg-Carlson phone is especially revealing to rural life in early 1900s America. They were built ruggedly, putting out higher voltage than normal to reach urban connections along longer rural phone lines. The phone quickly became known as the farmer's friend due to its popularity and that legendarily you could hear the noises of the barnyard through the transmitter (University of Wisconsin).
 
