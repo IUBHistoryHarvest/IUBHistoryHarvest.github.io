@@ -109,15 +109,8 @@ ga('send', 'pageview');
 <table>
 	<tr><td width=938 height=1260 cellpadding=10px align=center valign=top>
 	<h1 class="btn follow" style="font-size: 5ex; width:938px; background: #1C9963; color: #ffffff; font-weight: bold; letter-spacing: 0.05em;">{{ page.title }}</h1>
-		<table>
+		<table><tr><td width="25%" valign="top">
 			
-				<!-- Post Featured Image -->
-				{% if page.itemphoto %}<img style="width: 610px; float: right; margin: 0 0 0 15px;" src="{{ page.itemphoto }}" alt="{{ page.title }}">
-				{%if page.imagecredit %}{{ page.imagecredit }}{% endif %}
-				{% elsif page.itemid %}{% capture ItemImagePath %}/assets/items/{{ page.itemid }}{% endcapture %}{% for static_file in site.static_files %}{% if static_file.path contains ItemImagePath %}{% if static_file.path contains '_01' %}<img class="featured-image img-fluid" src="{{ site.baseurl }}{{ static_file.path }}" alt="{{ page.title }}">{% endif %}{% endif %}{% endfor %}{% endif %}
-				<!-- End Featured Image -->
-
-
 				<h4>About this object</h4>
 							{{ page.itemabout | markdownify | replace: "<p>", "<p style='margin-left:12px; font-size:115%'>"}}
 
@@ -141,12 +134,22 @@ ga('send', 'pageview');
 				</td></tr></table>
 
 			</div><!-- end element-set -->
+		</td>
+		<td width="1%">&nbsp;</td>
+		<td width="70%" valign=top>
+
+			<!-- Post Featured Image -->
+			{% if page.itemphoto %}<img width="70%" class="featured-image img-fluid" src="{{ page.itemphoto }}" alt="{{ page.title }}">
+			{%if page.imagecredit %}{{ page.imagecredit }}{% endif %}
+			{% elsif page.itemid %}{% capture ItemImagePath %}/assets/items/{{ page.itemid }}{% endcapture %}{% for static_file in site.static_files %}{% if static_file.path contains ItemImagePath %}{% if static_file.path contains '_01' %}<img class="featured-image img-fluid" src="{{ site.baseurl }}{{ static_file.path }}" alt="{{ page.title }}">{% endif %}{% endif %}{% endfor %}{% endif %}
+			<!-- End Featured Image -->
 
 			<!-- Post Content -->
 			<div class="article-post">
 				{%if page.itemquote %}<h4 id="why-this-object-matters"> Why this object matters</h4>
 					{{ page.itemquote | markdownify | replace: "<p>", "<p class=blockquote style='font-size:115%;'>"}}{% endif %}
 			</div>
+</td></tr></table>
 					<!-- Post Tags and Categories -->
 					<table width="100%" bgcolor="efefef">
 					<tr>
