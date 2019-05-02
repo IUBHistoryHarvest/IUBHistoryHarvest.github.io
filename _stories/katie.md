@@ -1,7 +1,7 @@
 ---
 layout: story
-title: A Picture's Worth your Personal History
-exhibittitle: Recording Moments through Photographs
+title: A Picture's Worth a Thousand Memories 
+exhibittitle: Communication and Recordation through Images
 author: katie
 storyid: katie
 featureditem: 2019-03-05-ID0005
@@ -13,7 +13,7 @@ selecteditems:
 categories: [ Sentimental ]
 ---
 
-This picture was taken in March of 2016 on Easter. It’s significant to me because it’s one of the only pictures of my whole immediate family. Although we spend a lot of time together, we rarely take pictures, so this picture depicts the memories and history of our relationship. It signifies sentimental history and hangs up in my dorm room so that I can remember the people that I love who are far away. It was originally taken in Huntington, IN before we moved to Roanoke, IN, so the location is also significant to my personal history because I grew up in that house. 
+Pictures are the most important tool in recording personal and academic history. They not only capture the events taking place, but they give people a sense of intimacy with the characters present. Words in a history textbook offer facts and data for understanding, but the visual aspect of a piece of history allows the viewer to place themselves in the scene and grasp the action in a new perspective. For example, [various pictures of WWI] (https://www.history.com/topics/world-war-i/world-war-i-history) show the emotions of grief on the battlefield and then patriotism on the streets of the United States. The true weight of these emotions can’t be felt by simple textual evidence, and these photographs offer us an entry into the past.
 
 
 ## Learn More:
