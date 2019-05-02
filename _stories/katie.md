@@ -15,6 +15,7 @@ categories: [ Sentimental ]
 
 Pictures are the most important tool in recording personal and academic history. They not only capture the events taking place, but they give people a sense of intimacy with the characters present. Words in a history textbook offer facts and data for understanding, but the visual aspect of a piece of history allows the viewer to place themselves in the scene and grasp the action in a new perspective. For example, [various pictures of WWI] (https://www.history.com/topics/world-war-i/world-war-i-history) show the emotions of grief on the battlefield and then patriotism on the streets of the United States. The true weight of these emotions can’t be felt by simple textual evidence, and these photographs offer us an entry into the past.
 
+Photos offer a universal language and were the first visual form of communication in the world. Ancient [cave and rock paintings] (https://www.historyofvisualcommunication.com/01-rocks-and-caves) have been found from over 40,000 years ago. These images relay different drawing of various hunted animals and  created a way for hunters to communicate with each other about which beasts were in the area. Although years of technological innovations have allowed people from all over the world to communication within seconds, we still utilize pictures to record our own personal histories. 
 
 ## Learn More:
 
