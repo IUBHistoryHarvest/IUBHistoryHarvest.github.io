@@ -1,6 +1,6 @@
 ---
 layout: story
-title: 
+title: Sick Kicks, Dude
 exhibittitle: Hobbies at IU 
 author: Heather
 storyid: Heather
