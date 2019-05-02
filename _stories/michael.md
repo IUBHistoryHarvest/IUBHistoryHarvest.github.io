@@ -1,6 +1,6 @@
 ---
 layout: story
-title: Education: Our Past, Present, and Future
+title: Education-Our Past, Present, and Future
 exhibittitle: IDK yet.
 author: Michael Tetzloff
 storyid: michael
