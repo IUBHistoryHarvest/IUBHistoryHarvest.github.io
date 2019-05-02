@@ -1,7 +1,7 @@
 ---
 layout: story
 title: Education-Our Past, Present, and Future
-exhibittitle: IDK yet.
+exhibittitle: Educating IU
 author: Michael Tetzloff
 storyid: michael
 featureditem: 2019-03-05-ID0012
@@ -31,4 +31,5 @@ By about the mid-19th century, elementary education was compulsory in many devel
   <img src="http://dighist.indiana.edu/historyharvest/assets/items/2019-03-019-ID0011_01.jpg"/>
   <figcaption><small>Image Courtesy, Jonathan Caudell </small></figcaption>
 </figure>
+
 
