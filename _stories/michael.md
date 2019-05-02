@@ -24,7 +24,7 @@ We humans have a long history of learning, we’ve gone from using exclusively p
 ## Modern Education
 By about the mid-19th century, elementary education was compulsory in many developed nations and with that came the need for mass-distributable education for the increasing number of [one-room schoolhouses](https://web.archive.org/web/20110716100225/http://www.snowkentucky.com/one_room_school.htm) which allowed a single teacher to teach many grades simultaneously. This was flawed, but it helped to disseminate a rudimentary education.  Over time one-room schoolhouses went the way of the dodo in most places, but they were replaced by more structured schools that grades were separated in order to cater more efficiently to their individual needs. Nowadays schools across the country use a variety of books to teach a fairly standardized curriculum to everyone from the ages of six to eighteen about many of the same topics covered in one-room schoolhouses. Once you get into higher education, the number of books explodes, ranging from books on organic chemistry 
 <figure>
-  <2019-03-05-ID0012/>
-  <figcaption><small>Image Courtesy, 98.7 WFMT. For commercial uses, please contact WFMT at https://www.wfmt.com/support-wfmt/</small></figcaption>
+  <img src="http://dighist.indiana.edu/historyharvest/assets/items/2019-03-05-ID0012_01.jpg"/>
+  <figcaption><small>Image Courtesy, Michael Tetzloff. For commercial use, please find it elsewhere./</small></figcaption>
 </figure>
 
