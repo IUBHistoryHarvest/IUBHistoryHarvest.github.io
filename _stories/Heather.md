@@ -10,11 +10,13 @@ selectedarchiveitems:
 selecteditems:
  - 2019-03-05-ID0006
  - 2019-03-05-ID0001
+ - 2019-03-05-ID0004
+ - 2019-03-019-ID0006
  
 categories: [ Practical ]
 ---
 
-In a society consumed by work and productivity, it’s important to take time to decompress from the pressure of everyday life. Many people do this in the form of a hobby or an activity they enjoy. Often, people use an article of clothing or an object from their hobby to symbolize a part of themselves. As a freshman at IU, I got a scooter to get to my classes quickly and to enjoy my commute.
+In a society consumed by work and productivity, it’s important to take time to decompress from the pressure of everyday life. Many people do this in the form of a hobby or an activity they enjoy. Often, people use an article of clothing or an object from their hobby to symbolize a part of themselves. 
 
 ### A Brief History of Hobbies
 
