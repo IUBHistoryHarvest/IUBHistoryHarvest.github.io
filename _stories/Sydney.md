@@ -22,7 +22,7 @@ However, art encompasses more than statues and paintings. Art can be a wide rang
  
  This exhibit has selected pieces of art forms from students as well as features across campus. Included among the student pieces, is a guitar, a pair of ballet shoes, paintbrushes, and a biography about Alexander Hamilton. For these students, these items are important as they provide a stress relief when they’re overwhelmed by their studies. It is a creative outlet in which each person found something they connect with. On the pieces around campus, the main features include the Benton Murals (and the scandal behind one panel), the Showalter Fountain, and the Herman B Wells statue. When I first arrived on campus, I took an IFS class in which we toured the campus and my class learned the brief histories behind each piece. I selected these specific pieces because they were the first encounters I had to the wide range of art around campus. The beauty of art, in my opinion, is that one does not have to have prior knowledge about the techniques or process of creating it, in order to enjoy it. 
     
- ## Sources 
+## Sources 
  
  Turbide, Anne-Frédérique. “Why Art Programs Are Beneficial to Students.” Medium, The Synapse, 15 May 2015, medium.com/synapse/why-art-programs-are-beneficial-to-students-3bbcbdfd9f8f.
 
