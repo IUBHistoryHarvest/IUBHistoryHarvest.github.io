@@ -14,7 +14,7 @@ selecteditems:
 categories: [ Practical ]
 ---
 
-Through societal development of technology and culture, simple daily objects such as a wallet change, and international insignias change. From the first wallets that were developed in the renaissance era, an overall change in society has created new ways to hold our not only payment cards, but digital currency as well. From the first class of students that were enrolled into the university to the class of 2020 celebrating the bicentennial of the university. Indiana University originated with a lack of a representative insignia but would later develop the first interlocking “IU” in the 1898 arbutus. Today the phone case wallet that was gifted by the Student Recreation Center represents the end of a story towards the development of the Indiana University Insignia.
+Through societal development of technology and culture, simple daily objects such as a wallet change, and international insignias change. From the first wallets that were developed in the renaissance era, an overall change in society has created new ways to hold our not only payment cards, but digital currency as well. There is a dramatic evolution from the first class of students that were enrolled into the university, to the class of 2020 celebrating the bicentennial of the university. Indiana University originated with a lack of a representative insignia but would later develop the first interlocking “IU” in the 1898 arbutus. Today the phone case wallet that was gifted by the Student Recreation Center represents the end of a story towards the development of the Indiana University Insignia.
 
 ## Interlocking The I and U 
 
