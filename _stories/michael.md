@@ -32,4 +32,5 @@ By about the mid-19th century, elementary education was compulsory in many devel
   <figcaption><small>Image Courtesy, Jonathan Caudell </small></figcaption>
 </figure>
 
-
+## What Will our Future Hold?
+Even today you can find many textbooks, or just books in general in a digital form. Is this what our future holds? Students the world over will rejoice in not having to carry around tons of books. Teaching could also become so much easier, instead of having to brave potentially hazardous conditions, just upload a lecture from your house in your PJs. Entire libraries of information compressed into the palm of our hands, but at what cost? If we no longer need to know how to do something because we can just Google it when we need to know, we are at risk of forgetting an incalculable number of skills. Just look at cashiers, many are perfectly fine when the POS tells them how much change to give, but when faced with a similar exchange without something to tell them how much change to give, they are utterly lost.
