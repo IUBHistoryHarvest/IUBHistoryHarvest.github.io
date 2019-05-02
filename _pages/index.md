@@ -22,4 +22,5 @@ In addition to the digital exhibit presented here, we also designed and installe
 - [Rebecca Wingo](http://rebeccawingo.com), Assistant Professor of History and Director of Public History at the [University of Cincinnati](https://www.uc.edu), who provided ethics guidance and organizational structure for the History Harvest.
 - [Remembering Rondo](http://rememberingrondo.org) for the exemplar guided us as we did our History Harvest with our own community.
 - The [History Department at the University of Nebraska-Lincoln](https://history.unl.edu) for piloting the History Harvest concept in 2010.
-
+- The [History Department at the University of Nebraska-Lincoln](https://history.unl.edu) for piloting the History Harvest concept in 2010.
+- [Dean Gutjahr](https://college.indiana.edu/about/leadership/gutjahr-paul.html) and the rest of the [ASURE](https://college.indiana.edu/academics/opportunities/asure/) team for building the program and hosting the end-of-term poster session (at which one of our History Harvest team won a judges award)
