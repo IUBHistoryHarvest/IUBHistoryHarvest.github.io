@@ -18,6 +18,11 @@ Since the advent of the acoustic guitar, the stringed instrument has found a qui
 
 The oud was an instrument utilized throughout the Arab world and was predecessor of the lute. The lute being an instrument that would be played throughout the European world, with even some iterations being brought to America. This early iteration of what would later become the guitar marks the starting point of how string instruments were first utilized by humans. Even though the oud has fallen out of fashion, the oud is still being played in traditional music throughout the Arab World. 
 
+<figure>
+  <img src="http://blogs.wfmt.com/offmic/files/2016/01/oud-001.jpg" alt="The Oud"/>
+  <figcaption><small>Image Courtesy, 98.7 WFMT. For commercial uses, please contact WFMT at https://www.wfmt.com/support-wfmt/</small></figcaption>
+</figure>
+
 ## Local Figureheads
 
 From the early colonial period to now, the guitar had been adapted. The form and structure of the modern Guitar is credited to Spanish guitar maker Antonio Torres Jurado, his design becoming wildly popular. Due to this innovation, the guitar found its place within the American style of music. Once again, Bloomington instrumentalists who utilized these instruments became well known figures within the city.
@@ -42,5 +47,6 @@ From the guitar’s origins, to their modern day standing within pop culture, th
 - “Joshua Bell Net Worth.” Celebrity Net Worth, Celebrity Net Worth, 15 Oct. 2015, www.celebritynetworth.com/richest-celebrities/joshua-bell-net-worth/.
 - “John Mellencamp.” Wikipedia, Wikimedia Foundation, 25 Feb. 2019, en.wikipedia.org/wiki/John_Mellencamp.
 - "John Mellencamp's House (Google Maps)". Virtual Globetrotting. Retrieved April 16, 2012.
+- “G&L Guitars.” G&L Musical Instruments, glguitars.com/.
 
 ##
