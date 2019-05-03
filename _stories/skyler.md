@@ -2,13 +2,13 @@
 layout: story
 title: Technology We Use and Remember
 exhibittitle: Nostalgic Tech at IU
-author: Skyler
-storyid: Skyler
+author: skyler
+storyid: skyler
 featureditem: 2019-03-19-ID0001
 selectedarchiveitems:
--2019-03-22-ID0007
+- 2019-03-22-ID0007
 selecteditems:
--2019-03-019-ID0005
+- 2019-03-019-ID0005
 categories: [ Practical, Sentimental]
 ---
 # Technology We Use and Remember

@@ -14,7 +14,7 @@ itemsubject: Photographs
 itemsubjecturl: http://id.loc.gov/authorities/subjects/sh85101195
 itemdate: 1956
 itemtype: Physical Object with Sentimental Value
-shortdesc: This picture includes members of Clarence Flaten's family in a proffesional studio.
+shortdesc: This picture includes members of Clarence Flaten's family in a professional studio.
 categories: [ Sentimental ]
 tags: [ photo, family, Bloomington, children, Indiana ]
 itemabout: |

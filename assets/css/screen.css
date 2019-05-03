@@ -7,11 +7,11 @@ License: https://www.wowthemes.net/freebies-license/
      padding:1rem 0rem;
 }
  a {
-     color:#00ab6b;
+     color:#990000;
      transition:all 0.2s;
 }
  a:hover {
-     color: #038252;
+     color: #7A1705;
      text-decoration:none;
 }
  pre {
@@ -200,7 +200,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
  .mediumnavigation .form-inline .btn:hover,.mediumnavigation .form-inline .btn:active {
      background:transparent;
-     color:green;
+     color:#7A1705;
 }
  .mediumnavigation .navbar-brand {
      font-weight:500;
@@ -247,7 +247,7 @@ License: https://www.wowthemes.net/freebies-license/
      color:rgba(0,0,0,.8);
 }
  blockquote {
-     border-left:4px solid #00ab6b;
+     border-left:4px solid #990000;
      padding:0 20px;
      font-style:italic;
      color:rgba(0,0,0,.5);
@@ -406,8 +406,8 @@ License: https://www.wowthemes.net/freebies-license/
      margin-bottom:1.2rem;
 }
  .btn.follow {
-     border-color:#02B875;
-     color:#1C9963;
+     border-color:#990000;
+     color:#7A1705;
      padding:3px 10px;
      text-align:center;
      border-radius:999em;
@@ -415,8 +415,8 @@ License: https://www.wowthemes.net/freebies-license/
      display:inline-block;
 }
  .btn.subscribe {
-     background-color:#1C9963;
-     border-color:#1C9963;
+     background-color:#7A1705;
+     border-color:#7A1705;
      color:rgba(255,255,255,1);
      fill:rgba(255,255,255,1);
      border-radius:30px;
@@ -456,8 +456,8 @@ License: https://www.wowthemes.net/freebies-license/
      margin-left:5px;
 }
  .alertbar input[type="submit"] {
-     background-color:#1C9963;
-     border:1px solid #1C9963;
+     background-color:#7A1705;
+     border:1px solid #7A1705;
      color:rgba(255,255,255,1);
      fill:rgba(255,255,255,1);
      font-size:0.85rem;
