@@ -25,7 +25,7 @@ permalink: "/items"
 			<div class="section-title col-md-12 mt-4" style="padding-left: 0;">
 			<h1 class="posttitle">{{ page.title }}</h1>
 			</div>
-			<p>Contributed by {{ page.itemcontributor }} {% if page.itemindianacity %}({{ page.itemindianacity }}){% endif %}
+			<p>Object contributed by {{ page.itemcontributor }}{% if page.itemindianacity %} ({{ page.itemindianacity }}){% endif %}{% if page.studentcontributor %}; Exhibit text by {{ page.studentcontributor }}{% endif %}
 			{% if page.itemacquiredwhere or page.itemdatemade %}
 			<p>
 			{% if page.itemacquiredwhere %}Acquired in {{ page.itemacquiredwhere }}. {% endif %}
