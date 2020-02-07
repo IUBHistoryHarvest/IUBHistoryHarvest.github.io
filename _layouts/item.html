@@ -25,7 +25,12 @@ permalink: "/items"
 			<div class="section-title col-md-12 mt-4" style="padding-left: 0;">
 			<h1 class="posttitle">{{ page.title }}</h1>
 			</div>
-			<p>Contributed by {{ page.itemcontributor }}
+			<p>Contributed by {{ page.itemcontributor }} {% if page.itemindianacity %}({{ page.itemindianacity }}){% endif %}
+			{% if page.itemacquiredwhere or page.itemdatemade %}
+			<p>
+			{% if page.itemacquiredwhere %}Acquired in {{ page.itemacquiredwhere }}. {% endif %}
+			{% if page.itemdatemade %}Acquired on {{ page.itemdatemade }}. {% endif %}
+			{% endif %}
 			<!-- Post Tags and Categories -->
 			<ul class="tags">
 				{% assign sortedCategories = page.categories | sort %}
@@ -51,11 +56,15 @@ permalink: "/items"
 
 			<!-- Post Content -->
 			<div class="article-post">
-				<h4 id="about-this-object">About this object</h4>
-					{{ page.itemabout | markdownify }}
+				{%if page.itemabout %}<h4 id="about-this-object">About this object</h4>
+					{{ page.itemabout | markdownify }}{% endif %}
 
 				{%if page.itemquote %}<h4 id="why-this-object-matters"> Why this object matters</h4>
 					<blockquote>{{ page.itemquote | markdownify }}</blockquote>{% endif %}
+			
+			
+			{{ content }}
+			
 			</div>
 
 

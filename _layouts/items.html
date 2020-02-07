@@ -9,9 +9,9 @@ permalink: "/items"
 <div class="row listrecent"> 
 {% assign pages_list = docs %}
 {% for item in site.items %}
-{% if item.shortdesc != null %}
+{% comment %}{% raw %}{% if item.shortdesc != null %}{% endraw %}{% endcomment %}
 {% include itembox.html %}
-{% endif %}
+{% comment %}{% raw %}{% endif %}{% endraw %}{% endcomment %}
 {% endfor %}
 </div>    
 

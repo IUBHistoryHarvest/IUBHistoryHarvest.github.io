@@ -52,16 +52,12 @@ permalink: "/stories"
 
 			<div class="section-title col-md-12 mt-4" style="padding: 0;">
 			<!-- Post Featured Image -->
-			{% if page.itemid %}	
-			<img class="featured-image img-fluid" src="/assets/items/{{ page.itemid }}.jpg" alt="{{ page.title }}">
-			{% endif %}
 			{% assign pages_list = docs %}
 			{% for item in site.items %}
-			{% if page.featureditem contains item.itemid %}   
+			{% if page.featureditems contains item.itemid %}   
 			{% include featuredbox.html %}
 			{% endif %}
 			{% endfor %}
-			<!-- End Featured Image -->
 			</div>
 			
 			<div class="row listrecent"> 
@@ -89,4 +85,4 @@ permalink: "/stories"
 <!-- End Article
 ================================================== -->
 
-  
+ 
