@@ -14,6 +14,8 @@ To kick-start that process, each person in our class started the semester by wri
 
 In addition to the digital exhibit presented here, we also designed and installed an exhibit at the University Archives in IU’s Well’s Library.
 
+<!--How do the social and cultural influences of the object tell a story about how this person expresses themselves?-->
+
 ### Our Experiences and Methods
 
 As digital history students we studied three domains of methods for analysis of historical data:  Text Analaysis, Mapping, and Network Analysis.
