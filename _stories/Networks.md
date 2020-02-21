@@ -2,14 +2,6 @@
 layout: story
 title: Connecting the IU community 
 exhibittitle: "Network analysis as a way to understand the global shape of the IU Community"
-featureditems:
- - 2019-10-11-0002
- - 2019-10-10-0001
- - 2019-10-08-0005
- - 2019-10-09-0005
-selecteditems:
- - 2019-10-03-0010
- - 2019-10-03-0018
 ---
 
 
