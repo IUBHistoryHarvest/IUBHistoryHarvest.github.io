@@ -8,6 +8,13 @@
 	display:inline;
 }
 
+.blockquote {
+border-left: 4px solid #00ab6b;
+padding: 0 20px;
+font-style: italic;
+color: rgba(0,0,0,.5);
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax",
