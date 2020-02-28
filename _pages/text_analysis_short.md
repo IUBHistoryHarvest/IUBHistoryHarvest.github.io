@@ -1,3 +1,9 @@
+---
+layout: default
+title: Text Analysis
+permalink: /methods/text-analysis.html
+---
+
 # Text Analysis
 Working with large collections of historical records like letters, transcribed interviews, and newspapers can be very challenging and time consuming. Text analysis, or data mining, is a method of “reading” which treats words like they are data and allows us to read texts in new ways.  The method may include many ways of statistically analyzing a corpus.     
 

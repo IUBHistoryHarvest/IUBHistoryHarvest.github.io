@@ -1,3 +1,9 @@
+---
+layout: default
+title: Mapping Analysis
+permalink: /methods/mapping-analysis.html
+---
+
 # Mapping
 
 >An interesting block quote from an undergraduate about their process and learning will go here and look beautiful.

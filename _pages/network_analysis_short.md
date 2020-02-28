@@ -1,3 +1,9 @@
+---
+layout: default
+title: Network Analysis
+permalink: /methods/network-analysis.html
+---
+
 # Network Analysis
 Everything around us is connected. In the same way that a map shows how roads connect places together, “networks” show how people, events, objects, places, and even ideas are connected together by the relationships between them. Network analysis is a way of visualizing this interconnectedness and noticing what might be less obvious otherwise. 
 

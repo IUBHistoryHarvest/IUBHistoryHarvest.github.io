@@ -26,10 +26,16 @@ Mapping connected us spatially with the larger world, helping us to see geograph
 
 Network Analysis helped us visualize the History Harvest objects and their connections to one another, broadening our understanding of how relationships among these objects are situated in a social, political, and cultural context.
 
-[Student input]
-
+>I liked interacting with others in the historical process and seeing how digital modes give us a different way of looking at history. **--A student who participated in the History Harvest**
 
 #### Special Thanks To
-[to be filled in]
-
-Explore →
+- IDAH, CRRES, and the Department of History here at IU.
+- The community and student group behind [Remembering Rondo](http://rememberingrondo.org) for the exemplar that guided us as we did our History Harvest with our own community.
+- The [History Department at the University of Nebraska-Lincoln](https://history.unl.edu) for piloting the History Harvest concept in 2010.
+- The folks who helped carry out the Spring 2019 History Harvest
+	- Students in Spring 2019 HIST-A200 Digital Public History
+	- [Carrie Schwier](https://libraries.indiana.edu/carrie-schwier), Outreach and Public Services Archivist at the [Indiana University Archives](https://libraries.indiana.edu/archives), and the rest of the University Archives team who helped with initial research and provided space for the physical exhibit
+	- Andrea Hadsell, Education Manager at the [The Monroe County History Center](https://monroehistory.org), who opened MCHC's doors to the class and provided guidance for the community-history aspect of the History Harvest.
+	- [Sarah Hatcher](https://mathersmuseum.indiana.edu/about1/staff/sarah-hatcher.html), Head of Programs and Education at the [Mathers Museum of World Cultures](https://mathersmuseum.indiana.edu), who helped the class think about exhibition and collection best-practices.
+	- [Rebecca Wingo](http://rebeccawingo.com), Assistant Professor of History and Director of Public History at the [University of Cincinnati](https://www.uc.edu), who provided ethics guidance and organizational structure for the History Harvest.
+	- [Dean Gutjahr](https://college.indiana.edu/about/leadership/gutjahr-paul.html) and the rest of the [ASURE](https://college.indiana.edu/academics/opportunities/asure/) team for building the program and hosting the end-of-term poster session (at which one of our History Harvest team won a judges award)
