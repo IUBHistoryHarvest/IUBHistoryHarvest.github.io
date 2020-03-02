@@ -1,4 +1,16 @@
+---
+layout: default
+title: A History Harvest Bibliography
+permalink: /methods/bibliography.html
+---
+
 # Bibliography
+
+## History Harvests and Community Engagement
+
+- The community and student group behind [Remembering Rondo](http://rememberingrondo.org) for the exemplar that guided us as we did our History Harvest with our own community.
+- The [History Department at the University of Nebraska-Lincoln](https://history.unl.edu) for piloting the History Harvest concept in 2010.
+- [Rebecca Wingo](http://rebeccawingo.com), Assistant Professor of History and Director of Public History at the [University of Cincinnati](https://www.uc.edu), who provided ethics guidance and organizational structure for the History Harvest.
 
 ## Network Analysis
 
