@@ -15,7 +15,7 @@ selecteditems:
 
 - How can the analysis of diction and syntax help researchers connect seemingly different individuals or groups?
 
-By dissecting the transcribed interviews of our history harvest participants, we, in turn, have started to build a broader understanding of descriptive speech patterns, specifically regarding their unique objects. Whether it be varying socio-economic, political, geographic, or cultural backgrounds—the individuals consistently attached sentimental meanings to objects of all shapes and sizes. Understanding the relationship between owner and object, particularly the way the owner speaks about said object, is key to understanding how the pair interact daily. With this information in mind, we aim to pair interactions and descriptive speech patterns together. Essentially, we are slowly creating a model that would predict how unlike individuals could come together over similar feelings, actions, and object use. With the city of Bloomington as our example, we intend to identify and explain any trends that present themselves successfully.
+By dissecting the transcribed interviews of our history harvest participants, we have started to build a broader understanding of descriptive speech patterns, specifically regarding their unique objects. Whether it be varying socio-economic, political, geographic, or cultural backgrounds—the individuals consistently attached sentimental meanings to their objects of all shapes and sizes. Understanding the relationship between owner and object, particularly the way the owner speaks about their object, is key to understanding how the pair interact daily. With this information in mind, we aim to pair interactions and descriptive speech patterns together. Essentially, we are slowly creating a model that would predict how unlike individuals could come together over similar feelings, actions, and object use. With the city of Bloomington as our example, we intend to identify and explain any trends that present themselves successfully.
 
 ## Process of analysis
 
@@ -23,7 +23,7 @@ By dissecting the transcribed interviews of our history harvest participants, we
 
 The collection of the transcripts went smoothly. Thanks to the class, and additional help transcribing the interviews fairly early along in the process, it was as simple as having a file full of them added to our Text Analysis Box folder. 
 
-- Separate objects into three different groups: *Apparel, Household items and Miscellaneous*
+- Separate objects into three different groups: *Handcrafted, Manufactured and Miscellaneous items*
 
 The creation of object groups and separation of said groups was not demanding. Although, it was time-consuming to carefully think the groups that best represented the body of objects, and in turn, sort them accordingly.
 
@@ -37,13 +37,13 @@ Uploading our transcripts into Voyant was simple… but not at first. This was a
 
 In computing, stop words are the most commonly used words in a language. In turn, it only logically makes sense that stop word lists are sorted out before the processing of the natural language data. Removing them before running the data provides a more clean and efficient use of a program like Voyant. However, it should be stated that stop word lists are ironic. Our group expected them to be relatively straight forward and provide definite results. Yet, the stop word lists did present some challenges initially. While the use of different curvy quotes such as ‘vs.’ usually is not even recognized by human readers, computers will always catch it. Consequently, we learned that we needed to double-check our stop word lists for both sets of curvy quotes to avoid skipping over any common conjunctions that used an odd curvy quote. Additionally, we realized that there is no such thing as a complete stop word list. When should you stop? What is too specific, and is that even a thing? To combat that uncertainty, we elected to create basic stop lists for our three categories of household, apparel, and miscellaneous. From there, we expanded them based on their specific words.
 
-## Object Groups: Apparel, Household items, Miscellaneous items
+## Object Groups: Handcrafted, Manufactured, Miscellaneous items
 
-*Apparel*
+*Handcrafted*
 
 ![alt text](https://h301historyharvest.github.io/H301HistoryHarvest/assets/images/voyant.png "Voyant Screen Capture")
 
-*Household items*
+*Manufactured*
 
 ![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/HouseholdScreenshot.png "Voyant Screen Capture")
 
