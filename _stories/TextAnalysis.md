@@ -23,11 +23,11 @@ By dissecting the transcribed interviews of our history harvest participants, we
 
 The collection of the transcripts went smoothly. Thanks to the class, and additional help transcribing the interviews fairly early along in the process, it was as simple as having a file full of them added to our Text Analysis Box folder. 
 
-- Separate objects into three different groups: *Handcrafted, Manufactured and Miscellaneous items*
+- Separate objects into three different groups: *Handcrafted, Manufactured and The Outlier*
 
 The creation of object groups and separation of said groups was not demanding. Although, it was time-consuming to carefully think the groups that best represented the body of objects, and in turn, sort them accordingly.
 
-![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/ExcelScreenshot.png "Excel Screen Capture")
+![alt text](https://github.com/IUBHistoryHarvest/IUBHistoryHarvest/blob/master/assets/images/Screenshot%20of%20Excel%20File.png "Voyant Screen Capture")
 
 - Group and upload transcripts onto *Voyant*
 
@@ -37,29 +37,54 @@ Uploading our transcripts into Voyant was simple… but not at first. This was a
 
 In computing, stop words are the most commonly used words in a language. In turn, it only logically makes sense that stop word lists are sorted out before the processing of the natural language data. Removing them before running the data provides a more clean and efficient use of a program like Voyant. However, it should be stated that stop word lists are ironic. Our group expected them to be relatively straight forward and provide definite results. Yet, the stop word lists did present some challenges initially. While the use of different curvy quotes such as ‘vs.’ usually is not even recognized by human readers, computers will always catch it. Consequently, we learned that we needed to double-check our stop word lists for both sets of curvy quotes to avoid skipping over any common conjunctions that used an odd curvy quote. Additionally, we realized that there is no such thing as a complete stop word list. When should you stop? What is too specific, and is that even a thing? To combat that uncertainty, we elected to create basic stop lists for our three categories of household, apparel, and miscellaneous. From there, we expanded them based on their specific words.
 
-## Object Groups: Handcrafted, Manufactured, Miscellaneous items
+## Object Groups: Handcrafted, Manufactured and The Outlier 
 
 *Handcrafted*
 
-![alt text](https://h301historyharvest.github.io/H301HistoryHarvest/assets/images/voyant.png "Voyant Screen Capture")
+![alt text](https://github.com/IUBHistoryHarvest/IUBHistoryHarvest/blob/master/assets/images/Handcrafted.png "Voyant Screen Capture")![alt text](https://github.com/IUBHistoryHarvest/IUBHistoryHarvest/blob/master/assets/images/Handcrafted%20linked%20words.png "Voyant Screen Capture")
 
 *Manufactured*
 
-![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/HouseholdScreenshot.png "Voyant Screen Capture")
+![alt text](https://github.com/IUBIUBIUBHistoryHarvest/IUBIUBIUBHistoryHarvest/blob/master/assets/images/Manufactured.png "Voyant Screen Capture")![alt text](https://github.com/IUBIUBIUBHistoryHarvest/IUBIUBIUBHistoryHarvest/blob/master/assets/images/Manufactured%20linked%20words.png "Voyant Screen Capture")
 
-*Miscellaneous*
+*The Outlier*
 
-![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/voyant%20screenshot.png "Voyant Screen Capture")
+![alt text](https://IUBIUBIUBhistoryharvest.github.io/IUBIUBIUBHistoryHarvest/assets/images/Malachi.png "Voyant Screen Capture")![alt text](https://github.com/IUBIUBIUBHistoryHarvest/IUBIUBIUBHistoryHarvest/blob/master/assets/images/Malachi%20linked%20words.png "Voyant Screen Capture")
 
-This Section was filled with items that were considered a majority of different random items that people had. Form keychains to photocards, these items all represented the people and their personal identities while also connecting them to the people within the city of Bloomington. During my study, I found that most miscellaneous items were ones that people retrieved from areas outside Bloomington at some point in their life. However, it connects with the people who had miscellaneous things in Bloomington because they both provided a sense of comfort for each individual. 
+Malachi we decided was in need of his own category. He did not fit in either of the above categories, seeing as how we cannot manufacture or handcraft a living animal. In his owner's interview, she talked about how she rescued him from a shelter, and how he allows her to leave the house and socialize with others by taking him on walks and to the dog park, pushing her out of her comfrot-zone. With her interview, and seeing Malachi, there was not a way we could fit him in either *handcrafted* or *manufactured*.
 
-The objects are divided in three different secitons: apparels, household objects, and other miscellaneous items. 
+## Other Groups for the Objects 
+When we started to look at the objects more closely, we started to see that they could be grouped into smaller categories, too. These categories are: Tradition/Ritual/Habit, Accomplishments, International Culture, Family, and Art/Artwork.
 
-Several paragraphs, some of them adapted from your individual research on your objects, go here. Think about the connections from your secondary sources and how some of the other objects from our history harvest fit those connections.
+These groups were chosen becase of the way their contributors talked about their individual objects, and the main focus words we saw appear when we ran a meta-corpus analysis. You can see above in the *Handcrafted* category that some of the largest words are *family, culture, home, tattoo* and in *Manufactured*, we see some similar words appear. From these, we decided that the categories above could yeild another level of depth. 
 
-Several paragraphs on the results you see from your text analyis so far.
+Note that each of these word clouds contain the 55 most common words for each group of transcripts, post-stop word list. We also decided to keep the word *People* out of the stop-word list. This was because we felt that seeing that how our contributors viewed themselves in relation to other people and cultures was important to show.
 
-## A conclusion
+# Tradition/Ritual/Habit
+![Word Cloud for Tradtion/Ritual/Habit Items](https://IUBIUBhistoryharvest.github.io/IUBIUBHistoryHarvest/assets/images/tradition.png "Voyant Screen Capture")
 
-A conclusion about how text analysis together with the research you did on your individual objects helped you answer your research question.
+When we look at these items, we can see words lke *wearing, started, hunting, Christmas, and birthday* all start to appear. Alone, these words may not seem like much, other than maybe holidays and activities. However, when we see words like *phone, lipstick, coffee, friends, and family* appear just as large, it tells us that all of these objects have to do with some sort of ritual, tradition, or habit that people have. Traditions, rituals, and habits play a daily role in our lives. If we take coffee for instance, it is no secret that may people drink coffee on a daily level, be it before work, at work, school, in a coffee shop, etc. This we can classify as both a habit and a ritual: habit for it being "everyday" and ritual for it being part of their morning routine. If we take birthday or Christmas, this is where we see tradition come into the fold. Many people have their own traditions for special occasions; going to church and hanging lights for Christmas, and lighting and blowing out candles for a birthday celebration are just two examples, and both of these also cross into ritual also, by singing songs (Happy Birthday), or a candle lighting/tree lighting during a Christmas celebration at home or at church. 
 
+# Accomplishments 
+![Word Cloud for Accomplishments Items](https:/IUBhistoryharvest.github.io/IUBHistoryHarvest/assets/images/accomplishments.png "Voyant Screen Capture")
+
+When we look at this word cloud, we can see words like *undergraduate, school, special, degree, graduation, and celebrate* appear. When we see these, even though the sample size for this category is small, is that all these objects have to pertain to accomplishments in some matter. We have a Ph.D. pin, sashes from graduation, a candle from a graduation ceremony, and a book that was published, all showing a major moment in their contributor's lives.
+
+# International Culture
+![Word Cloud for International Culture Items](https://IUBhistoryharvest.github.io/IUBHistoryHarvest/assets/images/culture.png "Voyant Screen Capture")
+
+When we look at this word cloud, the first words that stand out are *brazil, samba, culture, dance, and different*. Seeing this, we can notice that international culture played a big role in the ways that people talked about their objects. Brazil was not the only location where these objects had cultural significance, Japan, Mexico, Africa and Puerto Rico also had items with significance shown. This allowed us to see a multitude of things, the most profond being that people, even though they reside and feel connected to the Bloomington/Indiana Univiersity communities, also felt connected to the cultures where their items either orginated from or where they are tradionally involved in the culture's lives, festivities, etc.
+
+# Family
+![Word Cloud for Family Items](https://IUBhistoryharvest.github.io/IUBHistoryHarvest/assets/images/family.png "Voyant Screen Capture")
+
+As anticipated, when we see this word cloud, *family* is the largest word. Other words that appear largely are *mom, cousins, kids, auntie, and dog*. What this cloud tells us is that people view their objects have a connection to their family, be it the classic definition of family (mom, dad, siblings, etc.), or to what they consider their family. This also gives us knowledge of how something like a painting, dog, or blanket can remind someone that they are part of a larger, more personal community.
+
+# Artwork
+![Word Cloud for Artwork Items](https://IUBhistoryharvest.github.io/IUBHistoryHarvest/assets/images/artwork.png "Voyant Screen Capture")
+
+Lastly, in this word cloud, we can see a varity of words appear: *tattoo, plate, cleats, alebrija* and some colors and ways art is expressed: *colors, black, show, blue*. What this category represents is the different ways that someone expresses their identity. We had people bring us objects that represented culture, conections, and community in the forms of tattoos, a plate that doubles as a musical instrument, a beach wrap that represents Oshun, a god in Brazilian culture, and a picture of the Gorn from Star Trek that expresses a continuing love for inside jokes between a man and his mother. 
+
+## In Conclusion
+
+Text analysis allowed us to take information that people gave us in their interviews and, using what they told us, use that information to make connections about what, or in one case, who, they contributed. The way they talked about their contributions allowed us to seperate them into three main categories, and from there, six additional subcategories, seeing that some categories had contributions that spanned multiple ones. These categories let us visualize how seemingly different objects and people can be connected through their objects and their words.
