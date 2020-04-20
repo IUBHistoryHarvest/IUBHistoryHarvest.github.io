@@ -20,7 +20,7 @@ The Dorodango collection is a collection of mudballs that were collected by the 
 
 ## Network analysis as a way of understanding your research question
 
-![](/IUBHistoryHarvest/assets/images/Screen Shot 2019-12-17 at 5.21.09 PM.png)
+![](/assets/images/Screen Shot 2019-12-17 at 5.21.09 PM.png)
 
 We defined nodes as objects, locations, and tags, and our edges as "is connected to..." Of the information we had available, selecting these as our nodes and identifying the edges as "is connected to..." made the most sense organizationally. By doing this, we hoped that the connections between the objects and the tags would be clearly illustrated. Our method was for each group member to focus on one item at a time, create a node for that item, create nodes for tags and locations relating to that item, and then connect that item to those nodes. Once each member added all of the tags and locations for the object and connected them via edges, we moved on to the next object on the list. 
 
@@ -32,7 +32,7 @@ In further analysis of the betweenness of centrality, we found that “education
 
 However, where we see what the computer can do that we are unable to do is breakdown all of the nodes into factions, including the nodes that are between that we would have missed in our attempt of faction analysis above. It shows us that we have actually nine communities that are closely related. There are multiple colors that are connected to “cultural value” and “individual expression,” which shows how those tags affect and are affected by objects of different factions. 
 
-![](/IUBHistoryHarvest/assets/images/Network2_Factions.png)
+![](/assets/images/Network2_Factions.png)
 
 Some of the problems that we ended up running into were how are we going to add different nodes for some objects and what needed to go where.  We added every single one of the objects, but it was tough at times figuring out ways to decide what went with what.  When looking at each object, we looked at trying to add key words from the transcript.  We also wanted to try to tie everything into individual expression, which could be hard at times if that object wasn’t expressing someone in certain ways.  I think it was also hard to come up with some tags, but we tried to accommodate everything that was given to us.  
 

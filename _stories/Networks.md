@@ -18,11 +18,11 @@ We used a program called Net.Create to analyze the network data from our History
 
 <div class="row">
   <div class="col-md-8" markdown="1">
-![](/IUBHistoryHarvest/assets/images/Blackboard_Model.jpeg)
-One group hand-sketched a base model on a blackboard (digital recreation shown above) depicting how objects, their contributors, and their significance might link together to see how they would all connect to a larger sense of community here at Indiana University. Using this model, the student researchers were able to explore how seemingly different objects all came together here at Indiana University, from their different cultural backgrounds and different locations around the world. This led us to divide our objects based on their cultural context, individuality, and/or location of origin. Not all of the objects fell into all three of the categories, some only fell into one.
+![](/assets/images/Blackboard_Model.jpeg)
+*Fig. 1: One group hand-sketched a base model on a blackboard (digital recreation shown above) depicting how objects, their contributors, and their significance might link together to see how they would all connect to a larger sense of community here at Indiana University. Using this model, the student researchers were able to explore how seemingly different objects all came together here at Indiana University, from their different cultural backgrounds and different locations around the world. This led us to divide our objects based on their cultural context, individuality, and/or location of origin. Not all of the objects fell into all three of the categories; some only fell into one.*
   </div>
   <div class="col-md-4" markdown="1">
-![](/IUBHistoryHarvest/assets/images/Screen Shot 2019-12-17 at 5.21.09 PM.png)
+![](/assets/images/Screen Shot 2019-12-17 at 5.21.09 PM.png)
 A second group started with a looser taxonomy using objects, locations, and tags as nodes with a looser "is connected to..." edge type. This research group's goal was to see connections between the objects and the tags develop as they entered data from the collected objects. Our method was for each group member to focus on one item at a time, create a node for that item, create nodes for tags and locations relating to that item, and then connect that item to those nodes. Once each member added all of the tags and locations for the object and connected them via edges, we moved on to the next object on the list. 
    </div>
 </div>
@@ -32,12 +32,15 @@ One of the beautiful aspects of network analysis is that it allows us to use the
 Networks allow us to see the underlining connections that are not always present on the surface. When we started to collect the information given to us from the History Harvest, we learned how people and what they contributed were connected. From their interviews about their contributions, we learned multiple things: where they obtained their object, where they were from, how their object connected them to a community, and why they decided to bring that specific object to us. With all this information, we were able to start connecting the objects' journey. 
 
 Our two questions that we ended up asking were:
-•	How does meaning and sentimentality factored into the objects an individual owns?
-•	How do objects that people and communities own reflect the societies they are in?
 
-![](/IUBHistoryHarvest/assets/images/NetworkModelCombined.jpg)
+- How does meaning and sentimentality factored into the objects an individual owns?
+- How do objects that people and communities own reflect the societies they are in?
 
-Above, you can see a ~pattern~ *potential model** that emerges when we ~look at~ *combine the models and patterns visible in* both networks. Four areas of focus start to come together to paint the picture that the two different networks created: Object, Location, Theme, and Purpose. Group 1's focus on Individual Expression and Cultural Value highlights three of these categories: Object, Location, and Theme. The Objects and Location aspects are straight forward; what is the object and where does it come from? The Theme category is where their method of research and organization starts to come together; what do the objects have in common, or, what are their purpose? Paul and/or Ashley, can one of you write about your findings briefly here?
+![](/assets/images/NetworkModelCombined.jpg)
+
+Above, you can see a ~~pattern~~ __potential model__ that emerges when we ~~look at~~ __combine the models and patterns visible in__ both networks. Four areas of focus start to come together to paint the picture that the two different networks created: Object, Location, Theme, and Purpose. Group 1's focus on Individual Expression and Cultural Value highlights three of these categories: Object, Location, and Theme. The Objects and Location aspects are straight forward; what is the object and where does it come from? The Theme category is where their method of research and organization starts to come together; what do the objects have in common, or, what are their purpose?
+
+**Group 1 research reset Kalani**
 
 Group 2’s research explains the connection between Object, Person, and Theme, and briefly touches on the location. Here, taking the person and their object, and finding the reason the object gives them a sense of identity or community. This allowed us to see how objects were connected with a different theme than Group 1. 
 
