@@ -38,7 +38,7 @@ Our two questions that we ended up asking were:
 
 ![](/assets/images/NetworkModelCombined.jpg)
 
-Above, you can see a ~~pattern~~ __potential model__ that emerges when we ~~look at~~ __combine the models and patterns visible in__ both networks. Four areas of focus start to come together to paint the picture that the two different networks created: Object, Location, Theme, and Purpose. Group 1's focus on Individual Expression and Cultural Value highlights three of these categories: Object, Location, and Theme. The Objects and Location aspects are straight forward; what is the object and where does it come from? The Theme category is where their method of research and organization starts to come together; what do the objects have in common, or, what are their purpose?
+Above, you can see a potential model that emerges when we combine the models and patterns visible in both networks. Four areas of focus start to come together to paint the picture that the two different networks created: Object, Location, Theme, and Purpose. Group 1's focus on Individual Expression and Cultural Value highlights three of these categories: Object, Location, and Theme. The Objects and Location aspects are straight forward; what is the object and where does it come from? The Theme category is where their method of research and organization starts to come together; what do the objects have in common, or, what are their purpose?
 
 **Group 1 research reset Kalani**
 
