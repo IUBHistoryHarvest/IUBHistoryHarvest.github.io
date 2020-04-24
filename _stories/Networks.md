@@ -18,11 +18,11 @@ We used a program called Net.Create to analyze the network data from our History
 
 <div class="row">
   <div class="col-md-8" markdown="1">
-![](/assets/images/Blackboard_Model.jpeg){:width="50%"}
+![](/assets/images/Blackboard_Model.jpeg){:width="100%"}
 *Fig. 1: One group hand-sketched a base model on a blackboard (digital recreation shown above) depicting how objects, their contributors, and their significance might link together to see how they would all connect to a larger sense of community here at Indiana University. Using this model, the student researchers were able to explore how seemingly different objects all came together here at Indiana University, from their different cultural backgrounds and different locations around the world. This led us to divide our objects based on their cultural context, individuality, and/or location of origin. Not all of the objects fell into all three of the categories; some only fell into one.*
   </div>
   <div class="col-md-4" markdown="1">
-![](/assets/images/Screen Shot 2019-12-17 at 5.21.09 PM.png){:width="50%"}
+![](/assets/images/Screen Shot 2019-12-17 at 5.21.09 PM.png){:width="100%"}
 A second group started with a looser taxonomy using objects, locations, and tags as nodes with a broader "is connected to..." edge type. This research group's goal was to see connections between the objects and the tags develop as they entered data from the collected objects. Our method was for each group member to focus on one item at a time, create a node for that item, create nodes for tags and locations relating to that item, and then connect that item to those nodes. Once each member added all of the tags and locations for the object and connected them via edges, we moved on to the next object on the list. 
    </div>
 </div>
