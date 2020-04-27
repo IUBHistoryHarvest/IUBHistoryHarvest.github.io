@@ -5,6 +5,7 @@ permalink: /stories/index.html
 comments: false
 ---
 
-As part of the History Harvest, each student in the course chose an object significant to them. We explored that object's history, looked for objects like it in the IU archives, at the Monroe County History Center, at the Mathers Museum of World Cultures, and in the objects that our fellow Hoosiers brought to the History Harvest.
-
-These are our stories. We hope you'll add yours by [taking our survey and bringing an object to our History Harvest on March 19 or March 22](https://docs.google.com/forms/d/e/1FAIpQLScnAh6QqC09MJleFKIM7MMxayxLX2HFWQAoQvzNXnpdD8vU4w/viewform?usp=sf_link)
+As digital history students, we studied three domains of methods for analysis of historical data:  Text Analaysis, Mapping, and Network Analysis.
+- Text Analysis gave us a larger overview of transcripts of oral history interviews and how they relate to one another.
+- Mapping connected us spatially with the larger world, helping us to see geographic connections between Bloomington and other parts of the world.
+- Network Analysis helped us visualize the History Harvest objects and their connections to one another, broadening our understanding of how relationships among these objects are situated in a social, political, and cultural context.

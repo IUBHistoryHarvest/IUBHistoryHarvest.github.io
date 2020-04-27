@@ -1,145 +1,17 @@
 # Site
-name: "IU Bloomington History Harvest"
-title: "IU Bloomington History Harvest"
+name: "Identity Through Objects: Fall 2019 IU Bloomington History Harvest"
+title: "Identity Through Objects: Fall 2019 IU Bloomington History Harvest"
 description: "Every day, we make history. It’s in what we eat, what we say, what we post to social media. It’s also in our homes, our backpacks and our classrooms. The objects presented in this digital exhibit are part of that history."
-meta_description: "A200 ASURE IUB History Harvest"
+meta_description: "H301 Fall 2019 IUB History Harvest"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
 mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
-authors:
-  ben:
-    name: Ben
-    display_name: Ben Dance
-    image: ben.jpg
-    email: bendance@iu.edu
-    web: 
-    twitter: 
-    instagram: 
-    description: Media Advertising Major @ Indiana University Bloomington
-  brian:
-    name: Brian
-    display_name: Brian Robusto
-    image: brian.jpg
-    email: brobusto@iu.edu
-    web: 
-    twitter: 
-    instagram: brobusto
-    description: Student at Indiana University studying Political Science and Law
-  chelsea:
-    name: Chelsea
-    display_name: Chelsea Villatoro
-    image: chelsea.jpg
-    email: cmvillat@iu.edu
-    web: 
-    twitter: 
-    instagram: 
-    description: Student at Indiana University studying Psychology
-  heather:
-    name: Heather
-    display_name: Heather Hoffmeyer
-    image: heather.jpg
-    email: hrhoffme@iu.edu
-    web: 
-    twitter: heaterhoffmeyer
-    instagram: heaterhoffmeyer
-    description: Exercise Science Major at Indiana University Bloomington
-  jonathan:
-    name: Jonathan
-    display_name: Jonathan
-    image: jonathan.jpg
-    email: 
-    web: 
-    twitter: 
-    instagram: 
-    description: 
-  kalani:
-    name: Kalani
-    display_name: Kalani Craig
-    image: kalani.jpg
-    email: kalani@kalanicraig.com
-    web: http://www.kalanicraig.com
-    twitter: kalanicraig
-    instagram: kalanicraig
-    description: Clinical Assistant Professor of History & Co-director of Institute for Digital Arts & Humanities, Indiana University Bloomington. Nerd of many types.
-  kasey:
-    name: Kasey
-    display_name: Kasey Konz
-    image: kasey.jpg
-    email: 
-    web: 
-    twitter: 
-    instagram: 
-    description: 
-  katie:
-    name: Katie
-    display_name: Katie Jamison
-    image: katie.jpg
-    email: Kjamiso@iu.edu
-    web: 
-    twitter: ktjamison5
-    instagram: ktjamison
-    description: Professional. That’s it 
-  michael:
-    name: Michael
-    display_name: Michael Tetzloff
-    image: michael.jpg
-    email: mtetzlof@iu.edu
-    web: 
-    twitter: 
-    instagram: 
-    description: Undergraduate Chemistry Lab Prep Assistant
-  sarah:
-    name: Sarah
-    display_name: Sarah Gray
-    image: sarah.jpg
-    email: graysar@iu.edu
-    web: 
-    twitter: svrvh
-    instagram: gray.sarah
-    description: Speech and Hearing Sciences major at Indiana University
-  skyler:
-    name: Skyler
-    display_name: Skyler
-    image: skyler.jpg
-    email: 
-    web: 
-    twitter: 
-    instagram: 
-    description: 
-  sydney:
-    name: Sydney
-    display_name: Sydney Smith
-    image: sydney.jpg
-    email: sycsmith@iu.edu
-    web: 
-    twitter: 
-    instagram: _.sydney7._
-    description: Student at Indiana University
-  tara:
-    name: Tara
-    display_name: Tara Rosenwinkel
-    image: tara.jpg
-    email: tararose@iu.edu
-    web: 
-    twitter: tararosenwinkeI
-    instagram: tara.rosenwinkel
-    description: Neuroscience Major at Indiana University Bloomington
-  zoe:
-    name: Zoe
-    display_name: Zoe Swayne
-    image: zoe.jpg
-    email: zswayne@iu.edu
-    web: 
-    twitter: 
-    instagram: __zoemarie__
-    description: IU Bloomington biology student, constantly wishing for the money to afford the clothes I want.
 
 # Plugins
 plugins: 

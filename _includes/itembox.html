@@ -29,12 +29,6 @@
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 <span class="author-meta">
-                <span class="post-date">
-               {% assign sortedCategories = item.categories | sort %}
-               {% for category in sortedCategories %}
-               <a class="btn follow" href="{{site.baseurl}}/groups#{{ category | replace: " ","-" }}">{{ category }}</a>
-               {% endfor %}
-               </span>
                 </span>
                 <div class="clearfix"></div>
             </div>
